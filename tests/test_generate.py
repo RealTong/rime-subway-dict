@@ -520,15 +520,21 @@ def test_generate_project_updates_readme_date_when_city_list_changes(tmp_path: P
 def test_readmes_have_generated_markers():
     for path in [Path("README.md"), Path("README.zh-CN.md")]:
         text = path.read_text(encoding="utf-8")
-        assert generate.GENERATED_START in text
-        assert generate.GENERATED_END in text
+        assert text.count(generate.GENERATED_START) == 1
+        assert text.count(generate.GENERATED_END) == 1
+        assert text.index(generate.GENERATED_START) < text.index(generate.GENERATED_END)
 
 
 def test_github_workflow_runs_generate_and_pytest():
     workflow = Path(".github/workflows/update.yml").read_text(encoding="utf-8")
+    stage_command = "git add -A -- README.md README.zh-CN.md '*.subway.dict.yaml'"
+    diff_command = "git diff --cached --quiet"
 
     assert "workflow_dispatch:" in workflow
     assert "cron:" in workflow
     assert "python -m scripts.generate" in workflow
     assert "pytest" in workflow
     assert "contents: write" in workflow
+    assert stage_command in workflow
+    assert diff_command in workflow
+    assert workflow.index(stage_command) < workflow.index(diff_command)
