@@ -18,7 +18,7 @@ The first version will:
 - Use `pypinyin` for normalized full-pinyin output.
 - Support manual pinyin corrections through `scripts/overrides.toml`.
 - Use a fixed weight of `1` for every entry.
-- Update README generated sections with supported cities and generation time.
+- Update README generated sections with supported cities and the last output update date.
 - Run automatically through GitHub Actions on a weekly schedule and by manual dispatch.
 
 The first version will not:
@@ -69,7 +69,8 @@ use_preset_vocabulary: true
 ```
 
 The `---` line is the YAML document separator required by Rime and must not be commented out.
-The version uses the generation date in `YYYY.MM.DD` format based on Asia/Shanghai local date.
+The version uses the output update date in `YYYY.MM.DD` format based on Asia/Shanghai local date.
+It represents the date the dictionary's generated content last changed, not merely the date the generator last ran.
 
 Entries use exactly three tab-separated fields:
 
@@ -89,7 +90,9 @@ Generated output must be deterministic:
 - README city lists are written in ascending `spell` order.
 - Station rows are sorted by generated pinyin, then station name.
 - `all.subway.dict.yaml` is generated from the globally deduplicated station names and uses the same station row sorting rule.
-- README last generated date is updated only when the generator is run; because the README is committed only when files change, scheduled runs with no generated file changes should not create commits.
+- New dictionary files use the current Asia/Shanghai local date as their initial `version`.
+- If a generated dictionary's station rows are unchanged from the existing file, the generator preserves that file's existing `version` date so scheduled runs do not create date-only diffs.
+- README "Last updated" means the last date generated output content changed. If station rows and the supported city list are unchanged, the generator preserves the existing README date and scheduled runs do not create commits.
 
 ## Deduplication
 
@@ -157,7 +160,7 @@ Both README files include a generated block:
 
 The generator replaces only the content inside this block. The generated content includes:
 
-- Last generated date.
+- Last output update date.
 - Total supported city or region count.
 - Supported city or region list.
 
@@ -204,6 +207,7 @@ Tests cover:
 - Global duplicate station names are removed from `all.subway.dict.yaml`.
 - `scripts/overrides.toml` values override generated pinyin.
 - README generated blocks are replaced without modifying surrounding content.
+- Existing dictionary `version` dates and README "Last updated" dates are preserved when generated station rows and supported city lists are unchanged.
 
 Tests should avoid hitting live AMap endpoints. Network-facing behavior can be covered through small sample payloads and dependency-injected fetch functions.
 
@@ -218,7 +222,7 @@ The README documents:
 - How to use a city dictionary.
 - How to use the all-in-one dictionary.
 - Supported city or region list.
-- Last generation date.
+- Last output update date.
 - How to report incorrect pinyin or missing station names.
 
 ## License and Data Notice
