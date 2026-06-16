@@ -18,6 +18,36 @@ def test_parse_cities_sorts_by_spell():
     assert [city.spell for city in cities] == ["beijing", "shanghai"]
 
 
+@pytest.mark.parametrize("raw_city", [None, [], "beijing"])
+def test_parse_cities_rejects_non_object_city_records(raw_city):
+    with pytest.raises(ValueError, match="citylist item must be an object"):
+        generate.parse_cities({"citylist": [raw_city]})
+
+
+@pytest.mark.parametrize(
+    "raw_city",
+    [
+        {"spell": 1100, "adcode": "1100", "cityname": "北京市"},
+        {"spell": "beijing", "adcode": 1100, "cityname": "北京市"},
+        {"spell": "beijing", "adcode": "1100", "cityname": None},
+        {"spell": "beijing", "adcode": " ", "cityname": "北京市"},
+    ],
+)
+def test_parse_cities_requires_nonempty_string_fields(raw_city):
+    with pytest.raises(
+        ValueError, match="citylist item field must be a nonempty string"
+    ):
+        generate.parse_cities({"citylist": [raw_city]})
+
+
+@pytest.mark.parametrize("spell", ["../x", "beijing/subway", "BeiJing", "bei-jing"])
+def test_parse_cities_rejects_unsafe_spell_slugs(spell):
+    raw_city = {"spell": spell, "adcode": "1100", "cityname": "北京市"}
+
+    with pytest.raises(ValueError, match="unsafe spell slug"):
+        generate.parse_cities({"citylist": [raw_city]})
+
+
 def test_extract_station_names_deduplicates_by_name():
     payload = {
         "l": [
@@ -85,6 +115,16 @@ def test_render_dictionary_rejects_malformed_rows():
         )
 
 
+@pytest.mark.parametrize("weight", ["1", 0, -1, True])
+def test_render_dictionary_rejects_malformed_row_weights(weight):
+    with pytest.raises(ValueError, match="malformed dictionary row"):
+        generate.render_dictionary(
+            "beijing.subway",
+            "2026.06.16",
+            [generate.DictRow("苹果园", "ping guo yuan", weight)],
+        )
+
+
 def test_replace_generated_block_preserves_surrounding_content():
     markdown = "Before\n<!-- generated:start -->\nold\n<!-- generated:end -->\nAfter\n"
 
@@ -96,8 +136,47 @@ def test_replace_generated_block_preserves_surrounding_content():
     )
 
 
+@pytest.mark.parametrize(
+    "markdown",
+    [
+        "Before\nold\n<!-- generated:end -->\nAfter\n",
+        "Before\n<!-- generated:start -->\nold\nAfter\n",
+        "Before\n<!-- generated:end -->\nold\n<!-- generated:start -->\nAfter\n",
+        (
+            "Before\n<!-- generated:start -->\nold\n<!-- generated:start -->\n"
+            "<!-- generated:end -->\nAfter\n"
+        ),
+        (
+            "Before\n<!-- generated:start -->\nold\n<!-- generated:end -->\n"
+            "<!-- generated:end -->\nAfter\n"
+        ),
+    ],
+)
+def test_replace_generated_block_rejects_missing_duplicate_or_invalid_markers(markdown):
+    with pytest.raises(ValueError, match="README generated markers"):
+        generate.replace_generated_block(markdown, "new")
+
+
 def test_load_overrides_reads_pinyin_table(tmp_path: Path):
     path = tmp_path / "overrides.toml"
     path.write_text('[pinyin]\n"重庆" = "chong qing"\n', encoding="utf-8")
 
     assert generate.load_overrides(path) == {"重庆": "chong qing"}
+
+
+@pytest.mark.parametrize(
+    "contents, match",
+    [
+        ('[pinyin]\n"重庆" = 123\n', "override pinyin must be a string"),
+        ('[pinyin]\n"重庆" = "   "\n', "override pinyin must be nonempty"),
+        ('[pinyin]\n"" = "kong"\n', "override name must be nonempty"),
+    ],
+)
+def test_load_overrides_rejects_invalid_pinyin_entries(
+    tmp_path: Path, contents: str, match: str
+):
+    path = tmp_path / "overrides.toml"
+    path.write_text(contents, encoding="utf-8")
+
+    with pytest.raises(ValueError, match=match):
+        generate.load_overrides(path)

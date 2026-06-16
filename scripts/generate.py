@@ -10,6 +10,7 @@ from pypinyin import lazy_pinyin
 
 GENERATED_START = "<!-- generated:start -->"
 GENERATED_END = "<!-- generated:end -->"
+SAFE_SPELL_RE = re.compile(r"^[a-z0-9_]+$")
 
 
 @dataclass(frozen=True)
@@ -44,14 +45,28 @@ def parse_cities(payload: dict) -> list[City]:
         raise ValueError("citylist payload missing list field")
     cities: list[City] = []
     for raw in raw_cities:
+        if not isinstance(raw, dict):
+            raise ValueError(f"citylist item must be an object: {raw!r}")
         try:
-            spell = str(raw["spell"]).strip()
-            adcode = str(raw["adcode"]).strip()
-            cityname = str(raw["cityname"]).strip()
+            spell = raw["spell"]
+            adcode = raw["adcode"]
+            cityname = raw["cityname"]
         except KeyError as exc:
             raise ValueError(f"citylist item missing field: {exc}") from exc
-        if not spell or not adcode or not cityname:
-            raise ValueError(f"citylist item has empty field: {raw!r}")
+        for field, value in (
+            ("spell", spell),
+            ("adcode", adcode),
+            ("cityname", cityname),
+        ):
+            if not isinstance(value, str) or not value.strip():
+                raise ValueError(
+                    f"citylist item field must be a nonempty string: {field}"
+                )
+        spell = spell.strip()
+        adcode = adcode.strip()
+        cityname = cityname.strip()
+        if not SAFE_SPELL_RE.fullmatch(spell):
+            raise ValueError(f"citylist item has unsafe spell slug: {spell!r}")
         cities.append(City(spell=spell, adcode=adcode, cityname=cityname))
     return sorted(cities, key=lambda city: city.spell)
 
@@ -113,6 +128,8 @@ def validate_row(row: DictRow) -> None:
         raise ValueError(f"malformed dictionary row: {row!r}")
     if any(separator in row.pinyin for separator in "\t\r\n"):
         raise ValueError(f"malformed dictionary row: {row!r}")
+    if type(row.weight) is not int or row.weight <= 0:
+        raise ValueError(f"malformed dictionary row: {row!r}")
 
 
 def render_dictionary(dictionary_name: str, version: str, rows: list[DictRow]) -> str:
@@ -140,10 +157,24 @@ def load_overrides(path: Path) -> dict[str, str]:
     pinyin = data.get("pinyin", {})
     if not isinstance(pinyin, dict):
         raise ValueError("overrides.toml [pinyin] must be a table")
-    return {str(name): normalize_pinyin(str(value)) for name, value in pinyin.items()}
+    overrides: dict[str, str] = {}
+    for name, value in pinyin.items():
+        if not isinstance(name, str):
+            raise ValueError("override name must be a string")
+        if not name.strip():
+            raise ValueError("override name must be nonempty")
+        if not isinstance(value, str):
+            raise ValueError(f"override pinyin must be a string: {name}")
+        normalized = normalize_pinyin(value)
+        if not normalized:
+            raise ValueError(f"override pinyin must be nonempty: {name}")
+        overrides[name] = normalized
+    return overrides
 
 
 def replace_generated_block(markdown: str, generated: str) -> str:
+    if markdown.count(GENERATED_START) != 1 or markdown.count(GENERATED_END) != 1:
+        raise ValueError("README generated markers are missing or duplicated")
     start = markdown.find(GENERATED_START)
     end = markdown.find(GENERATED_END)
     if start == -1 or end == -1 or end < start:
