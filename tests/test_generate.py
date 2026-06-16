@@ -515,3 +515,20 @@ def test_generate_project_updates_readme_date_when_city_list_changes(tmp_path: P
     assert "- 北京 (`beijing`)" in (tmp_path / "README.md").read_text(
         encoding="utf-8"
     )
+
+
+def test_readmes_have_generated_markers():
+    for path in [Path("README.md"), Path("README.zh-CN.md")]:
+        text = path.read_text(encoding="utf-8")
+        assert generate.GENERATED_START in text
+        assert generate.GENERATED_END in text
+
+
+def test_github_workflow_runs_generate_and_pytest():
+    workflow = Path(".github/workflows/update.yml").read_text(encoding="utf-8")
+
+    assert "workflow_dispatch:" in workflow
+    assert "cron:" in workflow
+    assert "python -m scripts.generate" in workflow
+    assert "pytest" in workflow
+    assert "contents: write" in workflow

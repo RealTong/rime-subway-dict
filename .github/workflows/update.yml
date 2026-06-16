@@ -1,0 +1,43 @@
+name: Update dictionaries
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 20 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: python -m pip install -e ".[test]"
+
+      - name: Generate dictionaries
+        run: python -m scripts.generate
+
+      - name: Run tests
+        run: pytest
+
+      - name: Commit generated changes
+        run: |
+          if git diff --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- README.md README.zh-CN.md '*.subway.dict.yaml'
+          git commit -m "chore: update subway dictionaries"
+          git push
