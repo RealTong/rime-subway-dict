@@ -28,10 +28,12 @@ use_preset_vocabulary: true
 漕溪路	cao xi lu	1
 曹杨路	cao yang lu	1
 漕盈路	cao ying lu	1
+长风公园	chang feng gong yuan	1
 昌吉东路	chang ji dong lu	1
 长江南路	chang jiang nan lu	1
 长江西路	chang jiang xi lu	1
 昌平路	chang ping lu	1
+长清路	chang qing lu	1
 长寿路	chang shou lu	1
 常熟路	chang shu lu	1
 昌邑路	chang yi lu	1
@@ -100,8 +102,8 @@ use_preset_vocabulary: true
 桂桥路	gui qiao lu	1
 国帆路	guo fan lu	1
 国际客运中心	guo ji ke yun zhong xin	1
-国家会展中心(17号线)	guo jia hui zhan zhong xin (17 hao xian )	1
-国家会展中心(2号线)	guo jia hui zhan zhong xin (2 hao xian )	1
+国家会展中心(17号线)	guo jia hui zhan zhong xin 17 hao xian	1
+国家会展中心(2号线)	guo jia hui zhan zhong xin 2 hao xian	1
 国权路	guo quan lu	1
 海伦路	hai lun lu	1
 海天三路	hai tian san lu	1
@@ -238,14 +240,14 @@ use_preset_vocabulary: true
 宁国路	ning guo lu	1
 潘广路	pan guang lu	1
 蟠龙路	pan long lu	1
-蟠祥路·国家会计学院	pan xiang lu · guo jia kuai ji xue yuan	1
+蟠祥路·国家会计学院	pan xiang lu guo jia kuai ji xue yuan	1
 彭浦新村	peng pu xin cun	1
 平凉路	ping liang lu	1
 浦电路	pu dian lu	1
 浦东1号2号航站楼	pu dong 1 hao 2 hao hang zhan lou	1
 浦东大道	pu dong da dao	1
 浦东南路	pu dong nan lu	1
-浦东南路(原东昌路)	pu dong nan lu ( yuan dong chang lu )	1
+浦东南路(原东昌路)	pu dong nan lu yuan dong chang lu	1
 浦东足球场	pu dong zu qiu chang	1
 浦航路	pu hang lu	1
 浦江镇	pu jiang zhen	1
@@ -372,8 +374,8 @@ use_preset_vocabulary: true
 姚虹路	yao hong lu	1
 耀华路	yao hua lu	1
 野生动物园	ye sheng dong wu yuan	1
-一大会址·黄陂南路	yi da hui zhi · huang pi nan lu	1
-一大会址·新天地	yi da hui zhi · xin tian di	1
+一大会址·黄陂南路	yi da hui zhi huang pi nan lu	1
+一大会址·新天地	yi da hui zhi xin tian di	1
 伊犁路	yi li lu	1
 宜山路	yi shan lu	1
 银都路	yin dou lu	1
@@ -395,11 +397,9 @@ use_preset_vocabulary: true
 云山路	yun shan lu	1
 云顺路	yun shun lu	1
 云台路	yun tai lu	1
-长风公园	zhang feng gong yuan	1
 张华浜	zhang hua bang	1
 张江高科	zhang jiang gao ke	1
 张江路	zhang jiang lu	1
-长清路	zhang qing lu	1
 兆丰路	zhao feng lu	1
 肇嘉浜路	zhao jia bang lu	1
 赵巷	zhao xiang	1

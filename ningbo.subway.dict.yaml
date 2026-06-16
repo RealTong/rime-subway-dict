@@ -32,7 +32,7 @@ use_preset_vocabulary: true
 大通桥	da tong qiao	1
 大洋江	da yang jiang	1
 东环南路	dong huan nan lu	1
-东门口(天一广场)	dong men kou ( tian yi guang chang )	1
+东门口(天一广场)	dong men kou tian yi guang chang	1
 东钱湖	dong qian hu	1
 段塘	duan tang	1
 儿童公园	er tong gong yuan	1
@@ -162,7 +162,7 @@ use_preset_vocabulary: true
 永茂路	yong mao lu	1
 俞范	yu fan	1
 院士路	yuan shi lu	1
-云飞路(康桥南)	yun fei lu ( kang qiao nan )	1
+云飞路(康桥南)	yun fei lu kang qiao nan	1
 云林西路	yun lin xi lu	1
 云龙	yun long	1
 云霞路	yun xia lu	1
@@ -170,7 +170,7 @@ use_preset_vocabulary: true
 张家潭	zhang jia tan	1
 招宝山	zhao bao shan	1
 朝阳	zhao yang	1
-镇海大道(慈海)	zhen hai da dao ( ci hai )	1
+镇海大道(慈海)	zhen hai da dao ci hai	1
 镇海市民广场	zhen hai shi min guang chang	1
 正大路	zheng da lu	1
 钟公庙	zhong gong miao	1

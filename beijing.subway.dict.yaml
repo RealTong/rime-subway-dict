@@ -51,10 +51,12 @@ use_preset_vocabulary: true
 草房	cao fang	1
 草桥	cao qiao	1
 茶棚	cha peng	1
+长椿街	chang chun jie	1
 长春桥	chang chun qiao	1
 昌平	chang ping	1
 昌平东关	chang ping dong guan	1
 昌平西山口	chang ping xi shan kou	1
+长阳	chang yang	1
 常营	chang ying	1
 车道沟	che dao gou	1
 车公庄	che gong zhuang	1
@@ -401,9 +403,7 @@ use_preset_vocabulary: true
 圆明园	yuan ming yuan	1
 枣营	zao ying	1
 枣园	zao yuan	1
-长椿街	zhang chun jie	1
 张郭庄	zhang guo zhuang	1
-长阳	zhang yang	1
 张自忠路	zhang zi zhong lu	1
 朝阳公园	zhao yang gong yuan	1
 朝阳门	zhao yang men	1

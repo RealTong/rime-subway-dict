@@ -23,6 +23,7 @@ use_preset_vocabulary: true
 兵希	bing xi	1
 草鞋山	cao xie shan	1
 察院场	cha yuan chang	1
+长泾	chang jing	1
 常楼	chang lou	1
 长亭	chang ting	1
 车坊	che fang	1
@@ -185,8 +186,8 @@ use_preset_vocabulary: true
 通园路南	tong yuan lu nan	1
 团结桥	tuan jie qiao	1
 望星桥苏大	wang xing qiao su da	1
-唯亭(花桥)	wei ting ( hua qiao )	1
-唯亭(苏州新区火车站)	wei ting ( su zhou xin qu huo che zhan )	1
+唯亭(花桥)	wei ting hua qiao	1
+唯亭(苏州新区火车站)	wei ting su zhou xin qu huo che zhan	1
 文昌路	wen chang lu	1
 文化博览中心	wen hua bo lan zhong xin	1
 文溪路	wen xi lu	1
@@ -236,7 +237,6 @@ use_preset_vocabulary: true
 月亮湾	yue liang wan	1
 越溪	yue xi	1
 章基路南	zhang ji lu nan	1
-长泾	zhang jing	1
 张庄	zhang zhuang	1
 正仪	zheng yi	1
 钟南街	zhong nan jie	1

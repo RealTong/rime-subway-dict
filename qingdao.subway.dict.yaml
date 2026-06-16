@@ -11,7 +11,7 @@ use_preset_vocabulary: true
 安顺路	an shun lu	1
 安子	an zi	1
 鳌山卫	ao shan wei	1
-扒山(滨海学院)	ba shan ( bin hai xue yuan )	1
+扒山(滨海学院)	ba shan bin hai xue yuan	1
 北九水	bei jiu shui	1
 北岭	bei ling	1
 北门外	bei men wai	1
@@ -49,22 +49,22 @@ use_preset_vocabulary: true
 沟岔	gou cha	1
 古镇口	gu zhen kou	1
 观涛	guan tao	1
-观象山(市立医院)	guan xiang shan ( shi li yi yuan )	1
+观象山(市立医院)	guan xiang shan shi li yi yuan	1
 广饶路	guang rao lu	1
 国际邮轮港	guo ji you lun gang	1
 海安路	hai an lu	1
 海川路	hai chuan lu	1
 海尔路	hai er lu	1
 海泊河公园	hai po he gong yuan	1
-海泊桥(海慈医疗)	hai po qiao ( hai ci yi liao )	1
+海泊桥(海慈医疗)	hai po qiao hai ci yi liao	1
 海信桥	hai xin qiao	1
 海洋大学	hai yang da xue	1
 海游路	hai you lu	1
-河洛埠(中德生态园)	he luo bu ( zhong de sheng tai yuan )	1
+河洛埠(中德生态园)	he luo bu zhong de sheng tai yuan	1
 横云山路	heng yun shan lu	1
 红岛火车站	hong dao huo che zhan	1
-红岛科技馆(方特)	hong dao ke ji guan ( fang te )	1
-洪山坡(妇儿医院)	hong shan po ( fu er yi yuan )	1
+红岛科技馆(方特)	hong dao ke ji guan fang te	1
+洪山坡(妇儿医院)	hong shan po fu er yi yuan	1
 华楼山路	hua lou shan lu	1
 华山	hua shan	1
 汇泉广场	hui quan guang chang	1
@@ -72,7 +72,7 @@ use_preset_vocabulary: true
 积米崖	ji mi ya	1
 嘉陵江西路	jia ling jiang xi lu	1
 健康中心	jian kang zhong xin	1
-健身中心(红岛会展)	jian shen zhong xin ( hong dao hui zhan )	1
+健身中心(红岛会展)	jian shen zhong xin hong dao hui zhan	1
 江西路	jiang xi lu	1
 胶东	jiao dong	1
 胶东机场	jiao dong ji chang	1
@@ -96,7 +96,7 @@ use_preset_vocabulary: true
 龙湾	long wan	1
 马家楼	ma jia lou	1
 麦岛	mai dao	1
-毛家山(黄海学院)	mao jia shan ( huang hai xue yuan )	1
+毛家山(黄海学院)	mao jia shan huang hai xue yuan	1
 苗岭路	miao ling lu	1
 庙石	miao shi	1
 南北屯	nan bei tun	1
@@ -108,11 +108,11 @@ use_preset_vocabulary: true
 泊里	po li	1
 浦里	pu li	1
 钱谷山	qian gu shan	1
-钱塘江路(青职学院)	qian tang jiang lu ( qing zhi xue yuan )	1
+钱塘江路(青职学院)	qian tang jiang lu qing zhi xue yuan	1
 青大附院西海岸院区	qing da fu yuan xi hai an yuan qu	1
 青岛北站	qing dao bei zhan	1
 青岛二中	qing dao er zhong	1
-青岛九中(幸福小镇)	qing dao jiu zhong ( xing fu xiao zhen )	1
+青岛九中(幸福小镇)	qing dao jiu zhong xing fu xiao zhen	1
 青岛科大	qing dao ke da	1
 青岛站	qing dao zhan	1
 清江路	qing jiang lu	1
@@ -121,9 +121,9 @@ use_preset_vocabulary: true
 沙子口	sha zi kou	1
 山东大学	shan dong da xue	1
 山里	shan li	1
-山王河(福莱社区)	shan wang he ( fu lai she qu )	1
-盛海路(世博城)	sheng hai lu ( shi bo cheng )	1
-胜利桥(纺织谷)	sheng li qiao ( fang zhi gu )	1
+山王河(福莱社区)	shan wang he fu lai she qu	1
+盛海路(世博城)	sheng hai lu shi bo cheng	1
+胜利桥(纺织谷)	sheng li qiao fang zhi gu	1
 世博园	shi bo yuan	1
 世纪大道	shi ji da dao	1
 石老人浴场	shi lao ren yu chang	1
@@ -132,7 +132,7 @@ use_preset_vocabulary: true
 双珠路	shuang zhu lu	1
 水泊	shui po	1
 水清沟	shui qing gou	1
-四川路(轮渡)	si chuan lu ( lun du )	1
+四川路(轮渡)	si chuan lu lun du	1
 台东	tai dong	1
 太行山路	tai hang shan lu	1
 太平角公园	tai ping jiao gong yuan	1
@@ -147,14 +147,14 @@ use_preset_vocabulary: true
 西门外	xi men wai	1
 西吴家村	xi wu jia cun	1
 西镇	xi zhen	1
-仙家寨(汽车北站)	xian jia zhai ( qi che bei zhan )	1
+仙家寨(汽车北站)	xian jia zhai qi che bei zhan	1
 香江路	xiang jiang lu	1
 小村庄	xiao cun zhuang	1
 小港	xiao gang	1
 小崂山	xiao lao shan	1
 小寨子	xiao zhai zi	1
 新港山路	xin gang shan lu	1
-信号山(青大附院)	xin hao shan ( qing da fu yuan )	1
+信号山(青大附院)	xin hao shan qing da fu yuan	1
 辛屯	xin tun	1
 兴国路	xing guo lu	1
 星海滩路	xing hai tan lu	1
@@ -170,7 +170,7 @@ use_preset_vocabulary: true
 枣山路	zao shan lu	1
 张村	zhang cun	1
 张家楼	zhang jia lou	1
-赵家庙(影视产业园)	zhao jia miao ( ying shi chan ye yuan )	1
+赵家庙(影视产业园)	zhao jia miao ying shi chan ye yuan	1
 朝阳山	zhao yang shan	1
 振华路	zhen hua lu	1
 正阳中路	zheng yang zhong lu	1

@@ -26,7 +26,7 @@ use_preset_vocabulary: true
 成都东客站	cheng du dong ke zhan	1
 成都西站	cheng du xi zhan	1
 成都行政学院	cheng du xing zheng xue yuan	1
-成都医学院(新都校区)	cheng du yi xue yuan ( xin dou xiao qu )	1
+成都医学院(新都校区)	cheng du yi xue yuan xin dou xiao qu	1
 城隍庙	cheng huang miao	1
 成渝立交	cheng yu li jiao	1
 川藏立交	chuan cang li jiao	1
@@ -54,7 +54,7 @@ use_preset_vocabulary: true
 动物园	dong wu yuan	1
 洞子口	dong zi kou	1
 杜甫草堂	du fu cao tang	1
-杜家碾(凤凰山体育公园西)	du jia nian ( feng huang shan ti yu gong yuan xi )	1
+杜家碾(凤凰山体育公园西)	du jia nian feng huang shan ti yu gong yuan xi	1
 二江寺	er jiang si	1
 二仙桥	er xian qiao	1
 范家巷	fan jia xiang	1
@@ -106,7 +106,7 @@ use_preset_vocabulary: true
 花照壁	hua zhao bi	1
 花照壁北	hua zhao bi bei	1
 槐树店	huai shu dian	1
-浣花里(省医院草堂院区)	huan hua li ( sheng yi yuan cao tang yuan qu )	1
+浣花里(省医院草堂院区)	huan hua li sheng yi yuan cao tang yuan qu	1
 皇花园	huang hua yuan	1
 黄石	huang shi	1
 黄水	huang shui	1
@@ -144,12 +144,12 @@ use_preset_vocabulary: true
 金周路	jin zhou lu	1
 警官学院	jing guan xue yuan	1
 净居寺	jing ju si	1
-九道堰(凤凰山体育公园东)	jiu dao yan ( feng huang shan ti yu gong yuan dong )	1
+九道堰(凤凰山体育公园东)	jiu dao yan feng huang shan ti yu gong yuan dong	1
 九江北	jiu jiang bei	1
 九里堤	jiu li di	1
 九兴大道	jiu xing da dao	1
 九眼桥	jiu yan qiao	1
-军区总医院(熊猫基地西大门)	jun qu zong yi yuan ( xiong mao ji di xi da men )	1
+军区总医院(熊猫基地西大门)	jun qu zong yi yuan xiong mao ji di xi da men	1
 科学城	ke xue cheng	1
 科园	ke yuan	1
 宽窄巷子	kuan zhai xiang zi	1
@@ -206,7 +206,7 @@ use_preset_vocabulary: true
 前锋路	qian feng lu	1
 秦皇寺	qin huang si	1
 庆安	qing an	1
-青岛路(法务区)	qing dao lu ( fa wu qu )	1
+青岛路(法务区)	qing dao lu fa wu qu	1
 青杠	qing gang	1
 清江西路	qing jiang xi lu	1
 清水河大桥	qing shui he da qiao	1
@@ -299,7 +299,7 @@ use_preset_vocabulary: true
 望丛祠	wang cong ci	1
 王贾桥	wang jia qiao	1
 韦家碾	wei jia nian	1
-威灵(西南财大天府学院)	wei ling ( xi nan cai da tian fu xue yuan )	1
+威灵(西南财大天府学院)	wei ling xi nan cai da tian fu xue yuan	1
 文化宫	wen hua gong	1
 温家山	wen jia shan	1
 温泉大道	wen quan da dao	1
@@ -329,7 +329,7 @@ use_preset_vocabulary: true
 新鸿路	xin hong lu	1
 新津站	xin jin zhan	1
 新南门	xin nan men	1
-新平(宝墩)	xin ping ( bao dun )	1
+新平(宝墩)	xin ping bao dun	1
 新桥	xin qiao	1
 新通大道	xin tong da dao	1
 新园大道	xin yuan da dao	1
@@ -342,7 +342,7 @@ use_preset_vocabulary: true
 兴隆湖	xing long hu	1
 兴盛	xing sheng	1
 星月	xing yue	1
-熊猫大道(熊猫基地南大门)	xiong mao da dao ( xiong mao ji di nan da men )	1
+熊猫大道(熊猫基地南大门)	xiong mao da dao xiong mao ji di nan da men	1
 阳公桥	yang gong qiao	1
 杨柳河	yang liu he	1
 羊犀立交	yang xi li jiao	1
@@ -367,7 +367,7 @@ use_preset_vocabulary: true
 中坝	zhong ba	1
 中和	zhong he	1
 钟楼	zhong lou	1
-中医大·省医院	zhong yi da · sheng yi yuan	1
+中医大·省医院	zhong yi da sheng yi yuan	1
 珠江路	zhu jiang lu	1
 梓潼宫	zi tong gong	1
 资阳北站	zi yang bei zhan	1

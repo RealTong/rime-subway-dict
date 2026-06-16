@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 
 import pytest
 
@@ -106,6 +107,21 @@ def test_pinyin_for_name_lowercases_non_chinese_fragments():
     assert generate.pinyin_for_name("T3航站楼", {}) == "t3 hang zhan lou"
 
 
+@pytest.mark.parametrize(
+    ("value", "expected"),
+    [
+        ("ji chang xi (T1/T2/T3)", "ji chang xi t1 t2 t3"),
+        ("da shi qiao · shi fu you", "da shi qiao shi fu you"),
+    ],
+)
+def test_normalize_pinyin_replaces_punctuation_with_single_spaces(value, expected):
+    assert generate.normalize_pinyin(value) == expected
+
+
+def test_pinyin_for_name_removes_punctuation_from_non_chinese_fragments():
+    assert generate.pinyin_for_name("机场西(T1/T2/T3)", {}) == "ji chang xi t1 t2 t3"
+
+
 def test_fetch_json_wraps_unicode_decode_errors(monkeypatch):
     def fake_urlopen(request, timeout):
         return FakeResponse(b"\xff")
@@ -194,6 +210,13 @@ def test_load_overrides_reads_pinyin_table(tmp_path: Path):
     assert generate.load_overrides(path) == {"重庆": "chong qing"}
 
 
+def test_repository_overrides_apply_high_confidence_polyphone_corrections():
+    overrides = generate.load_overrides(Path("scripts/overrides.toml"))
+
+    assert generate.pinyin_for_name("长椿街", overrides) == "chang chun jie"
+    assert generate.pinyin_for_name("柏林庄", overrides) == "bai lin zhuang"
+
+
 @pytest.mark.parametrize(
     "contents, match",
     [
@@ -263,6 +286,52 @@ def test_generate_project_writes_city_all_and_readmes(tmp_path: Path):
     assert "最后更新：2026.06.16" in (tmp_path / "README.zh-CN.md").read_text(
         encoding="utf-8"
     )
+
+
+def test_generate_project_writes_only_typeable_pinyin_code_fields(tmp_path: Path):
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nold\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n旧\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "guangzhou", "adcode": "4401", "cityname": "广州市"}
+            ]
+        },
+        "4401_drw_guangzhou.json": {
+            "l": [
+                {
+                    "st": [
+                        {"n": "机场西(T1/T2/T3)"},
+                        {"n": "大石桥·市妇幼"},
+                    ]
+                }
+            ]
+        },
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    for path in tmp_path.glob("*.subway.dict.yaml"):
+        text = path.read_text(encoding="utf-8")
+        for line in text.split("...\n\n", 1)[1].splitlines():
+            if not line:
+                continue
+            _name, pinyin, _weight = line.split("\t")
+            assert re.fullmatch(r"[a-z0-9 ]+", pinyin), (path, line)
 
 
 def test_generate_project_does_not_write_outputs_when_readme_markers_are_invalid(

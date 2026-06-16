@@ -19,8 +19,8 @@ use_preset_vocabulary: true
 博览中心	bo lan zhong xin	1
 仓北村	cang bei cun	1
 曹家桥	cao jia qiao	1
-长安(东方学院)	chang an ( dong fang xue yuan )	1
 长安东	chang an dong	1
+长安(东方学院)	chang an dong fang xue yuan	1
 长河	chang he	1
 潮王路	chao wang lu	1
 城南大道	cheng nan da dao	1
@@ -102,7 +102,7 @@ use_preset_vocabulary: true
 黄龙洞	huang long dong	1
 黄龙体育中心	huang long ti yu zhong xin	1
 火车东站	huo che dong zhan	1
-火车东站(东广场)	huo che dong zhan ( dong guang chang )	1
+火车东站(东广场)	huo che dong zhan dong guang chang	1
 火车南站	huo che nan zhan	1
 火车西站	huo che xi zhan	1
 火车站	huo che zhan	1
@@ -126,9 +126,9 @@ use_preset_vocabulary: true
 近江	jin jiang	1
 金沙湖	jin sha hu	1
 金星	jin xing	1
+荆长路	jing chang lu	1
 景芳	jing fang	1
 镜水路	jing shui lu	1
-荆长路	jing zhang lu	1
 九堡	jiu bao	1
 九和路	jiu he lu	1
 九睦路	jiu mu lu	1

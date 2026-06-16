@@ -22,8 +22,11 @@ use_preset_vocabulary: true
 北山	bei shan	1
 滨江东路	bin jiang dong lu	1
 彩虹桥	cai hong qiao	1
+长湴	chang ban	1
 昌岗	chang gang	1
+长平	chang ping	1
 长寿路	chang shou lu	1
+长洲	chang zhou	1
 朝安	chao an	1
 车陂	che bei	1
 车陂南	che bei nan	1
@@ -92,7 +95,7 @@ use_preset_vocabulary: true
 海心沙	hai xin sha	1
 海涌路	hai yong lu	1
 海珠广场	hai zhu guang chang	1
-汉溪长隆	han xi zhang long	1
+汉溪长隆	han xi chang long	1
 鹤边	he bian	1
 鹤洞	he dong	1
 鹤洞东	he dong dong	1
@@ -124,8 +127,8 @@ use_preset_vocabulary: true
 黄埔新港	huang pu xin gang	1
 黄沙	huang sha	1
 会江	hui jiang	1
-机场北(T2)	ji chang bei (t2)	1
-机场南(1号航站楼)	ji chang nan (1 hao hang zhan lou )	1
+机场北(T2)	ji chang bei t2	1
+机场南(1号航站楼)	ji chang nan 1 hao hang zhan lou	1
 季华园	ji hua yuan	1
 纪念堂	ji nian tang	1
 姬堂	ji tang	1
@@ -161,7 +164,7 @@ use_preset_vocabulary: true
 猎德	lie de	1
 烈士陵园	lie shi ling yuan	1
 林和西	lin he xi	1
-林岳东(2号线)	lin yue dong (2 hao xian )	1
+林岳东(2号线)	lin yue dong 2 hao xian	1
 林岳西	lin yue xi	1
 流花	liu hua	1
 龙洞	long dong	1
@@ -318,10 +321,7 @@ use_preset_vocabulary: true
 云台花园	yun tai hua yuan	1
 云霄路	yun xiao lu	1
 增城广场	zeng cheng guang chang	1
-长湴	zhang ban	1
 张槎	zhang cha	1
-长平	zhang ping	1
-长洲	zhang zhou	1
 镇龙	zhen long	1
 镇龙北	zhen long bei	1
 镇龙西	zhen long xi	1

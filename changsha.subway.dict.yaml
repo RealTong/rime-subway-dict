@@ -13,9 +13,11 @@ use_preset_vocabulary: true
 白茅铺	bai mao pu	1
 板塘冲	ban tang chong	1
 北辰三角洲	bei chen san jiao zhou	1
-碧沙湖(恰同学少年广场)	bi sha hu ( qia tong xue shao nian guang chang )	1
+碧沙湖(恰同学少年广场)	bi sha hu qia tong xue shao nian guang chang	1
 曹家坪	cao jia ping	1
 茶子山	cha zi shan	1
+长丰	chang feng	1
+长庆	chang qing	1
 长沙大道	chang sha da dao	1
 长沙大学	chang sha da xue	1
 长沙火车南站	chang sha huo che nan zhan	1
@@ -61,15 +63,15 @@ use_preset_vocabulary: true
 黄兴广场	huang xing guang chang	1
 火炬村	huo ju cun	1
 涧塘	jian tang	1
-金盆丘(铜官窑巴士站)	jin pen qiu ( tong guan yao ba shi zhan )	1
+金盆丘(铜官窑巴士站)	jin pen qiu tong guan yao ba shi zhan	1
 锦泰广场	jin tai guang chang	1
 金霞	jin xia	1
 金星路	jin xing lu	1
-橘子洲·青莲	ju zi zhou · qing lian	1
+橘子洲·青莲	ju zi zhou qing lian	1
 开福区政府	kai fu qu zheng fu	1
 开福寺	kai fu si	1
 烈士公园东	lie shi gong yuan dong	1
-烈士公园南(湖南省博物馆)	lie shi gong yuan nan ( hu nan sheng bo wu guan )	1
+烈士公园南(湖南省博物馆)	lie shi gong yuan nan hu nan sheng bo wu guan	1
 灵官渡	ling guan du	1
 六沟垅	liu gou long	1
 龙峰	long feng	1
@@ -99,13 +101,13 @@ use_preset_vocabulary: true
 山塘	shan tang	1
 尚双塘	shang shuang tang	1
 韶光	shao guang	1
-省政府·清风	sheng zheng fu · qing feng	1
+省政府·清风	sheng zheng fu qing feng	1
 树木岭	shu mu ling	1
 双湖	shuang hu	1
 水渡河	shui du he	1
-四方坪·双拥	si fang ping · shuang yong	1
+四方坪·双拥	si fang ping shuang yong	1
 丝茅冲	si mao chong	1
-松雅湖(南)	song ya hu ( nan )	1
+松雅湖(南)	song ya hu nan	1
 宿龙桥	su long qiao	1
 粟塘	su tang	1
 檀木桥	tan mu qiao	1
@@ -114,7 +116,7 @@ use_preset_vocabulary: true
 涂家冲	tu jia chong	1
 土桥	tu qiao	1
 万家丽广场	wan jia li guang chang	1
-望城坡(汽车西站)	wang cheng po ( qi che xi zhan )	1
+望城坡(汽车西站)	wang cheng po qi che xi zhan	1
 望月湖	wang yue hu	1
 文昌阁	wen chang ge	1
 文化艺术中心	wen hua yi shu zhong xin	1
@@ -145,8 +147,6 @@ use_preset_vocabulary: true
 袁家岭	yuan jia ling	1
 月湖公园北	yue hu gong yuan bei	1
 月亮岛西	yue liang dao xi	1
-长丰	zhang feng	1
-长庆	zhang qing	1
 朝阳村	zhao yang cun	1
 中南大学	zhong nan da xue	1
 中塘	zhong tang	1

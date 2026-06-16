@@ -21,6 +21,7 @@ use_preset_vocabulary: true
 长春站	chang chun zhan	1
 长春站北	chang chun zhan bei	1
 长青	chang qing	1
+长影世纪城	chang ying shi ji cheng	1
 大学城路	da xue cheng lu	1
 地理所	di li suo	1
 电台街	dian tai jie	1
@@ -43,7 +44,7 @@ use_preset_vocabulary: true
 光机路	guang ji lu	1
 广通路	guang tong lu	1
 轨道集团	gui dao ji tuan	1
-硅谷广场(吉大中心校区)	gui gu guang chang ( ji da zhong xin xiao qu )	1
+硅谷广场(吉大中心校区)	gui gu guang chang ji da zhong xin xiao qu	1
 哈尔滨大街	ha er bin da jie	1
 海口路	hai kou lu	1
 和安街	he an jie	1
@@ -120,7 +121,6 @@ use_preset_vocabulary: true
 樱花街	ying hua jie	1
 英俊大街	ying jun da jie	1
 英凯大街	ying kai da jie	1
-长影世纪城	zhang ying shi ji cheng	1
 朝阳桥	zhao yang qiao	1
 支农大街	zhi nong da jie	1
 职业学院	zhi ye xue yuan	1

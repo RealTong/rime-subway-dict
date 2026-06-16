@@ -21,6 +21,7 @@ use_preset_vocabulary: true
 草场门	cao chang men	1
 常府街	chang fu jie	1
 长江大桥北	chang jiang da qiao bei	1
+长芦	chang lu	1
 朝天宫	chao tian gong	1
 承天大道	cheng tian da dao	1
 诚信大道	cheng xin da dao	1
@@ -63,12 +64,12 @@ use_preset_vocabulary: true
 光华门	guang hua men	1
 汉中门	han zhong men	1
 河定桥	he ding qiao	1
-河海大学·佛城西路	he hai da xue · fu cheng xi lu	1
+河海大学·佛城西路	he hai da xue fu cheng xi lu	1
 虹桥	hong qiao	1
 红山动物园	hong shan dong wu yuan	1
 宏运大道	hong yun da dao	1
-湖北路·二中	hu bei lu · er zhong	1
-湖南路·安工大	hu nan lu · an gong da	1
+湖北路·二中	hu bei lu er zhong	1
+湖南路·安工大	hu nan lu an gong da	1
 化工园	hua gong yuan	1
 花神庙	hua shen miao	1
 华阳	hua yang	1
@@ -101,11 +102,11 @@ use_preset_vocabulary: true
 兰花塘	lan hua tang	1
 溧水	li shui	1
 林场	lin chang	1
-临江·青奥体育公园	lin jiang · qing ao ti yu gong yuan	1
+临江·青奥体育公园	lin jiang qing ao ti yu gong yuan	1
 林山	lin shan	1
-灵谷寺·钟灵街	ling gu si · zhong ling jie	1
+灵谷寺·钟灵街	ling gu si zhong ling jie	1
 灵山	ling shan	1
-刘村·弘阳家居博览中心	liu cun · hong yang jia ju bo lan zhong xin	1
+刘村·弘阳家居博览中心	liu cun hong yang jia ju bo lan zhong xin	1
 六合开发区	liu he kai fa qu	1
 柳洲东路	liu zhou dong lu	1
 龙池	long chi	1
@@ -134,15 +135,15 @@ use_preset_vocabulary: true
 牧龙	mu long	1
 苜蓿园	mu xu yuan	1
 南大仙林校区	nan da xian lin xiao qu	1
-南湖·省第二中医院	nan hu · sheng di er zhong yi yuan	1
+南湖·省第二中医院	nan hu sheng di er zhong yi yuan	1
 南京工业大学	nan jing gong ye da xue	1
 南京交院	nan jing jiao yuan	1
-南京林业大学·新庄	nan jing lin ye da xue · xin zhuang	1
+南京林业大学·新庄	nan jing lin ye da xue xin zhuang	1
 南京南站	nan jing nan zhan	1
 南京西站	nan jing xi zhan	1
 南京猿人洞	nan jing yuan ren dong	1
 南京站	nan jing zhan	1
-南医大·江苏经贸学院	nan yi da · jiang su jing mao xue yuan	1
+南医大·江苏经贸学院	nan yi da jiang su jing mao xue yuan	1
 平良大街	ping liang da jie	1
 浦口万汇城	pu kou wan hui cheng	1
 麒麟门	qi lin men	1
@@ -154,7 +155,7 @@ use_preset_vocabulary: true
 青莲街	qing lian jie	1
 清凉山	qing liang shan	1
 泉都大街	quan dou da jie	1
-群力·鼓楼医院南部院区	qun li · gu lou yi yuan nan bu yuan qu	1
+群力·鼓楼医院南部院区	qun li gu lou yi yuan nan bu yuan qu	1
 软件大道	ruan jian da dao	1
 三山街	san shan jie	1
 上海路	shang hai lu	1
@@ -197,7 +198,7 @@ use_preset_vocabulary: true
 五台山	wu tai shan	1
 五塘广场	wu tang guang chang	1
 无想山	wu xiang shan	1
-西安门·浦发银行	xi an men · pu fa yin hang	1
+西安门·浦发银行	xi an men pu fa yin hang	1
 西岗桦墅	xi gang hua shu	1
 西善桥	xi shan qiao	1
 下关	xia guan	1
@@ -221,7 +222,7 @@ use_preset_vocabulary: true
 兴隆大街	xing long da jie	1
 幸庄	xing zhuang	1
 雄州	xiong zhou	1
-徐庄·苏宁总部	xu zhuang · su ning zong bu	1
+徐庄·苏宁总部	xu zhuang su ning zong bu	1
 玄武门	xuan wu men	1
 学则路	xue ze lu	1
 盐仓桥	yan cang qiao	1
@@ -244,16 +245,15 @@ use_preset_vocabulary: true
 云锦路	yun jin lu	1
 云南路	yun nan lu	1
 张府园	zhang fu yuan	1
-长芦	zhang lu	1
 柘塘	zhe tang	1
 正方中路	zheng fang zhong lu	1
-钟阜路·市第二医院	zhong fu lu · shi di er yi yuan	1
+钟阜路·市第二医院	zhong fu lu shi di er yi yuan	1
 中国药科大学	zhong guo yao ke da xue	1
 中华门	zhong hua men	1
 中山湖	zhong shan hu	1
-中山陵音乐台·孝陵卫	zhong shan ling yin yue tai · xiao ling wei	1
-中山陵·下马坊	zhong shan ling · xia ma fang	1
+中山陵·下马坊	zhong shan ling xia ma fang	1
+中山陵音乐台·孝陵卫	zhong shan ling yin yue tai xiao ling wei	1
 中胜	zhong sheng	1
-中医药大学·羊山公园	zhong yi yao da xue · yang shan gong yuan	1
+中医药大学·羊山公园	zhong yi yao da xue yang shan gong yuan	1
 珠江路	zhu jiang lu	1
 竹山路	zhu shan lu	1

@@ -30,12 +30,12 @@ use_preset_vocabulary: true
 陈砦	chen zhai	1
 陈寨东	chen zhai dong	1
 城东南路	cheng dong nan lu	1
-大石桥·市妇幼保健院	da shi qiao · shi fu you bao jian yuan	1
+大石桥·市妇幼保健院	da shi qiao shi fu you bao jian yuan	1
 大学科技园	da xue ke ji yuan	1
 大学中路	da xue zhong lu	1
 大周	da zhou	1
 电气谷	dian qi gu	1
-东大街·市第一人民医院	dong da jie · shi di yi ren min yi yuan	1
+东大街·市第一人民医院	dong da jie shi di yi ren min yi yuan	1
 东风东路	dong feng dong lu	1
 东风路	dong feng lu	1
 东风南路	dong feng nan lu	1
@@ -50,7 +50,7 @@ use_preset_vocabulary: true
 二里岗东	er li gang dong	1
 二七广场	er qi guang chang	1
 二砂	er sha	1
-儿童医院·颐和医院	er tong yi yuan · yi he yi yuan	1
+儿童医院·颐和医院	er tong yi yuan yi he yi yuan	1
 凤凰台	feng huang tai	1
 凤凰台南	feng huang tai nan	1
 丰庆路	feng qing lu	1
@@ -70,7 +70,7 @@ use_preset_vocabulary: true
 河南大学新区	he nan da xue xin qu	1
 河南工业大学	he nan gong ye da xue	1
 河南建院	he nan jian yuan	1
-后河芦·市第八人民医院	hou he lu · shi di ba ren min yi yuan	1
+后河芦·市第八人民医院	hou he lu shi di ba ren min yi yuan	1
 华南城	hua nan cheng	1
 华南城东	hua nan cheng dong	1
 华南城西	hua nan cheng xi	1
@@ -78,7 +78,7 @@ use_preset_vocabulary: true
 黄河路	huang he lu	1
 黄河南路	huang he nan lu	1
 黄河迎宾馆	huang he ying bin guan	1
-惠济区政府·市三院惠济院区	hui ji qu zheng fu · shi san yuan hui ji yuan qu	1
+惠济区政府·市三院惠济院区	hui ji qu zheng fu shi san yuan hui ji yuan qu	1
 会展中心	hui zhan zhong xin	1
 火车头体育场	huo che tou ti yu chang	1
 货站街	huo zhan jie	1
@@ -97,7 +97,7 @@ use_preset_vocabulary: true
 金桢路	jin zhen lu	1
 经北二路	jing bei er lu	1
 经北五路	jing bei wu lu	1
-京广南路·市第六人民医院	jing guang nan lu · shi di liu ren min yi yuan	1
+京广南路·市第六人民医院	jing guang nan lu shi di liu ren min yi yuan	1
 荆胡	jing hu	1
 经开中心广场	jing kai zhong xin guang chang	1
 康宁街	kang ning jie	1
@@ -142,8 +142,8 @@ use_preset_vocabulary: true
 南环公园	nan huan gong yuan	1
 南流	nan liu	1
 南三环	nan san huan	1
-南四环(贾河)	nan si huan ( jia he )	1
-南四环(郑州航空港站)	nan si huan ( zheng zhou hang kong gang zhan )	1
+南四环(贾河)	nan si huan jia he	1
+南四环(郑州航空港站)	nan si huan zheng zhou hang kong gang zhan	1
 南五里堡	nan wu li bao	1
 南阳新村	nan yang xin cun	1
 农大路	nong da lu	1
@@ -158,7 +158,7 @@ use_preset_vocabulary: true
 轻工业大学	qing gong ye da xue	1
 清华附中	qing hua fu zhong	1
 人民公园	ren min gong yuan	1
-人民路·河南中医一附院	ren min lu · he nan zhong yi yi fu yuan	1
+人民路·河南中医一附院	ren min lu he nan zhong yi yi fu yuan	1
 森林公园北	sen lin gong yuan bei	1
 沙口路	sha kou lu	1
 沙门	sha men	1
@@ -182,7 +182,7 @@ use_preset_vocabulary: true
 双鹤湖南	shuang he hu nan	1
 双湖大道	shuang hu da dao	1
 双庙李	shuang miao li	1
-司赵·市七院滨河院区	si zhao · shi qi yuan bin he yuan qu	1
+司赵·市七院滨河院区	si zhao shi qi yuan bin he yuan qu	1
 嵩淮	song huai	1
 体育中心	ti yu zhong xin	1
 天健湖	tian jian hu	1
@@ -197,7 +197,7 @@ use_preset_vocabulary: true
 卧龙岗	wo long gang	1
 五龙口	wu long kou	1
 梧桐街	wu tong jie	1
-五一公园·市中医院	wu yi gong yuan · shi zhong yi yuan	1
+五一公园·市中医院	wu yi gong yuan shi zhong yi yuan	1
 西大街	xi da jie	1
 西流湖	xi liu hu	1
 西流湖公园南	xi liu hu gong yuan nan	1
@@ -207,13 +207,13 @@ use_preset_vocabulary: true
 小乔	xiao qiao	1
 小营	xiao ying	1
 新郑机场	xin zheng ji chang	1
-新郑机场(郑许线)	xin zheng ji chang ( zheng xu xian )	1
+新郑机场(郑许线)	xin zheng ji chang zheng xu xian	1
 兴隆铺	xing long pu	1
 许昌东站	xu chang dong zhan	1
 洵美路	xun mei lu	1
 燕庄	yan zhuang	1
 杨君刘	yang jun liu	1
-姚砦·聂庄	yao zhai · nie zhuang	1
+姚砦·聂庄	yao zhai nie zhuang	1
 姚庄	yao zhuang	1
 医学院	yi xue yuan	1
 银屏路	yin ping lu	1
@@ -242,4 +242,4 @@ use_preset_vocabulary: true
 中原福塔	zhong yuan fu ta	1
 紫荆山	zi jing shan	1
 综合保税区	zong he bao shui qu	1
-遵大路·市一院航空港院区	zun da lu · shi yi yuan hang kong gang yuan qu	1
+遵大路·市一院航空港院区	zun da lu shi yi yuan hang kong gang yuan qu	1

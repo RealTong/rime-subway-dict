@@ -20,6 +20,8 @@ use_preset_vocabulary: true
 彩霞街	cai xia jie	1
 曹仲	cao zhong	1
 长安路	chang an lu	1
+长白岛	chang bai dao	1
+长白南	chang bai nan	1
 长江街	chang jiang jie	1
 长青南街	chang qing nan jie	1
 长青桥	chang qing qiao	1
@@ -128,8 +130,6 @@ use_preset_vocabulary: true
 元江街	yuan jiang jie	1
 云峰北街	yun feng bei jie	1
 云杉路	yun shan lu	1
-长白岛	zhang bai dao	1
-长白南	zhang bai nan	1
 张沙布	zhang sha bu	1
 张士	zhang shi	1
 正新路	zheng xin lu	1

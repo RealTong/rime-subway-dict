@@ -142,7 +142,7 @@ def extract_station_names(payload: dict, srhdata: str) -> set[str]:
 
 
 def normalize_pinyin(value: str) -> str:
-    return re.sub(r"\s+", " ", value.strip().lower())
+    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
 
 
 def pinyin_for_name(name: str, overrides: dict[str, str]) -> str:

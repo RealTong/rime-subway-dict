@@ -38,6 +38,7 @@ use_preset_vocabulary: true
 长乐公园	chang le gong yuan	1
 长乐门	chang le men	1
 长乐坡	chang le po	1
+长陵	chang ling	1
 常宁宫	chang ning gong	1
 常青路	chang qing lu	1
 陈杨寨	chen yang zhai	1
@@ -114,11 +115,11 @@ use_preset_vocabulary: true
 欢乐谷	huan le gu	1
 黄渠头	huang qu tou	1
 皇子坡	huang zi po	1
-机场(T5)	ji chang (t5)	1
-机场西(T1/T2/T3)	ji chang xi (t1/t2/t3)	1
+机场(T5)	ji chang t5	1
+机场西(T1/T2/T3)	ji chang xi t1 t2 t3	1
 吉祥村	ji xiang cun	1
-建筑科技大学·李家村	jian zhu ke ji da xue · li jia cun	1
-交通大学·兴庆宫	jiao tong da xue · xing qing gong	1
+建筑科技大学·李家村	jian zhu ke ji da xue li jia cun	1
+交通大学·兴庆宫	jiao tong da xue xing qing gong	1
 金光门	jin guang men	1
 金滹沱	jin hu tuo	1
 景家堡	jing jia bao	1
@@ -159,7 +160,7 @@ use_preset_vocabulary: true
 陕西中医药大学	shan xi zhong yi yao da xue	1
 上林路	shang lin lu	1
 神舟大道	shen zhou da dao	1
-省人民医院·黄雁村	sheng ren min yi yuan · huang yan cun	1
+省人民医院·黄雁村	sheng ren min yi yuan huang yan cun	1
 省体育馆	sheng ti yu guan	1
 市第三医院	shi di san yi yuan	1
 石家街	shi jia jie	1
@@ -191,7 +192,7 @@ use_preset_vocabulary: true
 五路口	wu lu kou	1
 务庄	wu zhuang	1
 西安北站	xi an bei zhan	1
-西安工大·武德路	xi an gong da · wu de lu	1
+西安工大·武德路	xi an gong da wu de lu	1
 西安国际医学中心	xi an guo ji yi xue zhong xin	1
 西安国际足球中心	xi an guo ji zu qiu zhong xin	1
 西安科技大学	xi an ke ji da xue	1
@@ -199,10 +200,10 @@ use_preset_vocabulary: true
 西安站	xi an zhan	1
 西堡	xi bao	1
 西北工业大学	xi bei gong ye da xue	1
-西部大道(西太路口)	xi bu da dao ( xi tai lu kou )	1
+西部大道(西太路口)	xi bu da dao xi tai lu kou	1
 西等驾坡	xi deng jia po	1
-西电科大南校区·未来之瞳	xi dian ke da nan xiao qu · wei lai zhi tong	1
-西工程大·西科大(临潼校区)	xi gong cheng da · xi ke da ( lin tong xiao qu )	1
+西电科大南校区·未来之瞳	xi dian ke da nan xiao qu wei lai zhi tong	1
+西工程大·西科大(临潼校区)	xi gong cheng da xi ke da lin tong xiao qu	1
 西花园	xi hua yuan	1
 细柳	xi liu	1
 细柳营	xi liu ying	1
@@ -210,7 +211,7 @@ use_preset_vocabulary: true
 西窑头	xi yao tou	1
 咸宁路	xian ning lu	1
 咸阳西站	xian yang xi zhan	1
-香湖湾(黄邓)	xiang hu wan ( huang deng )	1
+香湖湾(黄邓)	xiang hu wan huang deng	1
 香王	xiang wang	1
 小寨	xiao zhai	1
 辛家庙	xin jia miao	1
@@ -244,7 +245,6 @@ use_preset_vocabulary: true
 丈八六路	zhang ba liu lu	1
 丈八四路	zhang ba si lu	1
 丈八一路	zhang ba yi lu	1
-长陵	zhang ling	1
 昭慧广场	zhao hui guang chang	1
 朝阳门	zhao yang men	1
 植物园	zhi wu yuan	1

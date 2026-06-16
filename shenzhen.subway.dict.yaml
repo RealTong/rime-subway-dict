@@ -39,7 +39,10 @@ use_preset_vocabulary: true
 步涌	bu yong	1
 草埔	cao pu	1
 茶光	cha guang	1
+长湖	chang hu	1
+长岭陂	chang ling bei	1
 长龙	chang long	1
+长圳	chang zhen	1
 车公庙	che gong miao	1
 赤湾	chi wan	1
 赤尾	chi wei	1
@@ -216,7 +219,7 @@ use_preset_vocabulary: true
 坪山广场	ping shan guang chang	1
 坪山围	ping shan wei	1
 坪山中心	ping shan zhong xin	1
-坪山中心(云巴1号线)	ping shan zhong xin ( yun ba 1 hao xian )	1
+坪山中心(云巴1号线)	ping shan zhong xin yun ba 1 hao xian	1
 坪西	ping xi	1
 坪洲	ping zhou	1
 前海湾	qian hai wan	1
@@ -348,9 +351,6 @@ use_preset_vocabulary: true
 粤海门	yue hai men	1
 站前路东	zhan qian lu dong	1
 嶂背	zhang bei	1
-长湖	zhang hu	1
-长岭陂	zhang ling bei	1
-长圳	zhang zhen	1
 圳美	zhen mei	1
 中大	zhong da	1
 中山公园	zhong shan gong yuan	1

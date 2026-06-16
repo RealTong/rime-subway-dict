@@ -9,6 +9,8 @@ use_preset_vocabulary: true
 ...
 
 北营	bei ying	1
+长风东街	chang feng dong jie	1
+长风街	chang feng jie	1
 大北门	da bei men	1
 大南门	da nan men	1
 电子西街	dian zi xi jie	1
@@ -50,7 +52,5 @@ use_preset_vocabulary: true
 许坦东街	xu tan dong jie	1
 学府东街	xue fu dong jie	1
 学府街	xue fu jie	1
-闫家沟(小井峪路)	yan jia gou ( xiao jing yu lu )	1
-长风东街	zhang feng dong jie	1
-长风街	zhang feng jie	1
+闫家沟(小井峪路)	yan jia gou xiao jing yu lu	1
 朝阳街	zhao yang jie	1

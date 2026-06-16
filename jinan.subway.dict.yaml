@@ -22,7 +22,7 @@ use_preset_vocabulary: true
 川流	chuan liu	1
 创新谷	chuang xin gu	1
 春博路	chun bo lu	1
-春博路(云巴)	chun bo lu ( yun ba )	1
+春博路(云巴)	chun bo lu yun ba	1
 春风悦动公园	chun feng yue dong gong yuan	1
 春晖路	chun hui lu	1
 春景路	chun jing lu	1
@@ -56,7 +56,7 @@ use_preset_vocabulary: true
 机场南	ji chang nan	1
 济泺路	ji luo lu	1
 济南东站	ji nan dong zhan	1
-济南东站(济阳线)	ji nan dong zhan ( ji yang xian )	1
+济南东站(济阳线)	ji nan dong zhan ji yang xian	1
 济南西站	ji nan xi zhan	1
 济南西站西广场	ji nan xi zhan xi guang chang	1
 济南站北	ji nan zhan bei	1
@@ -73,7 +73,7 @@ use_preset_vocabulary: true
 腊山南	la shan nan	1
 老屯	lao tun	1
 历城二中唐冶校区	li cheng er zhong tang ye xiao qu	1
-历城二中唐冶校区(云巴)	li cheng er zhong tang ye xiao qu ( yun ba )	1
+历城二中唐冶校区(云巴)	li cheng er zhong tang ye xiao qu yun ba	1
 历城文博中心	li cheng wen bo zhong xin	1
 历山路	li shan lu	1
 梁王	liang wang	1
@@ -88,7 +88,7 @@ use_preset_vocabulary: true
 南辛庄	nan xin zhuang	1
 裴家营	pei jia ying	1
 彭家庄	peng jia zhuang	1
-彭家庄(云巴)	peng jia zhuang ( yun ba )	1
+彭家庄(云巴)	peng jia zhuang yun ba	1
 七里堡	qi li bao	1
 七里河路南口	qi li he lu nan kou	1
 齐鲁软件园	qi lu ruan jian yuan	1
@@ -107,7 +107,7 @@ use_preset_vocabulary: true
 山东大学	shan dong da xue	1
 山东现代学院	shan dong xian dai xue yuan	1
 山东职业学院	shan dong zhi ye xue yuan	1
-山东职业学院(云巴)	shan dong zhi ye xue yuan ( yun ba )	1
+山东职业学院(云巴)	shan dong zhi ye xue yuan yun ba	1
 山师东路	shan shi dong lu	1
 生产路	sheng chan lu	1
 圣井	sheng jing	1
@@ -120,9 +120,9 @@ use_preset_vocabulary: true
 滩头	tan tou	1
 唐宣路	tang xuan lu	1
 唐冶	tang ye	1
-唐冶(云巴)	tang ye ( yun ba )	1
 唐冶东路	tang ye dong lu	1
 唐冶公园	tang ye gong yuan	1
+唐冶(云巴)	tang ye yun ba	1
 天泺路	tian luo lu	1
 王府庄	wang fu zhuang	1
 王舍人	wang she ren	1
@@ -150,6 +150,6 @@ use_preset_vocabulary: true
 贞观街	zhen guan jie	1
 中央商务区	zhong yang shang wu qu	1
 祝甸	zhu dian	1
-转山西路(万象城)	zhuan shan xi lu ( wan xiang cheng )	1
+转山西路(万象城)	zhuan shan xi lu wan xiang cheng	1
 庄科	zhuang ke	1
 紫薇路	zi wei lu	1

@@ -10,15 +10,17 @@ use_preset_vocabulary: true
 
 八铺街	ba pu jie	1
 百步亭花园路	bai bu ting hua yuan lu	1
+柏林	bai lin	1
 白沙六路	bai sha liu lu	1
 百泰路	bai tai lu	1
 板桥	ban qiao	1
 宝通寺	bao tong si	1
 豹澥	bao xie	1
 北华街	bei hua jie	1
-柏林	bo lin	1
 蔡甸广场	cai dian guang chang	1
 藏龙东街	cang long dong jie	1
+长港路	chang gang lu	1
+长岭山	chang ling shan	1
 常码头	chang ma tou	1
 厂前	chang qian	1
 常青城	chang qing cheng	1
@@ -103,8 +105,8 @@ use_preset_vocabulary: true
 花山河	hua shan he	1
 花山新城	hua shan xin cheng	1
 华中科技大学	hua zhong ke ji da xue	1
-黄家湖(武科大)	huang jia hu ( wu ke da )	1
 黄家湖地铁小镇	huang jia hu di tie xiao zhen	1
+黄家湖(武科大)	huang jia hu wu ke da	1
 黄金口	huang jin kou	1
 黄龙山路	huang long shan lu	1
 黄陂广场	huang pi guang chang	1
@@ -169,7 +171,7 @@ use_preset_vocabulary: true
 青年路	qing nian lu	1
 青宜居	qing yi ju	1
 青鱼嘴	qing yu zui	1
-青仔村(轨道产业基地)	qing zai cun ( gui dao chan ye ji di )	1
+青仔村(轨道产业基地)	qing zai cun gui dao chan ye ji di	1
 取水楼	qu shui lou	1
 仁和路	ren he lu	1
 瑞安街	rui an jie	1
@@ -278,9 +280,7 @@ use_preset_vocabulary: true
 园林路	yuan lin lu	1
 岳家嘴	yue jia zui	1
 云飞路	yun fei lu	1
-长港路	zhang gang lu	1
 张家湾	zhang jia wan	1
-长岭山	zhang ling shan	1
 赵家条	zhao jia tiao	1
 纸坊大街	zhi fang da jie	1
 知音	zhi yin	1
