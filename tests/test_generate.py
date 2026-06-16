@@ -18,6 +18,12 @@ def test_parse_cities_sorts_by_spell():
     assert [city.spell for city in cities] == ["beijing", "shanghai"]
 
 
+@pytest.mark.parametrize("payload", [None, [], "citylist"])
+def test_parse_cities_rejects_non_object_top_level_payloads(payload):
+    with pytest.raises(ValueError, match="citylist payload must be an object"):
+        generate.parse_cities(payload)
+
+
 @pytest.mark.parametrize("raw_city", [None, [], "beijing"])
 def test_parse_cities_rejects_non_object_city_records(raw_city):
     with pytest.raises(ValueError, match="citylist item must be an object"):
@@ -180,3 +186,168 @@ def test_load_overrides_rejects_invalid_pinyin_entries(
 
     with pytest.raises(ValueError, match=match):
         generate.load_overrides(path)
+
+
+def test_load_overrides_rejects_names_with_surrounding_whitespace(tmp_path: Path):
+    path = tmp_path / "overrides.toml"
+    path.write_text('[pinyin]\n" 重庆" = "chong qing"\n', encoding="utf-8")
+
+    with pytest.raises(
+        ValueError, match="override name must not have surrounding whitespace"
+    ):
+        generate.load_overrides(path)
+
+
+def test_generate_project_writes_city_all_and_readmes(tmp_path: Path):
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nold\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n旧\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        '[pinyin]\n"重庆" = "chong qing"\n', encoding="utf-8"
+    )
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京市"},
+                {"spell": "chongqing", "adcode": "5000", "cityname": "重庆市"},
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "苹果园"}, {"n": "重庆"}]}]},
+        "5000_drw_chongqing.json": {"l": [{"st": [{"n": "重庆"}, {"n": "大坪"}]}]},
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    assert (tmp_path / "beijing.subway.dict.yaml").exists()
+    assert (tmp_path / "chongqing.subway.dict.yaml").exists()
+    all_text = (tmp_path / "all.subway.dict.yaml").read_text(encoding="utf-8")
+    assert all_text.count("重庆\tchong qing\t1") == 1
+    assert "Last updated: 2026.06.16" in (tmp_path / "README.md").read_text(
+        encoding="utf-8"
+    )
+    assert "最后更新：2026.06.16" in (tmp_path / "README.zh-CN.md").read_text(
+        encoding="utf-8"
+    )
+
+
+def test_generate_project_preserves_dates_when_rows_and_city_list_are_unchanged(
+    tmp_path: Path,
+):
+    # Seed files from a prior run.
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nLast updated: 2026.06.01\n\n"
+        "Supported cities and regions: 1\n\n- 北京市 (`beijing`)\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n最后更新：2026.06.01\n\n"
+        "支持城市和地区：1\n\n- 北京市（`beijing`）\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    existing = generate.render_dictionary(
+        "beijing.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "beijing.subway.dict.yaml").write_text(existing, encoding="utf-8")
+    existing_all = generate.render_dictionary(
+        "all.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "all.subway.dict.yaml").write_text(existing_all, encoding="utf-8")
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京市"}
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "苹果园"}]}]},
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    assert 'version: "2026.06.01"' in (
+        tmp_path / "beijing.subway.dict.yaml"
+    ).read_text(encoding="utf-8")
+    assert "Last updated: 2026.06.01" in (tmp_path / "README.md").read_text(
+        encoding="utf-8"
+    )
+
+
+def test_generate_project_updates_readme_date_when_city_list_changes(tmp_path: Path):
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nLast updated: 2026.06.01\n\n"
+        "Supported cities and regions: 1\n\n- 北京市 (`beijing`)\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n最后更新：2026.06.01\n\n"
+        "支持城市和地区：1\n\n- 北京市（`beijing`）\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    existing = generate.render_dictionary(
+        "beijing.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "beijing.subway.dict.yaml").write_text(existing, encoding="utf-8")
+    existing_all = generate.render_dictionary(
+        "all.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "all.subway.dict.yaml").write_text(existing_all, encoding="utf-8")
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京"}
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "苹果园"}]}]},
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    assert 'version: "2026.06.01"' in (
+        tmp_path / "beijing.subway.dict.yaml"
+    ).read_text(encoding="utf-8")
+    assert "Last updated: 2026.06.16" in (tmp_path / "README.md").read_text(
+        encoding="utf-8"
+    )
+    assert "- 北京 (`beijing`)" in (tmp_path / "README.md").read_text(
+        encoding="utf-8"
+    )
