@@ -60,13 +60,16 @@ Each file uses a dictionary name that matches the filename prefix:
 # Rime dictionary
 # encoding: utf-8
 #
-#---
+---
 name: beijing.subway
 version: "2026.06.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 ```
+
+The `---` line is the YAML document separator required by Rime and must not be commented out.
+The version uses the generation date in `YYYY.MM.DD` format based on Asia/Shanghai local date.
 
 Entries use exactly three tab-separated fields:
 
@@ -79,6 +82,14 @@ The generator must preserve the distinction between spaces and tabs:
 
 - Spaces separate pinyin syllables inside the second field.
 - Tabs separate Rime fields.
+
+Generated output must be deterministic:
+
+- City dictionary files are written in ascending `spell` order.
+- README city lists are written in ascending `spell` order.
+- Station rows are sorted by generated pinyin, then station name.
+- `all.subway.dict.yaml` is generated from the globally deduplicated station names and uses the same station row sorting rule.
+- README last generated date is updated only when the generator is run; because the README is committed only when files change, scheduled runs with no generated file changes should not create commits.
 
 ## Deduplication
 
