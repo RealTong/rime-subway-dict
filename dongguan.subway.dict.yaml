@@ -1,0 +1,49 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: dongguan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+坝头	ba tou	1
+茶山	cha shan	1
+昌平	chang ping	1
+陈屋	chen wu	1
+大朗	da lang	1
+大岭山	da ling shan	1
+东城	dong cheng	1
+东城南站	dong cheng nan zhan	1
+东莞火车站	dong guan huo che zhan	1
+东莞西站	dong guan xi zhan	1
+凤山	feng shan	1
+广东医大	guang dong yi da	1
+蛤地	ha di	1
+厚德	hou de	1
+虎门火车站	hu men huo che zhan	1
+黄江	huang jiang	1
+黄牛埔	huang niu pu	1
+金桔	jin ju	1
+荔香公园	li xiang gong yuan	1
+立新	li xin	1
+连平	lian ping	1
+寮厦	liao sha	1
+榴花公园	liu hua gong yuan	1
+梅塘	mei tang	1
+牛山	niu shan	1
+旗峰公园	qi feng gong yuan	1
+曲海	qu hai	1
+人民医院	ren min yi yuan	1
+珊美	shan mei	1
+市民中心	shi min zhong xin	1
+松佛	song fu	1
+松山湖	song shan hu	1
+天宝	tian bao	1
+同沙公园	tong sha gong yuan	1
+西平	xi ping	1
+下桥	xia qiao	1
+元美	yuan mei	1
+展览中心	zhan lan zhong xin	1
+中心广场	zhong xin guang chang	1

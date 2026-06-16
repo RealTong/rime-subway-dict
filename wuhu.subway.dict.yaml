@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: wuhu.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+鞍山路	an shan lu	1
+奥体中心	ao ti zhong xin	1
+白马山	bai ma shan	1
+保顺路	bao shun lu	1
+博览中心	bo lan zhong xin	1
+赤铸山路	chi zhu shan lu	1
+方特·徽州路	fang te · hui zhou lu	1
+港湾路	gang wan lu	1
+港一路	gang yi lu	1
+海晏路	hai yan lu	1
+珩琅山路	hang lang shan lu	1
+衡山路	heng shan lu	1
+红花山路	hong hua shan lu	1
+华山路	hua shan lu	1
+环城北路	huan cheng bei lu	1
+鸠兹广场	jiu zi guang chang	1
+龙山路	long shan lu	1
+梦溪路	meng xi lu	1
+神山公园	shen shan gong yuan	1
+神山口	shen shan kou	1
+泰山路	tai shan lu	1
+天门山路	tian men shan lu	1
+天柱山路	tian zhu shan lu	1
+万春湖路	wan chun hu lu	1
+文化路	wen hua lu	1
+文津东路	wen jin dong lu	1
+芜湖火车站	wu hu huo che zhan	1
+芜湖南站	wu hu nan zhan	1
+武夷山路	wu yi shan lu	1
+裕安路	yu an lu	1
+云从路	yun cong lu	1
+赭山公园	zhe shan gong yuan	1
+赭山路	zhe shan lu	1
+政务中心	zheng wu zhong xin	1
+中山北路	zhong shan bei lu	1

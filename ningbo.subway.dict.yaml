@@ -1,0 +1,180 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: ningbo.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+矮柳	ai liu	1
+安石路	an shi lu	1
+盎孟港	ang meng gang	1
+奥体中心	ao ti zhong xin	1
+白鹤	bai he	1
+宝幢	bao chuang	1
+北明程路	bei ming cheng lu	1
+布政	bu zheng	1
+沧海北路	cang hai bei lu	1
+曹隘	cao ai	1
+长江路	chang jiang lu	1
+长兴路	chang xing lu	1
+城隍庙	cheng huang miao	1
+仇毕	chou bi	1
+慈城	ci cheng	1
+慈城西	ci cheng xi	1
+聪园路	cong yuan lu	1
+翠柏里	cui bai li	1
+大成东路	da cheng dong lu	1
+大碶	da qi	1
+大卿桥	da qing qiao	1
+大通桥	da tong qiao	1
+大洋江	da yang jiang	1
+东环南路	dong huan nan lu	1
+东门口(天一广场)	dong men kou ( tian yi guang chang )	1
+东钱湖	dong qian hu	1
+段塘	duan tang	1
+儿童公园	er tong gong yuan	1
+方桥	fang qiao	1
+枫园	feng yuan	1
+福民公园	fu min gong yuan	1
+福明路	fu ming lu	1
+福庆北路	fu qing bei lu	1
+高桥	gao qiao	1
+高桥西	gao qiao xi	1
+高塘桥	gao tang qiao	1
+古林	gu lin	1
+鼓楼	gu lou	1
+官山河	guan shan he	1
+贵驷	gui si	1
+国际会议中心	guo ji hui yi zhong xin	1
+海晏北路	hai yan bei lu	1
+寒松路	han song lu	1
+洪大路	hong da lu	1
+红联	hong lian	1
+洪盛路	hong sheng lu	1
+洪塘	hong tang	1
+洪塘中路	hong tang zhong lu	1
+回龙	hui long	1
+汇士路	hui shi lu	1
+会展中心	hui zhan zhong xin	1
+集士港	ji shi gang	1
+江厦桥东	jiang sha qiao dong	1
+姜山	jiang shan	1
+金达南路	jin da nan lu	1
+金海路	jin hai lu	1
+琎琳	jin lin	1
+金山路	jin shan lu	1
+堇山西路	jin shan xi lu	1
+锦寓路	jin yu lu	1
+聚贤路	ju xian lu	1
+句章路	ju zhang lu	1
+开元路	kai yuan lu	1
+客运中心	ke yun zhong xin	1
+孔浦	kong pu	1
+丽江路	li jiang lu	1
+栎社	li she	1
+栎社国际机场	li she guo ji ji chang	1
+丽园南路	li yuan nan lu	1
+联丰	lian feng	1
+梁祝	liang zhu	1
+柳隘	liu ai	1
+柳西	liu xi	1
+芦港	lu gang	1
+路林	lu lin	1
+骆驼桥	luo tuo qiao	1
+骆兴	luo xing	1
+卖面桥	mai mian qiao	1
+梅墟	mei xu	1
+梅堰	mei yan	1
+庙堰	miao yan	1
+民安东路	min an dong lu	1
+明海北路	ming hai bei lu	1
+明辉路	ming hui lu	1
+明楼	ming lou	1
+明珠路	ming zhu lu	1
+南部商务区	nan bu shang wu qu	1
+南渡	nan du	1
+南高教园区	nan gao jiao yuan qu	1
+南苑	nan yuan	1
+倪家堰	ni jia yan	1
+宁波大剧院	ning bo da ju yuan	1
+宁波大学	ning bo da xue	1
+宁波火车站	ning bo huo che zhan	1
+宁慈东路	ning ci dong lu	1
+藕池	ou chi	1
+潘火路	pan huo lu	1
+钱湖北路	qian hu bei lu	1
+钱湖南路	qian hu nan lu	1
+轻纺城	qing fang cheng	1
+庆丰桥东	qing feng qiao dong	1
+青林湾	qing lin wan	1
+清水浦	qing shui pu	1
+邱隘	qiu ai	1
+邱隘东	qiu ai dong	1
+三官堂	san guan tang	1
+尚德路	shang de lu	1
+盛莫路	sheng mo lu	1
+世纪大道	shi ji da dao	1
+石碶	shi qi	1
+狮山	shi shan	1
+市中医院	shi zhong yi yuan	1
+曙光	shu guang	1
+双东路	shuang dong lu	1
+泗港	si gang	1
+四明中路	si ming zhong lu	1
+松花江路	song hua jiang lu	1
+宋家漕	song jia cao	1
+嵩江东路	song jiang dong lu	1
+体育馆	ti yu guan	1
+同德路	tong de lu	1
+外滩大桥	wai tan da qiao	1
+湾头	wan tou	1
+望春桥	wang chun qiao	1
+邬隘	wu ai	1
+五里牌	wu li pai	1
+五乡	wu xiang	1
+西门口	xi men kou	1
+霞浦	xia pu	1
+下应路	xia ying lu	1
+小港西	xiao gang xi	1
+小洋江	xiao yang jiang	1
+榭嘉	xie jia	1
+谢墅	xie shu	1
+新天路	xin tian lu	1
+新芝路	xin zhi lu	1
+兴海南路	xing hai nan lu	1
+兴宁桥东	xing ning qiao dong	1
+兴宁桥西	xing ning qiao xi	1
+兴庄路	xing zhuang lu	1
+徐家漕长乐	xu jia cao chang le	1
+学府路	xue fu lu	1
+雅渡	ya du	1
+衙前	ya qian	1
+压赛堰	ya sai yan	1
+鄞州大道	yin zhou da dao	1
+鄞州公园南	yin zhou gong yuan nan	1
+鄞州客运总站	yin zhou ke yun zong zhan	1
+鄞州区政府	yin zhou qu zheng fu	1
+樱花公园	ying hua gong yuan	1
+应嘉路	ying jia lu	1
+永茂路	yong mao lu	1
+俞范	yu fan	1
+院士路	yuan shi lu	1
+云飞路(康桥南)	yun fei lu ( kang qiao nan )	1
+云林西路	yun lin xi lu	1
+云龙	yun long	1
+云霞路	yun xia lu	1
+泽民	ze min	1
+张家潭	zhang jia tan	1
+招宝山	zhao bao shan	1
+朝阳	zhao yang	1
+镇海大道(慈海)	zhen hai da dao ( ci hai )	1
+镇海市民广场	zhen hai shi min guang chang	1
+正大路	zheng da lu	1
+钟公庙	zhong gong miao	1
+中河路	zhong he lu	1
+中兴大桥南	zhong xing da qiao nan	1
+舟孟北路	zhou meng bei lu	1
+庄桥火车站	zhuang qiao huo che zhan	1

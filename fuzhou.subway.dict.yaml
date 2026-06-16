@@ -1,0 +1,115 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: fuzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安平	an ping	1
+鳌峰洲	ao feng zhou	1
+白湖亭	bai hu ting	1
+半洲	ban zhou	1
+滨海西	bin hai xi	1
+滨海中央商务区	bin hai zhong yang shang wu qu	1
+茶亭	cha ting	1
+城门	cheng men	1
+达道	da dao	1
+大数据	da shu ju	1
+帝封江	di feng jiang	1
+东街口	dong jie kou	1
+东岭	dong ling	1
+东门	dong men	1
+董屿·福建师大	dong yu · fu jian shi da	1
+斗门	dou men	1
+凤岗里	feng gang li	1
+凤凰池	feng huang chi	1
+福州大学	fu zhou da xue	1
+福州火车南站	fu zhou huo che nan zhan	1
+福州火车站	fu zhou huo che zhan	1
+盖山竹榄	gai shan zhu lan	1
+鼓山	gu shan	1
+光明港	guang ming gang	1
+航城	hang cheng	1
+鹤上	he shang	1
+横屿	heng yu	1
+洪塘	hong tang	1
+洪湾	hong wan	1
+厚庭	hou ting	1
+后屿	hou yu	1
+壶井	hu jing	1
+葫芦阵	hu lu zhen	1
+花海公园	hua hai gong yuan	1
+黄山	huang shan	1
+会展中心	hui zhan zhong xin	1
+机场	ji chang	1
+建新	jian xin	1
+金牛山	jin niu shan	1
+金山	jin shan	1
+金祥	jin xiang	1
+金屿	jin yu	1
+荆溪厚屿	jing xi hou yu	1
+桔园洲	ju yuan zhou	1
+莲花	lian hua	1
+梁厝	liang cuo	1
+林浦	lin pu	1
+龙江	long jiang	1
+胪雷	lu lei	1
+陆庄	lu zhuang	1
+罗汉山	luo han shan	1
+螺洲古镇	luo zhou gu zhen	1
+螺洲温泉	luo zhou wen quan	1
+马榕	ma rong	1
+闽都	min dou	1
+南公园	nan gong yuan	1
+南门兜	nan men dou	1
+宁化	ning hua	1
+农林大学	nong lin da xue	1
+排下	pai xia	1
+潘墩	pan dun	1
+盘屿	pan yu	1
+屏山	ping shan	1
+浦上大道	pu shang da dao	1
+前锦	qian jin	1
+前屿	qian yu	1
+三叉街	san cha jie	1
+三叉街(滨海快线)	san cha jie ( bin hai kuai xian )	1
+三江口	san jiang kou	1
+三角埕	san jiao cheng	1
+三角池	san jiao chi	1
+沙堤	sha di	1
+沙京	sha jing	1
+上街	shang jie	1
+上藤	shang teng	1
+上洋	shang yang	1
+省立医院	sheng li yi yuan	1
+十洋	shi yang	1
+首占	shou zhan	1
+树兜	shu dou	1
+水部	shui bu	1
+苏洋	su yang	1
+台屿	tai yu	1
+万寿	wan shou	1
+文岭	wen ling	1
+吴航	wu hang	1
+五里亭	wu li ting	1
+吴山	wu shan	1
+西门	xi men	1
+西洋	xi yang	1
+霞镜	xia jing	1
+下吴	xia wu	1
+下洋	xia yang	1
+祥坂	xiang ban	1
+象峰	xiang feng	1
+祥谦	xiang qian	1
+秀山	xiu shan	1
+洋里	yang li	1
+义序	yi xu	1
+营前	ying qian	1
+樟岚	zhang lan	1
+阵坂	zhen ban	1
+郑和	zheng he	1
+竹屿	zhu yu	1
+紫阳	zi yang	1

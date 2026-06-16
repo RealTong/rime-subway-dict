@@ -1,0 +1,80 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xiamen.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安兜	an dou	1
+坂尚	ban shang	1
+蔡厝	cai cuo	1
+蔡塘	cai tang	1
+诚毅广场	cheng yi guang chang	1
+殿前	dian qian	1
+东孚	dong fu	1
+东界	dong jie	1
+东瑶	dong yao	1
+东宅	dong zhai	1
+高崎	gao qi	1
+古地石	gu di shi	1
+鼓锣	gu luo	1
+官任	guan ren	1
+观音山	guan yin shan	1
+国际博览中心	guo ji bo lan zhong xin	1
+海沧商务中心	hai cang shang wu zhong xin	1
+海沧湾公园	hai cang wan gong yuan	1
+海沧行政中心	hai cang xing zheng zhong xin	1
+何厝	he cuo	1
+洪坑	hong keng	1
+后村	hou cun	1
+后埔	hou pu	1
+湖滨东路	hu bin dong lu	1
+湖滨中路	hu bin zhong lu	1
+湖里创新园	hu li chuang xin yuan	1
+湖里公园	hu li gong yuan	1
+华荣路	hua rong lu	1
+火炬园	huo ju yuan	1
+集美大道	ji mei da dao	1
+集美软件园	ji mei ruan jian yuan	1
+集美学村	ji mei xue cun	1
+建业路	jian ye lu	1
+将军祠	jiang jun ci	1
+江头	jiang tou	1
+莲坂	lian ban	1
+莲花路口	lian hua lu kou	1
+两岸金融中心	liang an jin rong zhong xin	1
+林前	lin qian	1
+岭兜	ling dou	1
+吕厝	lv cuo	1
+马青路	ma qing lu	1
+浦边	pu bian	1
+人才中心	ren cai zhong xin	1
+软件园二期	ruan jian yuan er qi	1
+湿地公园	shi di gong yuan	1
+塘边	tang bian	1
+体育中心	ti yu zhong xin	1
+天水路	tian shui lu	1
+天竺山	tian zhu shan	1
+文灶	wen zao	1
+翁角路	weng jiao lu	1
+乌石浦	wu shi pu	1
+五通	wu tong	1
+五缘湾	wu yuan wan	1
+厦门北站	xia men bei zhan	1
+厦门火车站	xia men huo che zhan	1
+翔安市民公园	xiang an shi min gong yuan	1
+小东山	xiao dong shan	1
+新垵	xin an	1
+新阳大道	xin yang da dao	1
+杏锦路	xing jin lu	1
+杏林村	xing lin cun	1
+岩内	yan nei	1
+邮轮中心	you lun zhong xin	1
+育秀东路	yu xiu dong lu	1
+园博苑	yuan bo yuan	1
+镇海路	zhen hai lu	1
+中山公园	zhong shan gong yuan	1
+钟宅	zhong zhai	1

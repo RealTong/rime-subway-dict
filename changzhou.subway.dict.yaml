@@ -1,0 +1,53 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: changzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+北郊中学	bei jiao zhong xue	1
+博爱路	bo ai lu	1
+茶山	cha shan	1
+长虹路	chang hong lu	1
+常州北站	chang zhou bei zhan	1
+常州火车站	chang zhou huo che zhan	1
+翠竹	cui zhu	1
+丁堰	ding yan	1
+海棠路	hai tang lu	1
+河海	he hai	1
+红梅公园	hong mei gong yuan	1
+湖塘	hu tang	1
+怀德	huai de	1
+环球港	huan qiu gang	1
+聚湖路	ju hu lu	1
+科教城北	ke jiao cheng bei	1
+科教城南	ke jiao cheng nan	1
+潞城	lu cheng	1
+旅游学校	lv you xue xiao	1
+南大街	nan da jie	1
+南夏墅	nan xia shu	1
+勤业	qin ye	1
+青枫公园	qing feng gong yuan	1
+清凉寺	qing liang si	1
+青洋路	qing yang lu	1
+三角场	san jiao chang	1
+森林公园	sen lin gong yuan	1
+市民广场	shi min guang chang	1
+同济桥	tong ji qiao	1
+外国语学校	wai guo yu xue xiao	1
+文化宫	wen hua gong	1
+五角场	wu jiao chang	1
+武进沿江城际	wu jin yan jiang cheng ji	1
+五星	wu xing	1
+五一路	wu yi lu	1
+新龙	xin long	1
+新桥	xin qiao	1
+新区公园	xin qu gong yuan	1
+新天地公园	xin tian di gong yuan	1
+延政大道	yan zheng da dao	1
+阳湖路	yang hu lu	1
+紫云	zi yun	1

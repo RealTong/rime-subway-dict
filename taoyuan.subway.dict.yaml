@@ -1,0 +1,32 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: taoyuan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+长庚医院	chang geng yi yuan	1
+大园	da yuan	1
+高铁桃园站	gao tie tao yuan zhan	1
+横山	heng shan	1
+环北	huan bei	1
+机场第二航厦	ji chang di er hang sha	1
+机场第一航厦	ji chang di yi hang sha	1
+机场旅馆	ji chang lv guan	1
+坑口	keng kou	1
+老街溪	lao jie xi	1
+林口	lin kou	1
+领航	ling hang	1
+三重	san chong	1
+山鼻	shan bi	1
+台北车站	tai bei che zhan	1
+泰山	tai shan	1
+泰山贵和	tai shan gui he	1
+桃园体育园区	tao yuan ti yu yuan qu	1
+体育大学	ti yu da xue	1
+新北产业园区	xin bei chan ye yuan qu	1
+新庄副都心	xin zhuang fu dou xin	1
+兴南	xing nan	1

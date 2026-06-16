@@ -1,0 +1,193 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: hefei.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安大磬苑校区	an da qing yuan xiao qu	1
+安农大	an nong da	1
+安医大二附院	an yi da er fu yuan	1
+安医一附院北区	an yi yi fu yuan bei qu	1
+安医一附院南区	an yi yi fu yuan nan qu	1
+白水坝	bai shui ba	1
+包公园	bao gong yuan	1
+包河苑	bao he yuan	1
+北城高铁站	bei cheng gao tie zhan	1
+北城世纪城	bei cheng shi ji cheng	1
+北五里井	bei wu li jing	1
+北雁湖	bei yan hu	1
+滨湖会展中心	bin hu hui zhan zhong xin	1
+滨湖竹园	bin hu zhu yuan	1
+丙子铺	bing zi pu	1
+漕冲	cao chong	1
+长安集	chang an ji	1
+撮镇	cuo zhen	1
+大东门	da dong men	1
+大连路	da lian lu	1
+大蜀山	da shu shan	1
+大兴集	da xing ji	1
+大学城北	da xue cheng bei	1
+稻香楼	dao xiang lou	1
+店埠河	dian bu he	1
+东二十埠	dong er shi bu	1
+东七里	dong qi li	1
+东五里井	dong wu li jing	1
+窦桥湾	dou qiao wan	1
+渡江纪念馆	du jiang ji nian guan	1
+对河	dui he	1
+繁华大道	fan hua da dao	1
+方庙	fang miao	1
+方兴湖	fang xing hu	1
+肥东站	fei dong zhan	1
+淝南	fei nan	1
+伏龙	fu long	1
+复兴集	fu xing ji	1
+钢红	gang hong	1
+高王	gao wang	1
+葛大店	ge da dian	1
+葛大店南	ge da dian nan	1
+工大翡翠湖校区	gong da fei cui hu xiao qu	1
+工经学院	gong jing xue yuan	1
+桂王	gui wang	1
+贵阳路	gui yang lu	1
+桂庄	gui zhuang	1
+国防科技大学	guo fang ke ji da xue	1
+海棠	hai tang	1
+合肥大剧院	he fei da ju yuan	1
+合肥火车站	he fei huo che zhan	1
+合肥南站	he fei nan zhan	1
+合肥七中	he fei qi zhong	1
+合肥西站	he fei xi zhan	1
+合工大南区	he gong da nan qu	1
+和睦湖	he mu hu	1
+荷塘路	he tang lu	1
+洪岗	hong gang	1
+华山路	hua shan lu	1
+花园大道	hua yuan da dao	1
+淮南路	huai nan lu	1
+黄河路	huang he lu	1
+汲桥路	ji qiao lu	1
+金斗公园	jin dou gong yuan	1
+金桂	jin gui	1
+金梅路	jin mei lu	1
+金小郢	jin xiao ying	1
+九联圩	jiu lian wei	1
+开福寺	kai fu si	1
+科大先研院	ke da xian yan yuan	1
+科学大道	ke xue da dao	1
+乐平	le ping	1
+李湾	li wan	1
+凉亭	liang ting	1
+量子科学中心	liang zi ke xue zhong xin	1
+凌大塘	ling da tang	1
+菱湖公园	ling hu gong yuan	1
+柳树塘	liu shu tang	1
+六中菱湖校区	liu zhong ling hu xiao qu	1
+龙岗	long gang	1
+龙塘	long tang	1
+陆军兵种大学	lu jun bing zhong da xue	1
+庐阳经开区	lu yang jing kai qu	1
+骆岗	luo gang	1
+马桥	ma qiao	1
+梅冲湖	mei chong hu	1
+梦城	meng cheng	1
+明光路	ming guang lu	1
+南岗	nan gang	1
+南屏路	nan ping lu	1
+南七里	nan qi li	1
+南沙河	nan sha he	1
+南新庄	nan xin zhuang	1
+南站南广场	nan zhan nan guang chang	1
+排头	pai tou	1
+汽车西站	qi che xi zhan	1
+勤劳村	qin lao cun	1
+青龙岗	qing long gang	1
+清水冲	qing shui chong	1
+秋浦河路	qiu pu he lu	1
+芮祠	rui ci	1
+三里庵	san li an	1
+三里街	san li jie	1
+三十埠	san shi bu	1
+三十埠东	san shi bu dong	1
+三孝口	san xiao kou	1
+烧脉岗	shao mai gang	1
+沈湾	shen wan	1
+省博物院	sheng bo wu yuan	1
+盛大	sheng da	1
+省儿童医院新区	sheng er tong yi yuan xin qu	1
+省立医院北区	sheng li yi yuan bei qu	1
+省行政中心东	sheng xing zheng zhong xin dong	1
+市第三医院	shi di san yi yuan	1
+市儿童医院	shi er tong yi yuan	1
+十里村	shi li cun	1
+十里庙	shi li miao	1
+市政务中心	shi zheng wu zhong xin	1
+蜀山西	shu shan xi	1
+双墩	shuang dun	1
+双凤	shuang feng	1
+四牌楼	si pai lou	1
+四泉桥	si quan qiao	1
+四十埠	si shi bu	1
+松荫桥	song yin qiao	1
+唐大楼	tang da lou	1
+唐桥	tang qiao	1
+塘西河公园	tang xi he gong yuan	1
+陶冲湖东	tao chong hu dong	1
+桃花潭	tao hua tan	1
+天鹅湖	tian e hu	1
+天鹅湖东	tian e hu dong	1
+天柱路	tian zhu lu	1
+铜锣寨路	tong luo zhai lu	1
+图书馆	tu shu guan	1
+万达城	wan da cheng	1
+万年埠	wan nian bu	1
+王岗	wang gang	1
+望湖城	wang hu cheng	1
+望湖城南	wang hu cheng nan	1
+望湖城西	wang hu cheng xi	1
+卫岗	wei gang	1
+魏庄	wei zhuang	1
+文浍苑	wen hui yuan	1
+五里墩	wu li dun	1
+五里庙	wu li miao	1
+西七里塘	xi qi li tang	1
+相城路	xiang cheng lu	1
+祥和	xiang he	1
+新海大道	xin hai da dao	1
+新海公园	xin hai gong yuan	1
+幸福坝	xing fu ba	1
+杏花村	xing hua cun	1
+杏花公园	xing hua gong yuan	1
+兴华苑	xing hua yuan	1
+杏林	xing lin	1
+休宁路	xiu ning lu	1
+薛河	xue he	1
+鸭林冲	ya lin chong	1
+扬子江路	yang zi jiang lu	1
+尧渡河路	yao du he lu	1
+姚公庙	yao gong miao	1
+瑶海公园	yao hai gong yuan	1
+义城	yi cheng	1
+一里井	yi li jing	1
+义兴	yi xing	1
+幼儿师范	you er shi fan	1
+玉兰大道	yu lan da dao	1
+云川公园	yun chuan gong yuan	1
+云谷路	yun gu lu	1
+站塘	zhan tang	1
+长淮	zhang huai	1
+张洼	zhang wa	1
+振兴路	zhen xing lu	1
+郑河	zheng he	1
+职教城	zhi jiao cheng	1
+职教城东	zhi jiao cheng dong	1
+中国科大东区	zhong guo ke da dong qu	1
+朱岗	zhu gang	1
+竹丝滩	zhu si tan	1
+竹西	zhu xi	1
+紫庐	zi lu	1
+综保区	zong bao qu	1

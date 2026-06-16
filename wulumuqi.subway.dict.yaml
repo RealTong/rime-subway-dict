@@ -1,0 +1,32 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: wulumuqi.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+八楼	ba lou	1
+北门	bei men	1
+大地窝堡	da di wo bao	1
+二道桥	er dao qiao	1
+国际机场	guo ji ji chang	1
+国际机场北	guo ji ji chang bei	1
+南湖北路	nan hu bei lu	1
+南湖广场	nan hu guang chang	1
+南门	nan men	1
+三工	san gong	1
+三屯碑	san tun bei	1
+体育中心	ti yu zhong xin	1
+铁路局	tie lu ju	1
+王家梁	wang jia liang	1
+小西沟	xiao xi gou	1
+新疆大学	xin jiang da xue	1
+新疆图书馆	xin jiang tu shu guan	1
+新兴街	xin xing jie	1
+宣仁墩	xuan ren dun	1
+迎宾路口	ying bin lu kou	1
+植物园	zhi wu yuan	1
+中营工	zhong ying gong	1

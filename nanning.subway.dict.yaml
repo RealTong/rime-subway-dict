@@ -1,0 +1,105 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: nanning.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安吉客运站	an ji ke yun zhan	1
+白苍岭	bai cang ling	1
+百花岭	bai hua ling	1
+北湖北路	bei hu bei lu	1
+北湖南路	bei hu nan lu	1
+滨湖路	bin hu lu	1
+创业路	chuang ye lu	1
+大鸡村	da ji cun	1
+大沙田	da sha tian	1
+东风路	dong feng lu	1
+东葛路	dong ge lu	1
+东沟岭	dong gou ling	1
+东盟商务区	dong meng shang wu qu	1
+动物园	dong wu yuan	1
+飞龙路	fei long lu	1
+凤岭	feng ling	1
+福建园	fu jian yuan	1
+佛子岭	fu zi ling	1
+广西大学	guang xi da xue	1
+广西规划馆	guang xi gui hua guan	1
+国凯大道	guo kai da dao	1
+洪运路	hong yun lu	1
+虎邱	hu qiu	1
+会展中心	hui zhan zhong xin	1
+火车东站	huo che dong zhan	1
+火车站	huo che zhan	1
+建设路	jian she lu	1
+江南公园	jiang nan gong yuan	1
+江南客运站	jiang nan ke yun zhan	1
+降桥	jiang qiao	1
+金湖广场	jin hu guang chang	1
+金凯路	jin kai lu	1
+金桥客运站	jin qiao ke yun zhan	1
+金象	jin xiang	1
+金象大道	jin xiang da dao	1
+金阳路	jin yang lu	1
+科园大道	ke yuan da dao	1
+埌东客运站	lang dong ke yun zhan	1
+埌西	lang xi	1
+楞塘村	leng tang cun	1
+良庆大桥南	liang qing da qiao nan	1
+良庆圩	liang qing wei	1
+龙岗	long gang	1
+鲁班路	lu ban lu	1
+麻村	ma cun	1
+民族大学	min zu da xue	1
+民族广场	min zu guang chang	1
+明秀路	ming xiu lu	1
+那福路	na fu lu	1
+那洪立交	na hong li jiao	1
+那历村	na li cun	1
+南湖	nan hu	1
+南宁剧场	nan ning ju chang	1
+南职院	nan zhi yuan	1
+鹏飞路	peng fei lu	1
+平良立交	ping liang li jiao	1
+清川	qing chuan	1
+庆歌路	qing ge lu	1
+清平坡	qing ping po	1
+青秀山	qing xiu shan	1
+青竹立交	qing zhu li jiao	1
+三十三中	san shi san zhong	1
+市博物馆	shi bo wu guan	1
+石埠	shi bu	1
+狮山公园	shi shan gong yuan	1
+石柱岭	shi zhu ling	1
+石子塘	shi zi tang	1
+苏卢	su lu	1
+坛泽	tan ze	1
+体育中心东	ti yu zhong xin dong	1
+体育中心西	ti yu zhong xin xi	1
+亭洪路	ting hong lu	1
+通源路	tong yuan lu	1
+万象城	wan xiang cheng	1
+五象湖	wu xiang hu	1
+五象岭	wu xiang ling	1
+五一立交	wu yi li jiao	1
+西津	xi jin	1
+西乡塘客运站	xi xiang tang ke yun zhan	1
+小鸡村	xiao ji cun	1
+新民路	xin min lu	1
+新秀公园	xin xiu gong yuan	1
+兴桂路	xing gui lu	1
+秀峰路	xiu feng lu	1
+秀灵路	xiu ling lu	1
+秀厢	xiu xiang	1
+邕宾立交	yong bin li jiao	1
+邕武路	yong wu lu	1
+玉洞	yu dong	1
+玉岭路	yu ling lu	1
+玉象路	yu xiang lu	1
+长堽路	zhang gang lu	1
+朝阳广场	zhao yang guang chang	1
+周家坡	zhou jia po	1
+总部基地	zong bu ji di	1

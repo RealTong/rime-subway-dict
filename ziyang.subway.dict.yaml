@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: ziyang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+宝台	bao tai	1
+苌弘广场	chang hong guang chang	1
+福田	fu tian	1
+芦葭	lu jia	1
+幸福大道	xing fu da dao	1
+资阳北站	zi yang bei zhan	1
+资阳临空	zi yang lin kong	1

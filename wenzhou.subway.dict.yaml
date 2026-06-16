@@ -1,0 +1,46 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: wenzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+鲍田	bao tian	1
+大典下	da dian xia	1
+德政	de zheng	1
+动车南站	dong che nan zhan	1
+东山	dong shan	1
+海城	hai cheng	1
+惠民路	hui min lu	1
+机场	ji chang	1
+科技城	ke ji cheng	1
+灵昆	ling kun	1
+柳市东	liu shi dong	1
+龙腾路	long teng lu	1
+龙霞路	long xia lu	1
+瓯华	ou hua	1
+瓯江口	ou jiang kou	1
+潘桥	pan qiao	1
+清东路	qing dong lu	1
+三垟湿地	san yang shi di	1
+沙城	sha cheng	1
+上东路	shang dong lu	1
+上望	shang wang	1
+莘塍	shen cheng	1
+双瓯大道	shuang ou da dao	1
+天河	tian he	1
+汀田	ting tian	1
+桐岭	tong ling	1
+万岙	wan ao	1
+翁垟	weng yang	1
+新桥	xin qiao	1
+新望	xin wang	1
+旭阳路	xu yang lu	1
+盐盆	yan pen	1
+瑶溪	yao xi	1
+永兴	yong xing	1
+永中	yong zhong	1

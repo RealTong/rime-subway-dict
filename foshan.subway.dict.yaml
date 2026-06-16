@@ -1,0 +1,121 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: foshan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+板桥	ban qiao	1
+北滘公园	bei jiao gong yuan	1
+北滘西站	bei jiao xi zhan	1
+博爱中路	bo ai zhong lu	1
+朝安	chao an	1
+陈村	chen cun	1
+陈村北	chen cun bei	1
+大墩	da dun	1
+大良钟楼	da liang zhong lou	1
+大沙东	da sha dong	1
+大学城南	da xue cheng nan	1
+大洲	da zhou	1
+登洲	deng zhou	1
+叠滘	die jiao	1
+东乐路	dong le lu	1
+东平	dong ping	1
+佛山大学	fo shan da xue	1
+佛山西站	fo shan xi zhan	1
+高村	gao cun	1
+广教	guang jiao	1
+广州南站	guang zhou nan zhan	1
+桂城	gui cheng	1
+汉溪长隆	han xi zhang long	1
+鹤洞	he dong	1
+湖涌	hu yong	1
+华翠路	hua cui lu	1
+花卉世界	hua hui shi jie	1
+环市北	huan shi bei	1
+季华六路	ji hua liu lu	1
+季华园	ji hua yuan	1
+姬堂	ji tang	1
+加庄	jia zhuang	1
+锦龙	jin long	1
+金融高新区	jin rong gao xin qu	1
+驹荣北路	ju rong bei lu	1
+菊树	ju shu	1
+康怡公园	kang yi gong yuan	1
+科丰路	ke feng lu	1
+科盛路	ke sheng lu	1
+魁奇路	kui qi lu	1
+澜石	lan shi	1
+礌岗	lei gang	1
+荔村	li cun	1
+沥滘	li jiao	1
+联和	lian he	1
+林岳北	lin yue bei	1
+林岳东	lin yue dong	1
+林岳东(2号线)	lin yue dong (2 hao xian )	1
+林岳西	lin yue xi	1
+龙溪	long xi	1
+伦教	lun jiao	1
+罗村	luo cun	1
+萝岗	luo gang	1
+绿岛湖	lv dao hu	1
+美的	mei de	1
+美的大道	mei de da dao	1
+南村万博	nan cun wan bo	1
+南桂路	nan gui lu	1
+南海大学城	nan hai da xue cheng	1
+南涌	nan yong	1
+南洲	nan zhou	1
+南庄	nan zhuang	1
+平南	ping nan	1
+平西	ping xi	1
+普君北路	pu jun bei lu	1
+千灯湖	qian deng hu	1
+三山新城北	san shan xin cheng bei	1
+三山新城南	san shan xin cheng nan	1
+沙岗	sha gang	1
+沙涌	sha yong	1
+沙园	sha yuan	1
+深井	shen jing	1
+石壁	shi bi	1
+世纪莲	shi ji lian	1
+石梁	shi liang	1
+石湾	shi wan	1
+石溪	shi xi	1
+石洲	shi zhou	1
+水西	shui xi	1
+顺德欢乐海岸	shun de huan le hai an	1
+顺德人民医院	shun de ren min yi yuan	1
+顺德学院站	shun de xue yuan zhan	1
+顺德一中	shun de yi zhong	1
+潭洲会展	tan zhou hui zhan	1
+同济路	tong ji lu	1
+湾华	wan hua	1
+文翰湖公园(季华实验室)	wen han hu gong yuan ( ji hua shi yan shi )	1
+西塱	xi lang	1
+西约	xi yue	1
+夏东	xia dong	1
+夏西	xia xi	1
+仙涌	xian yong	1
+孝德东	xiao de dong	1
+谢村	xie cun	1
+新城东	xin cheng dong	1
+兴业东路	xing ye dong lu	1
+亚艺公园	ya yi gong yuan	1
+燕岗	yan gang	1
+燕山	yan shan	1
+裕丰围	yu feng wei	1
+玉器街	yu qi jie	1
+员岗	yuan gang	1
+岳步	yue bu	1
+张槎	zhang cha	1
+长洲	zhang zhou	1
+镇安	zhen an	1
+智慧新城	zhi hui xin cheng	1
+钟村	zhong cun	1
+中区	zhong qu	1
+中山公园	zhong shan gong yuan	1
+祖庙	zu miao	1

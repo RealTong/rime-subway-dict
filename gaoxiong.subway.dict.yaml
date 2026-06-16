@@ -1,0 +1,85 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: gaoxiong.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+爱河之心	ai he zhi xin	1
+凹子底	ao zi di	1
+驳二大义	bo er da yi	1
+驳二蓬莱	bo er peng lai	1
+草衙	cao ya	1
+大东	da dong	1
+大寮	da liao	1
+大顺民族	da shun min zu	1
+都会公园	du hui gong yuan	1
+凤山	feng shan	1
+凤山国中	feng shan guo zhong	1
+凤山西站(高雄市议会)	feng shan xi zhan ( gao xiong shi yi hui )	1
+冈山车站	gang shan che zhan	1
+冈山高医	gang shan gao yi	1
+高铁左营站	gao tie zuo ying zhan	1
+高雄车站	gao xiong che zhan	1
+高雄高工	gao xiong gao gong	1
+高雄国际机场	gao xiong guo ji ji chang	1
+高雄展览馆	gao xiong zhan lan guan	1
+鼓山	gu shan	1
+鼓山区公所站	gu shan qu gong suo zhan	1
+光荣码头	guang rong ma tou	1
+哈玛星	ha ma xing	1
+后劲	hou jin	1
+机厂	ji chang	1
+经贸园区	jing mao yuan qu	1
+巨蛋	ju dan	1
+凯旋	kai xuan	1
+凯旋二圣	kai xuan er sheng	1
+凯旋公园	kai xuan gong yuan	1
+凯旋瑞田	kai xuan rui tian	1
+凯旋武昌	kai xuan wu chang	1
+凯旋中华	kai xuan zhong hua	1
+科工馆	ke gong guan	1
+篱仔内	li zai nei	1
+联合医院	lian he yi yuan	1
+苓雅运动园区	ling ya yun dong yuan qu	1
+龙华国小	long hua guo xiao	1
+旅运中心	lv yun zhong xin	1
+马卡道	ma ka dao	1
+美丽岛	mei li dao	1
+美术馆	mei shu guan	1
+梦时代	meng shi dai	1
+楠梓科技园区	nan zi ke ji yuan qu	1
+内惟艺术中心	nei wei yi shu zhong xin	1
+前金	qian jin	1
+前镇高中	qian zhen gao zhong	1
+前镇之星	qian zhen zhi xing	1
+桥头火车站	qiao tou huo che zhan	1
+桥头糖厂	qiao tou tang chang	1
+青埔	qing pu	1
+R12后驿	r12 hou yi	1
+软件园区	ruan jian yuan qu	1
+三多商圈	san duo shang quan	1
+圣功医院	sheng gong yi yuan	1
+生态园区	sheng tai yuan qu	1
+狮甲	shi jia	1
+世运	shi yun	1
+寿山公园	shou shan gong yuan	1
+树德家商	shu de jia shang	1
+台铁美术馆	tai tie mei shu guan	1
+湾仔内	wan zai nei	1
+卫生局	wei sheng ju	1
+卫武营	wei wu ying	1
+文化中心	wen hua zhong xin	1
+文武圣殿	wen wu sheng dian	1
+五块厝	wu kuai cuo	1
+五权国小	wu quan guo xiao	1
+小港	xiao gang	1
+新上国小	xin shang guo xiao	1
+信义国小	xin yi guo xiao	1
+盐埕埔	yan cheng pu	1
+油厂国小	you chang guo xiao	1
+真爱码头	zhen ai ma tou	1
+中央公园	zhong yang gong yuan	1

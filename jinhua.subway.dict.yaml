@@ -1,0 +1,39 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: jinhua.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+八一南街	ba yi nan jie	1
+稠江	chou jiang	1
+春晗	chun han	1
+大堰河街	da yan he jie	1
+东华街	dong hua jie	1
+歌山路	ge shan lu	1
+官塘	guan tang	1
+轨道大厦	gui dao da sha	1
+国际商贸城	guo ji shang mao cheng	1
+横店高铁站	heng dian gao tie zhan	1
+会展中心	hui zhan zhong xin	1
+江东	jiang dong	1
+金华南站	jin hua nan zhan	1
+金华站	jin hua zhan	1
+凌云	ling yun	1
+明清宫	ming qing gong	1
+木雕城	mu diao cheng	1
+秦塘	qin tang	1
+人民路	ren min lu	1
+双溪西路	shuang xi xi lu	1
+塘雅	tang ya	1
+体育馆	ti yu guan	1
+万达广场	wan da guang chang	1
+新区	xin qu	1
+绣湖	xiu hu	1
+义亭	yi ting	1
+义乌高铁站	yi wu gao tie zhan	1
+浙医四院	zhe yi si yuan	1
+综保区	zong bao qu	1

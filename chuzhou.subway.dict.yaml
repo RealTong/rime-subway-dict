@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: chuzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+汊河	cha he	1
+汊河新城	cha he xin cheng	1
+滁州高铁站	chu zhou gao tie zhan	1
+滁州政务中心	chu zhou zheng wu zhong xin	1
+大王郢	da wang ying	1
+花博园	hua bo yuan	1
+琅琊山	lang ya shan	1
+林楼	lin lou	1
+十二里半	shi er li ban	1
+苏滁商务中心	su chu shang wu zhong xin	1

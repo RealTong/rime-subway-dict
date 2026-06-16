@@ -1,0 +1,83 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: haerbin.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+北马路	bei ma lu	1
+冰雪大世界	bing xue da shi jie	1
+渤海路	bo hai lu	1
+博物馆	bo wu guan	1
+城乡路	cheng xiang lu	1
+大耿家	da geng jia	1
+大有坊街	da you fang jie	1
+丁香公园	ding xiang gong yuan	1
+东北农业大学	dong bei nong ye da xue	1
+公滨路	gong bin lu	1
+工程大学	gong cheng da xue	1
+公路大桥	gong lu da qiao	1
+工农大街	gong nong da jie	1
+工人文化宫	gong ren wen hua gong	1
+哈达	ha da	1
+哈尔滨北站	ha er bin bei zhan	1
+哈尔滨东站	ha er bin dong zhan	1
+哈尔滨南站	ha er bin nan zhan	1
+哈尔滨西站	ha er bin xi zhan	1
+哈尔滨站	ha er bin zhan	1
+哈工大	ha gong da	1
+哈西大街	ha xi da jie	1
+海河东路	hai he dong lu	1
+河山街	he shan jie	1
+河松街	he song jie	1
+和兴路	he xing lu	1
+黑龙江大学	hei long jiang da xue	1
+桦树街	hua shu jie	1
+会展中心	hui zhan zhong xin	1
+江北大学城	jiang bei da xue cheng	1
+交通学院	jiao tong xue yuan	1
+进乡街	jin xiang jie	1
+镜泊路	jing po lu	1
+靖宇公园	jing yu gong yuan	1
+凯盛源广场	kai sheng yuan guang chang	1
+劳动公园	lao dong gong yuan	1
+理工大学	li gong da xue	1
+龙川路	long chuan lu	1
+南直路	nan zhi lu	1
+汽轮机厂	qi lun ji chang	1
+气象台	qi xiang tai	1
+清真寺	qing zhen si	1
+群力第五大道	qun li di wu da dao	1
+人民广场	ren min guang chang	1
+上海街	shang hai jie	1
+尚志大街	shang zhi da jie	1
+省医院	sheng yi yuan	1
+省政府	sheng zheng fu	1
+市第二医院	shi di er yi yuan	1
+世茂大道	shi mao da dao	1
+太平桥	tai ping qiao	1
+太阳岛	tai yang dao	1
+体育公园	ti yu gong yuan	1
+铁路局	tie lu ju	1
+同江路	tong jiang lu	1
+瓦盆窑	wa pen yao	1
+西大桥	xi da qiao	1
+湘江路	xiang jiang lu	1
+新疆大街	xin jiang da jie	1
+旭升街	xu sheng jie	1
+学府路	xue fu lu	1
+烟厂	yan chang	1
+医大二院	yi da er yuan	1
+医大一院	yi da yi yuan	1
+医大一院群力院区	yi da yi yuan qun li yuan qu	1
+油坊街	you fang jie	1
+友谊宫	you yi gong	1
+兆麟公园	zhao lin gong yuan	1
+征仪路	zheng yi lu	1
+中华巴洛克街区	zhong hua ba luo ke jie qu	1
+肿瘤医院	zhong liu yi yuan	1
+中央大街	zhong yang da jie	1
+珠江路	zhu jiang lu	1

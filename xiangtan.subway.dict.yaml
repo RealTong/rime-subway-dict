@@ -1,0 +1,43 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xiangtan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿弥岭	a mi ling	1
+长沙大学	chang sha da xue	1
+长沙火车站	chang sha huo che zhan	1
+船形山	chuan xing shan	1
+大王山	da wang shan	1
+东塘	dong tang	1
+阜埠河	fu bu he	1
+广生	guang sheng	1
+桂花公园	gui hua gong yuan	1
+红桥	hong qiao	1
+侯家塘	hou jia tang	1
+黄家湾	huang jia wan	1
+烈士公园东	lie shi gong yuan dong	1
+灵官渡	ling guan du	1
+螺丝塘	luo si tang	1
+坪塘	ping tang	1
+山塘	shan tang	1
+双湖	shuang hu	1
+四方坪·双拥	si fang ping · shuang yong	1
+丝茅冲	si mao chong	1
+松雅湖(南)	song ya hu ( nan )	1
+桐溪	tong xi	1
+湘龙	xiang long	1
+湘潭北站	xiang tan bei zhan	1
+星沙	xing sha	1
+星沙文体中心	xing sha wen ti zhong xin	1
+雅雀湖	ya que hu	1
+阳光	yang guang	1
+洋湖湿地	yang hu shi di	1
+洋湖新城	yang hu xin cheng	1
+月湖公园北	yue hu gong yuan bei	1
+朝阳村	zhao yang cun	1
+中南大学	zhong nan da xue	1

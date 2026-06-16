@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: taizhong.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+北屯总站	bei tun zong zhan	1
+大庆	da qing	1
+丰乐公园	feng le gong yuan	1
+高铁台中站	gao tie tai zhong zhan	1
+九德	jiu de	1
+旧社	jiu she	1
+九张犁	jiu zhang li	1
+南屯	nan tun	1
+市政府	shi zheng fu	1
+水安宫	shui an gong	1
+四维国小	si wei guo xiao	1
+松竹	song zhu	1
+文华高中	wen hua gao zhong	1
+文心崇德	wen xin chong de	1
+文心森林公园	wen xin sen lin gong yuan	1
+文心樱花	wen xin ying hua	1
+文心中清	wen xin zhong qing	1
+乌日	wu ri	1

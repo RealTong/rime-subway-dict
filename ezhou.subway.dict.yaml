@@ -1,0 +1,33 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: ezhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+豹澥	bao xie	1
+丁字桥	ding zi qiao	1
+葛店南站	ge dian nan zhan	1
+关山大道	guan shan da dao	1
+光谷广场	guang gu guang chang	1
+光谷六路	guang gu liu lu	1
+光谷七路	guang gu qi lu	1
+光谷生物园	guang gu sheng wu yuan	1
+光谷四路	guang gu si lu	1
+光谷同济医院	guang gu tong ji yi yuan	1
+光谷五路	guang gu wu lu	1
+湖口	hu kou	1
+虎泉	hu quan	1
+江安路	jiang an lu	1
+马房山	ma fang shan	1
+未来三路	wei lai san lu	1
+未来一路	wei lai yi lu	1
+武昌站东广场	wu chang zhan dong guang chang	1
+武汉东站	wu han dong zhan	1
+武汉体育学院	wu han ti yu xue yuan	1
+长岭山	zhang ling shan	1
+紫阳湖	zi yang hu	1
+左岭	zuo ling	1

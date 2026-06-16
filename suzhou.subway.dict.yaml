@@ -1,0 +1,246 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: suzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+白荡北	bai dang bei	1
+白河潭	bai he tan	1
+白马泾	bai ma jing	1
+白洋湾公园	bai yang wan gong yuan	1
+板泾	ban jing	1
+宝带路	bao dai lu	1
+宝带桥南	bao dai qiao nan	1
+保丰	bao feng	1
+北港路	bei gang lu	1
+北寺塔	bei si ta	1
+北斜步	bei xie bu	1
+滨河路	bin he lu	1
+兵希	bing xi	1
+草鞋山	cao xie shan	1
+察院场	cha yuan chang	1
+常楼	chang lou	1
+长亭	chang ting	1
+车坊	che fang	1
+春申湖东路	chun shen hu dong lu	1
+大湾	da wan	1
+大治桥	da zhi qiao	1
+登云	deng yun	1
+东方之门	dong fang zhi men	1
+东环路	dong huan lu	1
+东沙湖	dong sha hu	1
+东振路	dong zhen lu	1
+渎川桥	du chuan qiao	1
+独墅湖邻里中心	du shu hu lin li zhong xin	1
+独墅湖南	du shu hu nan	1
+儿童医院总院	er tong yi yuan zong yuan	1
+方湾街	fang wan jie	1
+方洲公园	fang zhou gong yuan	1
+汾湖路	fen hu lu	1
+丰和路	feng he lu	1
+枫津路	feng jin lu	1
+葑亭大道	feng ting da dao	1
+富强	fu qiang	1
+富翔路	fu xiang lu	1
+富元路	fu yuan lu	1
+高铁苏州北站	gao tie su zhou bei zhan	1
+戈巷街	ge xiang jie	1
+共青	gong qing	1
+顾家荡	gu jia dang	1
+古楼	gu lou	1
+古香圩	gu xiang wei	1
+广济南路	guang ji nan lu	1
+郭巷	guo xiang	1
+郭苑路	guo yuan lu	1
+涵青桥	han qing qiao	1
+荷花荡	he hua dang	1
+何山	he shan	1
+横山	heng shan	1
+横塘	heng tang	1
+红庄	hong zhuang	1
+虎北路	hu bei lu	1
+虎丘	hu qiu	1
+虎丘湿地公园	hu qiu shi di gong yuan	1
+华池浜	hua chi bang	1
+花墩	hua dun	1
+花港	hua gang	1
+华莲	hua lian	1
+花桥	hua qiao	1
+花桥博览中心	hua qiao bo lan zhong xin	1
+花溪公园	hua xi gong yuan	1
+华元路东	hua yuan lu dong	1
+黄天荡	huang tian dang	1
+惠昌路	hui chang lu	1
+活力岛	huo li dao	1
+积翠桥	ji cui qiao	1
+集善	ji shan	1
+江陵西路	jiang ling xi lu	1
+江浦	jiang pu	1
+江星桥南	jiang xing qiao nan	1
+江兴西路	jiang xing xi lu	1
+金枫路	jin feng lu	1
+金谷路	jin gu lu	1
+金湖	jin hu	1
+金鸡墩	jin ji dun	1
+金家桥南	jin jia qiao nan	1
+金家堰	jin jia yan	1
+金浦大桥东	jin pu da qiao dong	1
+津桥	jin qiao	1
+金尚路	jin shang lu	1
+金厍桥	jin she qiao	1
+跨塘	kua tang	1
+昆山城市广场	kun shan cheng shi guang chang	1
+昆山文化艺术中心	kun shan wen hua yi shu zhong xin	1
+劳动路	lao dong lu	1
+乐桥	le qiao	1
+李公堤南	li gong di nan	1
+李公堤西	li gong di xi	1
+蠡口	li kou	1
+蠡墅	li shu	1
+蠡塘河路	li tang he lu	1
+笠泽路	li ze lu	1
+莲池桥	lian chi qiao	1
+莲湖公园	lian hu gong yuan	1
+临顿路	lin dun lu	1
+林家潭	lin jia tan	1
+灵岩山	ling yan shan	1
+流虹路	liu hong lu	1
+龙道浜	long dao bang	1
+龙墩	long dun	1
+娄葑	lou feng	1
+菉葭	lu jia	1
+陆慕	lu mu	1
+陆慕古巷	lu mu gu xiang	1
+落星桥	luo xing qiao	1
+马运路	ma yun lu	1
+茅蓬路东	mao peng lu dong	1
+梅巷	mei xiang	1
+木渎	mu du	1
+木里	mu li	1
+南门	nan men	1
+南施公园南	nan shi gong yuan nan	1
+南施街	nan shi jie	1
+南斜步	nan xie bu	1
+南园北路	nan yuan bei lu	1
+南泽庄	nan ze zhuang	1
+倪浜	ni bang	1
+盘蠡路	pan li lu	1
+庞金路	pang jin lu	1
+平河路	ping he lu	1
+平泷路东	ping long lu dong	1
+平泷路西	ping long lu xi	1
+骑河	qi he	1
+青山桥浜	qing shan qiao bang	1
+清树湾	qing shu wan	1
+琼姬墩	qiong ji dun	1
+秋塘浜	qiu tang bang	1
+群力	qun li	1
+惹云桥	re yun qiao	1
+仁爱路	ren ai lu	1
+人民桥南	ren min qiao nan	1
+三香广场	san xiang guang chang	1
+三元坊	san yuan fang	1
+桑田岛	sang tian dao	1
+沙金桥	sha jin qiao	1
+山塘街	shan tang jie	1
+神童泾	shen tong jing	1
+盛庄	sheng zhuang	1
+石城	shi cheng	1
+时代广场	shi dai guang chang	1
+石湖北	shi hu bei	1
+石湖东路	shi hu dong lu	1
+石湖莫舍	shi hu mo she	1
+时家桥	shi jia qiao	1
+石路	shi lu	1
+狮山路	shi shan lu	1
+狮子山	shi zi shan	1
+墅浦路北	shu pu lu bei	1
+双马街	shuang ma jie	1
+双桥	shuang qiao	1
+顺帆北路	shun fan bei lu	1
+松陵大道	song ling da dao	1
+松涛街	song tao jie	1
+苏锦	su jin	1
+苏州奥体中心	su zhou ao ti zhong xin	1
+苏州当代美术馆	su zhou dang dai mei shu guan	1
+苏州火车站	su zhou huo che zhan	1
+苏州湾北	su zhou wan bei	1
+苏州湾东	su zhou wan dong	1
+苏州新区火车站	su zhou xin qu huo che zhan	1
+苏州园区火车站	su zhou yuan qu huo che zhan	1
+孙武纪念园	sun wu ji nian yuan	1
+索山桥西	suo shan qiao xi	1
+塔园路	ta yuan lu	1
+太湖香山	tai hu xiang shan	1
+唐庄	tang zhuang	1
+天鹅荡路	tian e dang lu	1
+铜墩	tong dun	1
+桐泾北路	tong jing bei lu	1
+桐泾公园	tong jing gong yuan	1
+同里	tong li	1
+通园路南	tong yuan lu nan	1
+团结桥	tuan jie qiao	1
+望星桥苏大	wang xing qiao su da	1
+唯亭(花桥)	wei ting ( hua qiao )	1
+唯亭(苏州新区火车站)	wei ting ( su zhou xin qu huo che zhan )	1
+文昌路	wen chang lu	1
+文化博览中心	wen hua bo lan zhong xin	1
+文溪路	wen xi lu	1
+五潨泾	wu cong jing	1
+吴江汽车站	wu jiang qi che zhan	1
+吴江人民广场	wu jiang ren min guang chang	1
+西环路	xi huan lu	1
+西津桥	xi jin qiao	1
+西跨塘	xi kua tang	1
+夏驾河公园	xia jia he gong yuan	1
+夏桥	xia qiao	1
+夏圩	xia wei	1
+相门	xiang men	1
+斜塘	xie tang	1
+新郭	xin guo	1
+新家桥	xin jia qiao	1
+新市桥	xin shi qiao	1
+新元	xin yuan	1
+星波街	xing bo jie	1
+星海广场	xing hai guang chang	1
+星湖街	xing hu jie	1
+星塘街	xing tang jie	1
+绣衣	xiu yi	1
+徐家浜	xu jia bang	1
+许家桥	xu jia qiao	1
+胥江路	xu jiang lu	1
+胥口	xu kou	1
+徐图港	xu tu gang	1
+悬桥巷	xuan qiao xiang	1
+烟雨桥	yan yu qiao	1
+阳澄湖东	yang cheng hu dong	1
+阳澄湖南	yang cheng hu nan	1
+阳澄湖中路	yang cheng hu zhong lu	1
+洋泾	yang jing	1
+养育巷	yang yu xiang	1
+姚祥	yao xiang	1
+尹山	yin shan	1
+尹山湖	yin shan hu	1
+尹中路	yin zhong lu	1
+迎春路	ying chun lu	1
+友联	you lian	1
+鱼池泾	yu chi jing	1
+玉山广场	yu shan guang chang	1
+玉山路	yu shan lu	1
+裕新路	yu xin lu	1
+御窑	yu yao	1
+月亮湾	yue liang wan	1
+越溪	yue xi	1
+章基路南	zhang ji lu nan	1
+长泾	zhang jing	1
+张庄	zhang zhuang	1
+正仪	zheng yi	1
+钟南街	zhong nan jie	1
+中央公园	zhong yang gong yuan	1
+竹辉桥	zhu hui qiao	1
+拙政园苏博	zhuo zheng yuan su bo	1
+祖冲之公园	zu chong zhi gong yuan	1

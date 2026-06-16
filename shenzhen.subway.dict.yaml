@@ -1,0 +1,364 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: shenzhen.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+爱联	ai lian	1
+安良	an liang	1
+安托山	an tuo shan	1
+坳背	ao bei	1
+八卦岭	ba gua ling	1
+百鸽笼	bai ge long	1
+白石龙	bai shi long	1
+白石塘	bai shi tang	1
+白石洲	bai shi zhou	1
+百旺	bai wang	1
+坂田	ban tian	1
+坂田北	ban tian bei	1
+宝安	bao an	1
+宝安客运站	bao an ke yun zhan	1
+宝安中心	bao an zhong xin	1
+宝华	bao hua	1
+宝龙	bao long	1
+宝龙同乐	bao long tong le	1
+宝体	bao ti	1
+宝田一路	bao tian yi lu	1
+北大	bei da	1
+贝尔路	bei er lu	1
+碧海湾	bi hai wan	1
+碧头	bi tou	1
+比亚迪北	bi ya di bei	1
+碧眼	bi yan	1
+布吉	bu ji	1
+布心	bu xin	1
+步涌	bu yong	1
+草埔	cao pu	1
+茶光	cha guang	1
+长龙	chang long	1
+车公庙	che gong miao	1
+赤湾	chi wan	1
+赤尾	chi wei	1
+翠竹	cui zhu	1
+大安	da an	1
+大芬	da fen	1
+大剧院	da ju yuan	1
+大康	da kang	1
+大梅沙	da mei sha	1
+大新	da xin	1
+大学城	da xue cheng	1
+大运	da yun	1
+大运中心	da yun zhong xin	1
+丹竹头	dan zhu tou	1
+登良	deng liang	1
+低碳城	di tan cheng	1
+冬瓜岭	dong gua ling	1
+东角头	dong jiao tou	1
+东门	dong men	1
+东纵纪念馆	dong zong ji nian guan	1
+翻身	fan shen	1
+凤凰城	feng huang cheng	1
+福保	fu bao	1
+福海西	fu hai xi	1
+福坑	fu keng	1
+福民	fu min	1
+富坪	fu ping	1
+福田	fu tian	1
+福田口岸	fu tian kou an	1
+福围	fu wei	1
+福星	fu xing	1
+福永	fu yong	1
+甘坑	gan keng	1
+岗厦	gang sha	1
+岗厦北	gang sha bei	1
+岗头	gang tou	1
+高新北	gao xin bei	1
+高新南	gao xin nan	1
+高新园	gao xin yuan	1
+高新中	gao xin zhong	1
+公明广场	gong ming guang chang	1
+购物公园	gou wu gong yuan	1
+固戍	gu shu	1
+观澜	guan lan	1
+观澜湖	guan lan hu	1
+官田	guan tian	1
+光明	guang ming	1
+光明城站	guang ming cheng zhan	1
+光明大街	guang ming da jie	1
+光雅园	guang ya yuan	1
+桂湾	gui wan	1
+国贸	guo mao	1
+国展	guo zhan	1
+国展北	guo zhan bei	1
+国展南	guo zhan nan	1
+海山	hai shan	1
+海上世界	hai shang shi jie	1
+海上田园东	hai shang tian yuan dong	1
+海上田园南	hai shang tian yuan nan	1
+海月	hai yue	1
+翰岭	han ling	1
+蚝乡	hao xiang	1
+荷坳	he ao	1
+禾花	he hua	1
+合水口	he shui kou	1
+横岗	heng gang	1
+鸿安围	hong an wei	1
+洪湖	hong hu	1
+红花山	hong hua shan	1
+洪浪北	hong lang bei	1
+红岭	hong ling	1
+红岭北	hong ling bei	1
+红岭南	hong ling nan	1
+虹桥公园	hong qiao gong yuan	1
+红山	hong shan	1
+红树湾	hong shu wan	1
+红树湾南	hong shu wan nan	1
+后海	hou hai	1
+后瑞	hou rui	1
+后亭	hou ting	1
+湖贝	hu bei	1
+花果山	hua guo shan	1
+华南城	hua nan cheng	1
+华强北	hua qiang bei	1
+华强路	hua qiang lu	1
+华强南	hua qiang nan	1
+华侨城	hua qiao cheng	1
+华为	hua wei	1
+华新	hua xin	1
+怀德	huai de	1
+黄贝岭	huang bei ling	1
+皇岗村	huang gang cun	1
+皇岗口岸	huang gang kou an	1
+黄阁坑	huang ge keng	1
+黄木岗	huang mu gang	1
+黄田	huang tian	1
+回龙埔	hui long pu	1
+会展城	hui zhan cheng	1
+会展中心	hui zhan zhong xin	1
+机场	ji chang	1
+机场北	ji chang bei	1
+机场东	ji chang dong	1
+技术大学	ji shu da xue	1
+吉溪	ji xi	1
+吉祥	ji xiang	1
+锦龙	jin long	1
+金源	jin yuan	1
+景田	jing tian	1
+科学公园	ke xue gong yuan	1
+科学馆	ke xue guan	1
+科苑	ke yuan	1
+坑梓	keng zi	1
+朗下	lang xia	1
+老街	lao jie	1
+荔林	li lin	1
+荔湾	li wan	1
+鲤鱼门	li yu men	1
+梨园	li yuan	1
+莲花北	lian hua bei	1
+莲花村	lian hua cun	1
+莲花西	lian hua xi	1
+莲塘	lian tang	1
+莲塘口岸	lian tang kou an	1
+凉帽山	liang mao shan	1
+临海	lin hai	1
+灵芝	ling zhi	1
+六和	liu he	1
+流塘	liu tang	1
+留仙洞	liu xian dong	1
+六约	liu yue	1
+六约北	liu yue bei	1
+龙背	long bei	1
+龙城公园	long cheng gong yuan	1
+龙城广场	long cheng guang chang	1
+龙东	long dong	1
+龙华	long hua	1
+龙井	long jing	1
+龙胜	long sheng	1
+龙园	long yuan	1
+楼村	lou cun	1
+鹿丹村	lu dan cun	1
+罗湖	luo hu	1
+罗湖北	luo hu bei	1
+罗租	luo zu	1
+马安山	ma an shan	1
+孖岭	ma ling	1
+妈湾	ma wan	1
+梅村	mei cun	1
+梅景	mei jing	1
+梅林关	mei lin guan	1
+梦海	meng hai	1
+民乐	min yue	1
+民治	min zhi	1
+木古	mu gu	1
+木棉湾	mu mian wan	1
+南光	nan guang	1
+南坑	nan keng	1
+南联	nan lian	1
+南山	nan shan	1
+南山书城	nan shan shu cheng	1
+南头古城	nan tou gu cheng	1
+南油	nan you	1
+南油西	nan you xi	1
+南约	nan yue	1
+泥岗	ni gang	1
+牛湖	niu hu	1
+农林	nong lin	1
+坪地六联	ping di liu lian	1
+平湖	ping hu	1
+坪环	ping huan	1
+平峦山	ping luan shan	1
+坪山	ping shan	1
+坪山高铁站	ping shan gao tie zhan	1
+坪山广场	ping shan guang chang	1
+坪山围	ping shan wei	1
+坪山中心	ping shan zhong xin	1
+坪山中心(云巴1号线)	ping shan zhong xin ( yun ba 1 hao xian )	1
+坪西	ping xi	1
+坪洲	ping zhou	1
+前海湾	qian hai wan	1
+茜坑	qian keng	1
+前湾	qian wan	1
+前湾公园	qian wan gong yuan	1
+侨城北	qiao cheng bei	1
+侨城东	qiao cheng dong	1
+桥头	qiao tou	1
+桥头西	qiao tou xi	1
+侨香	qiao xiang	1
+清湖	qing hu	1
+清湖北	qing hu bei	1
+人才公园	ren cai gong yuan	1
+人民南	ren min nan	1
+沙蚝	sha hao	1
+沙井	sha jing	1
+沙井古墟	sha jing gu xu	1
+沙田	sha tian	1
+沙头角	sha tou jiao	1
+沙尾	sha wei	1
+沙壆	sha xue	1
+晒布	shai bu	1
+上川	shang chuan	1
+上芬	shang fen	1
+尚景	shang jing	1
+上李朗	shang li lang	1
+上梅林	shang mei lin	1
+上沙	shang sha	1
+上水径	shang shui jing	1
+上塘	shang tang	1
+上屋	shang wu	1
+少年宫	shao nian gong	1
+蛇口港	she kou gang	1
+深大	shen da	1
+深大丽湖	shen da li hu	1
+深大南	shen da nan	1
+深康	shen kang	1
+深理工	shen li gong	1
+深外高中	shen wai gao zhong	1
+深湾	shen wan	1
+深云	shen yun	1
+深圳北站	shen zhen bei zhan	1
+深圳湾公园	shen zhen wan gong yuan	1
+深圳湾口岸	shen zhen wan kou an	1
+盛平	sheng ping	1
+石鼓	shi gu	1
+世界之窗	shi jie zhi chuang	1
+石井	shi jing	1
+市民中心	shi min zhong xin	1
+石厦	shi sha	1
+石芽岭	shi ya ling	1
+石岩	shi yan	1
+薯田埔	shu tian pu	1
+双龙	shuang long	1
+双拥街	shuang yong jie	1
+水贝	shui bei	1
+水湾	shui wan	1
+四海	si hai	1
+四联	si lian	1
+松岗	song gang	1
+松岗公园	song gang gong yuan	1
+松元厦	song yuan sha	1
+笋岗	sun gang	1
+太安	tai an	1
+太子湾	tai zi wan	1
+塘坑	tang keng	1
+塘朗	tang lang	1
+塘尾	tang wei	1
+桃园	tao yuan	1
+桃源村	tao yuan cun	1
+体育中心	ti yu zhong xin	1
+田贝	tian bei	1
+田心	tian xin	1
+铁路公园	tie lu gong yuan	1
+同乐南	tong le nan	1
+通新岭	tong xin ling	1
+湾厦	wan sha	1
+未来城	wei lai cheng	1
+文化聚落	wen hua ju luo	1
+文锦	wen jin	1
+五和	wu he	1
+梧桐山南	wu tong shan nan	1
+西丽	xi li	1
+西丽湖	xi li hu	1
+溪头	xi tou	1
+西乡	xi xiang	1
+西乡桃源	xi xiang tao yuan	1
+溪涌	xi yong	1
+下梅林	xia mei lin	1
+下沙	xia sha	1
+下水径	xia shui jing	1
+仙湖路	xian hu lu	1
+香梅	xiang mei	1
+香梅北	xiang mei bei	1
+香蜜	xiang mi	1
+香蜜湖	xiang mi hu	1
+向西村	xiang xi cun	1
+小梅沙	xiao mei sha	1
+新安	xin an	1
+新安公园	xin an gong yuan	1
+新和	xin he	1
+新生	xin sheng	1
+新塘围	xin tang wei	1
+新秀	xin xiu	1
+兴东	xing dong	1
+兴围	xing wei	1
+雪象	xue xiang	1
+雅宝	ya bao	1
+燕南	yan nan	1
+盐田港西	yan tian gang xi	1
+盐田路	yan tian lu	1
+盐田墟	yan tian xu	1
+燕子湖	yan zi hu	1
+燕子岭	yan zi ling	1
+杨美	yang mei	1
+阳台山东	yang tai shan dong	1
+怡海	yi hai	1
+怡景	yi jing	1
+益田	yi tian	1
+银湖	yin hu	1
+应人石	ying ren shi	1
+永湖	yong hu	1
+愉园	yu yuan	1
+元芬	yuan fen	1
+园岭	yuan ling	1
+园山	yuan shan	1
+园山西坑	yuan shan xi keng	1
+粤海门	yue hai men	1
+站前路东	zhan qian lu dong	1
+嶂背	zhang bei	1
+长湖	zhang hu	1
+长岭陂	zhang ling bei	1
+长圳	zhang zhen	1
+圳美	zhen mei	1
+中大	zhong da	1
+中山公园	zhong shan gong yuan	1
+钟屋南	zhong wu nan	1
+中芯国际	zhong xin guo ji	1
+竹村	zhu cun	1
+珠光	zhu guang	1
+竹子林	zhu zi lin	1
+自然博物馆西	zi ran bo wu guan xi	1
+综合保税区	zong he bao shui qu	1
+左炮台东	zuo pao tai dong	1

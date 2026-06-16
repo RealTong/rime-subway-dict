@@ -1,0 +1,56 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: taiyuan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+北营	bei ying	1
+大北门	da bei men	1
+大南门	da nan men	1
+电子西街	dian zi xi jie	1
+府西街	fu xi jie	1
+郝家沟	hao jia gou	1
+河龙湾	he long wan	1
+化章西街	hua zhang xi jie	1
+黄陵	huang ling	1
+缉虎营	ji hu ying	1
+嘉节	jia jie	1
+尖草坪	jian cao ping	1
+涧河	jian he	1
+晋阳街	jin yang jie	1
+金阳路	jin yang lu	1
+开化寺街	kai hua si jie	1
+康宁街	kang ning jie	1
+柳南	liu nan	1
+龙城公园	long cheng gong yuan	1
+龙兴街	long xing jie	1
+南内环	nan nei huan	1
+南十方街	nan shi fang jie	1
+南中环	nan zhong huan	1
+胜利街	sheng li jie	1
+双塔	shuang ta	1
+太原理工大学	tai yuan li gong da xue	1
+太原南站	tai yuan nan zhan	1
+太原站东广场	tai yuan zhan dong guang chang	1
+太原站西广场	tai yuan zhan xi guang chang	1
+桃园路	tao yuan lu	1
+体育馆	ti yu guan	1
+通达街	tong da jie	1
+王村南街	wang cun nan jie	1
+武宿1号2号航站楼	wu su 1 hao 2 hao hang zhan lou	1
+五一广场	wu yi guang chang	1
+西客站	xi ke zhan	1
+西铭路	xi ming lu	1
+西桥	xi qiao	1
+下元	xia yuan	1
+许坦东街	xu tan dong jie	1
+学府东街	xue fu dong jie	1
+学府街	xue fu jie	1
+闫家沟(小井峪路)	yan jia gou ( xiao jing yu lu )	1
+长风东街	zhang feng dong jie	1
+长风街	zhang feng jie	1
+朝阳街	zhao yang jie	1

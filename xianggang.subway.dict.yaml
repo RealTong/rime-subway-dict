@@ -1,0 +1,107 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xianggang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥运	ao yun	1
+宝琳	bao lin	1
+北角	bei jiao	1
+博览馆	bo lan guan	1
+彩虹	cai hong	1
+柴湾	chai wan	1
+长沙湾	chang sha wan	1
+车公庙	che gong miao	1
+大埔墟	da bu xu	1
+大水坑	da shui keng	1
+大围	da wei	1
+大窝口	da wo kou	1
+大学	da xue	1
+迪士尼	di shi ni	1
+第一城	di yi cheng	1
+调景岭	diao jing ling	1
+东涌	dong yong	1
+粉岭	fen ling	1
+观塘	guan tang	1
+海洋公园	hai yang gong yuan	1
+海怡半岛	hai yi ban dao	1
+何文田	he wen tian	1
+恒安	heng an	1
+红磡	hong kan	1
+黄大仙	huang da xian	1
+黄埔	huang pu	1
+黄竹坑	huang zhu keng	1
+会展	hui zhan	1
+火炭	huo tan	1
+机场	ji chang	1
+尖东	jian dong	1
+坚尼地城	jian ni di cheng	1
+尖沙咀	jian sha ju	1
+将军澳	jiang jun ao	1
+锦上路	jin shang lu	1
+金钟	jin zhong	1
+九龙	jiu long	1
+九龙塘	jiu long tang	1
+九龙湾	jiu long wan	1
+康城	kang cheng	1
+柯士甸	ke shi dian	1
+坑口	keng kou	1
+葵芳	kui fang	1
+葵兴	kui xing	1
+蓝田	lan tian	1
+朗屏	lang ping	1
+乐富	le fu	1
+利东	li dong	1
+荔景	li jing	1
+荔枝角	li zhi jiao	1
+罗湖	luo hu	1
+落马洲	luo ma zhou	1
+马鞍山	ma an shan	1
+美孚	mei fu	1
+南昌	nan chang	1
+牛头角	niu tou jiao	1
+炮台山	pao tai shan	1
+启德	qi de	1
+青衣	qing yi	1
+荃湾	quan wan	1
+荃湾西	quan wan xi	1
+沙田	sha tian	1
+沙田围	sha tian wei	1
+上环	shang huan	1
+上水	shang shui	1
+筲箕湾	shao ji wan	1
+深水埗	shen shui bu	1
+石门	shi men	1
+石硖尾	shi xia wei	1
+宋皇台	song huang tai	1
+太古	tai gu	1
+太和	tai he	1
+太子	tai zi	1
+天后	tian hou	1
+天水围	tian shui wei	1
+铜锣湾	tong luo wan	1
+土瓜湾	tu gua wan	1
+屯门	tun men	1
+湾仔	wan zai	1
+旺角	wang jiao	1
+旺角东	wang jiao dong	1
+乌溪沙	wu xi sha	1
+西湾河	xi wan he	1
+西营盘	xi ying pan	1
+显径	xian jing	1
+香港	xiang gang	1
+香港大学	xiang gang da xue	1
+欣澳	xin ao	1
+杏花邨	xing hua cun	1
+油麻地	you ma di	1
+油塘	you tang	1
+元朗	yuan lang	1
+鲗鱼涌	zei yu yong	1
+兆康	zhao kang	1
+中环	zhong huan	1
+钻石山	zuan shi shan	1
+佐敦	zuo dun	1

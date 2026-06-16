@@ -1,0 +1,153 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: changsha.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿弥岭	a mi ling	1
+白鸽咀	bai ge ju	1
+白茅铺	bai mao pu	1
+板塘冲	ban tang chong	1
+北辰三角洲	bei chen san jiao zhou	1
+碧沙湖(恰同学少年广场)	bi sha hu ( qia tong xue shao nian guang chang )	1
+曹家坪	cao jia ping	1
+茶子山	cha zi shan	1
+长沙大道	chang sha da dao	1
+长沙大学	chang sha da xue	1
+长沙火车南站	chang sha huo che nan zhan	1
+长沙火车站	chang sha huo che zhan	1
+赤岗岭	chi gang ling	1
+船形山	chuan xing shan	1
+磁浮高铁站	ci fu gao tie zhan	1
+磁浮机场站	ci fu ji chang zhan	1
+磁浮榔梨	ci fu lang li	1
+大路村	da lu cun	1
+大塘	da tang	1
+大托	da tuo	1
+大王山	da wang shan	1
+东湖	dong hu	1
+东塘	dong tang	1
+杜花路	du hua lu	1
+杜家坪	du jia ping	1
+鹅羊山	e yang shan	1
+阜埠河	fu bu he	1
+芙蓉广场	fu rong guang chang	1
+芙蓉区政府	fu rong qu zheng fu	1
+福元大桥西	fu yuan da qiao xi	1
+高桥北	gao qiao bei	1
+高桥南	gao qiao nan	1
+观沙岭	guan sha ling	1
+罐子岭	guan zi ling	1
+光达	guang da	1
+广生	guang sheng	1
+桂花公园	gui hua gong yuan	1
+桂花坪	gui hua ping	1
+圭塘	gui tang	1
+汉王陵公园	han wang ling gong yuan	1
+和馨园	he xin yuan	1
+红桥	hong qiao	1
+侯家塘	hou jia tang	1
+湖南大学	hu nan da xue	1
+湖南工商大学	hu nan gong shang da xue	1
+湖南师大	hu nan shi da	1
+花桥	hua qiao	1
+黄花机场T1T2	huang hua ji chang t1t2	1
+黄家湾	huang jia wan	1
+黄土岭	huang tu ling	1
+黄兴广场	huang xing guang chang	1
+火炬村	huo ju cun	1
+涧塘	jian tang	1
+金盆丘(铜官窑巴士站)	jin pen qiu ( tong guan yao ba shi zhan )	1
+锦泰广场	jin tai guang chang	1
+金霞	jin xia	1
+金星路	jin xing lu	1
+橘子洲·青莲	ju zi zhou · qing lian	1
+开福区政府	kai fu qu zheng fu	1
+开福寺	kai fu si	1
+烈士公园东	lie shi gong yuan dong	1
+烈士公园南(湖南省博物馆)	lie shi gong yuan nan ( hu nan sheng bo wu guan )	1
+灵官渡	ling guan du	1
+六沟垅	liu gou long	1
+龙峰	long feng	1
+龙华	long hua	1
+隆平水稻博物馆	long ping shui dao bo wu guan	1
+麓谷公园	lu gu gong yuan	1
+麓谷体育公园	lu gu ti yu gong yuan	1
+麓云路	lu yun lu	1
+螺丝塘	luo si tang	1
+马厂	ma chang	1
+马栏山	ma lan shan	1
+马王堆	ma wang dui	1
+毛竹塘	mao zhu tang	1
+梅溪湖东	mei xi hu dong	1
+梅溪湖西	mei xi hu xi	1
+木马塅	mu ma duan	1
+木桥	mu qiao	1
+南湖路	nan hu lu	1
+南门口	nan men kou	1
+农科院农大	nong ke yuan nong da	1
+培元桥	pei yuan qiao	1
+坪塘	ping tang	1
+平阳	ping yang	1
+人民东路	ren min dong lu	1
+沙湾公园	sha wan gong yuan	1
+砂子塘	sha zi tang	1
+山塘	shan tang	1
+尚双塘	shang shuang tang	1
+韶光	shao guang	1
+省政府·清风	sheng zheng fu · qing feng	1
+树木岭	shu mu ling	1
+双湖	shuang hu	1
+水渡河	shui du he	1
+四方坪·双拥	si fang ping · shuang yong	1
+丝茅冲	si mao chong	1
+松雅湖(南)	song ya hu ( nan )	1
+宿龙桥	su long qiao	1
+粟塘	su tang	1
+檀木桥	tan mu qiao	1
+铁道学院	tie dao xue yuan	1
+桐溪	tong xi	1
+涂家冲	tu jia chong	1
+土桥	tu qiao	1
+万家丽广场	wan jia li guang chang	1
+望城坡(汽车西站)	wang cheng po ( qi che xi zhan )	1
+望月湖	wang yue hu	1
+文昌阁	wen chang ge	1
+文化艺术中心	wen hua yi shu zhong xin	1
+五一广场	wu yi guang chang	1
+西湖公园	xi hu gong yuan	1
+象鼻窝	xiang bi wo	1
+湘江新城	xiang jiang xin cheng	1
+湘江中路	xiang jiang zhong lu	1
+湘龙	xiang long	1
+湘潭北站	xiang tan bei zhan	1
+湘雅三医院	xiang ya san yi yuan	1
+湘雅医院	xiang ya yi yuan	1
+谢家桥	xie jia qiao	1
+星沙	xing sha	1
+星沙文体中心	xing sha wen ti zhong xin	1
+秀峰山	xiu feng shan	1
+雅雀湖	ya que hu	1
+鸭子铺	ya zi pu	1
+阳光	yang guang	1
+洋湖湿地	yang hu shi di	1
+洋湖新城	yang hu xin cheng	1
+窑岭湘雅二医院	yao ling xiang ya er yi yuan	1
+一师范西校区	yi shi fan xi xiao qu	1
+迎宾路口	ying bin lu kou	1
+溁湾镇	ying wan zhen	1
+友谊路	you yi lu	1
+雨花区政府	yu hua qu zheng fu	1
+袁家岭	yuan jia ling	1
+月湖公园北	yue hu gong yuan bei	1
+月亮岛西	yue liang dao xi	1
+长丰	zhang feng	1
+长庆	zhang qing	1
+朝阳村	zhao yang cun	1
+中南大学	zhong nan da xue	1
+中塘	zhong tang	1
+中信广场	zhong xin guang chang	1

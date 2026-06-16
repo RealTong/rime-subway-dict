@@ -1,0 +1,110 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: dalian.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+保税区	bao shui qu	1
+蔡大岭	cai da ling	1
+春柳	chun liu	1
+大连北站	da lian bei zhan	1
+大连湾	da lian wan	1
+大连站	da lian zhan	1
+大医二院	da yi er yuan	1
+大医三院	da yi san yuan	1
+东港	dong gang	1
+东海	dong hai	1
+东山路	dong shan lu	1
+东纬路	dong wei lu	1
+二十里堡	er shi li pu	1
+富国街	fu guo jie	1
+甘北路	gan bei lu	1
+甘井子街	gan jing zi jie	1
+港湾广场	gang wan guang chang	1
+革镇堡	ge zhen bao	1
+海事大学	hai shi da xue	1
+海湾高中	hai wan gao zhong	1
+海之韵	hai zhi yun	1
+河口	he kou	1
+和平路	he ping lu	1
+黑石礁	hei shi jiao	1
+虹港路	hong gang lu	1
+虹锦路	hong jin lu	1
+红旗西路	hong qi xi lu	1
+鸿玮澜山	hong wei lan shan	1
+后革	hou ge	1
+后关	hou guan	1
+后盐	hou yan	1
+虎滩公园	hu tan gong yuan	1
+虎滩新区	hu tan xin qu	1
+华北路	hua bei lu	1
+华南北	hua nan bei	1
+华南广场	hua nan guang chang	1
+黄泥川	huang ni chuan	1
+会议中心	hui yi zhong xin	1
+会展中心	hui zhan zhong xin	1
+机场	ji chang	1
+交通大学	jiao tong da xue	1
+金家街	jin jia jie	1
+金马路	jin ma lu	1
+金石滩	jin shi tan	1
+九里	jiu li	1
+开发区	kai fa qu	1
+劳动公园	lao dong gong yuan	1
+联合路	lian he lu	1
+辽师大	liao shi da	1
+龙华路	long hua lu	1
+龙王塘	long wang tang	1
+旅顺	lv shun	1
+旅顺新港	lv shun xin gang	1
+马栏广场	ma lan guang chang	1
+南关岭	nan guan ling	1
+普兰店开发区	pu lan dian kai fa qu	1
+普兰店振兴街	pu lan dian zhen xing jie	1
+普湾体育场	pu wan ti yu chang	1
+七贤岭	qi xian ling	1
+前革	qian ge	1
+千山路	qian shan lu	1
+青泥洼桥	qing ni wa qiao	1
+青云街	qing yun jie	1
+泉水	quan shui	1
+泉水东	quan shui dong	1
+人民广场	ren min guang chang	1
+三十里堡	san shi li pu	1
+石河北海	shi he bei hai	1
+石河黄旗	shi he huang qi	1
+十九局	shi jiu ju	1
+石葵路	shi kui lu	1
+十三里	shi san li	1
+双D港	shuang d gang	1
+松江路	song jiang lu	1
+梭鱼湾	suo yu wan	1
+梭鱼湾南	suo yu wan nan	1
+塔河湾	ta he wan	1
+桃源	tao yuan	1
+体育中心	ti yu zhong xin	1
+铁山	tie shan	1
+通世泰	tong shi tai	1
+湾家	wan jia	1
+卫生中心	wei sheng zhong xin	1
+西安路	xi an lu	1
+香工街	xiang gong jie	1
+香炉礁	xiang lu jiao	1
+小窑湾	xiao yao wan	1
+辛寨子	xin zhai zi	1
+兴工街	xing gong jie	1
+星海广场	xing hai guang chang	1
+秀月街	xiu yue jie	1
+学苑广场	xue yuan guang chang	1
+姚家	yao jia	1
+一二九街	yi er jiu jie	1
+友好广场	you hao guang chang	1
+长店堡	zhang dian bao	1
+中长街	zhong chang jie	1
+中革	zhong ge	1
+中华东路	zhong hua dong lu	1
+中山广场	zhong shan guang chang	1

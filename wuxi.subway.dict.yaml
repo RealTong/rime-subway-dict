@@ -1,0 +1,99 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: wuxi.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+柏庄	bai zhuang	1
+北栅口	bei zha kou	1
+博览中心	bo lan zhong xin	1
+查桥	cha qiao	1
+长江南路	chang jiang nan lu	1
+大剧院	da ju yuan	1
+大王基	da wang ji	1
+东风	dong feng	1
+东林广场	dong lin guang chang	1
+东亭	dong ting	1
+丰润道	feng run dao	1
+高浪东路	gao lang dong lu	1
+葛埭桥	ge dai qiao	1
+广瑞	guang rui	1
+广石路	guang shi lu	1
+广益	guang yi	1
+河埒口	he lie kou	1
+华清大桥	hua qing da qiao	1
+黄山路	huang shan lu	1
+黄巷	huang xiang	1
+惠山古镇	hui shan gu zhen	1
+江南大学	jiang nan da xue	1
+江阴高铁站	jiang yin gao tie zhan	1
+江阴外滩	jiang yin wai tan	1
+江阴中医院	jiang yin zhong yi yuan	1
+金匮公园	jin kui gong yuan	1
+靖海	jing hai	1
+九里河公园	jiu li he gong yuan	1
+蠡湖大桥	li hu da qiao	1
+梁溪大桥	liang xi da qiao	1
+刘潭	liu tan	1
+龙山梢	long shan shao	1
+马镇	ma zhen	1
+梅园开原寺	mei yuan kai yuan si	1
+民丰	min feng	1
+南禅寺	nan chan si	1
+南方泉	nan fang quan	1
+南湖家园	nan hu jia yuan	1
+南门	nan men	1
+南闸	nan zha	1
+钱桥	qian qiao	1
+峭岐	qiao qi	1
+清名桥	qing ming qiao	1
+青山湾荣院	qing shan wan rong yuan	1
+青阳	qing yang	1
+人民医院	ren min yi yuan	1
+荣巷	rong xiang	1
+三阳广场	san yang guang chang	1
+上马墩	shang ma dun	1
+盛岸	sheng an	1
+胜利门	sheng li men	1
+石门路	shi men lu	1
+市民中心	shi min zhong xin	1
+硕放机场	shuo fang ji chang	1
+苏庙	su miao	1
+太湖广场	tai hu guang chang	1
+太湖花园	tai hu hua yuan	1
+谈渡桥	tan du qiao	1
+塘铁桥	tang tie qiao	1
+体育中心	ti yu zhong xin	1
+天一	tian yi	1
+旺庄路	wang zhuang lu	1
+文化宫	wen hua gong	1
+五爱广场	wu ai guang chang	1
+吴都路	wu dou lu	1
+五湖大道	wu hu da dao	1
+吴桥	wu qiao	1
+无锡东站	wu xi dong zhan	1
+无锡火车站	wu xi huo che zhan	1
+无锡新区站	wu xi xin qu zhan	1
+锡北运河	xi bei yun he	1
+西园弄	xi yuan nong	1
+西漳	xi zhang	1
+夏家边	xia jia bian	1
+小桃源	xiao tao yuan	1
+新光路	xin guang lu	1
+叙丰	xu feng	1
+雪浪	xue lang	1
+堰桥	yan qiao	1
+扬名	yang ming	1
+迎宾广场	ying bin guang chang	1
+映月湖公园	ying yue hu gong yuan	1
+云林	yun lin	1
+长广溪	zhang guang xi	1
+中山公园	zhong shan gong yuan	1
+周泾巷	zhou jing xiang	1
+周新苑	zhou xin yuan	1
+庄前	zhuang qian	1
+庄桥	zhuang qiao	1

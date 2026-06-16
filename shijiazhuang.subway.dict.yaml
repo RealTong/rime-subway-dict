@@ -1,0 +1,70 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: shijiazhuang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+白佛	bai fu	1
+北国商城	bei guo shang cheng	1
+北宋	bei song	1
+柏林庄	bo lin zhuang	1
+博物院	bo wu yuan	1
+仓丰路留村	cang feng lu liu cun	1
+长安公园	chang an gong yuan	1
+长城桥	chang cheng qiao	1
+东二环南路	dong er huan nan lu	1
+东里	dong li	1
+东王	dong wang	1
+东庄	dong zhuang	1
+福泽	fu ze	1
+高柱	gao zhu	1
+和平医院	he ping yi yuan	1
+槐安桥	huai an qiao	1
+槐中路	huai zhong lu	1
+汇通路	hui tong lu	1
+会展中心	hui zhan zhong xin	1
+火炬广场	huo ju guang chang	1
+嘉华路	jia hua lu	1
+建和桥	jian he qiao	1
+解放广场	jie fang guang chang	1
+乐乡	le xiang	1
+烈士陵园	lie shi ling yuan	1
+留村	liu cun	1
+柳辛庄	liu xin zhuang	1
+南村	nan cun	1
+南豆	nan dou	1
+南王	nan wang	1
+南位	nan wei	1
+欧韵公园	ou yun gong yuan	1
+平安大街	ping an da jie	1
+商务中心	shang wu zhong xin	1
+市二中	shi er zhong	1
+时光街	shi guang jie	1
+石家庄东站	shi jia zhuang dong zhan	1
+石家庄站	shi jia zhuang zhan	1
+市庄	shi zhuang	1
+孙村	sun cun	1
+塔坛	ta tan	1
+塔冢	ta zhong	1
+太行南大街	tai xing nan da jie	1
+谈固	tan gu	1
+体育场	ti yu chang	1
+位同	wei tong	1
+西三教	xi san jiao	1
+西三庄	xi san zhuang	1
+西王	xi wang	1
+西仰陵	xi yang ling	1
+西庄	xi zhuang	1
+洨河大道	xiao he da dao	1
+新百广场	xin bai guang chang	1
+义堂	yi tang	1
+裕华路	yu hua lu	1
+园博园	yuan bo yuan	1
+元村	yuan cun	1
+朝晖桥	zhao hui qiao	1
+中仰陵	zhong yang ling	1
+庄窠·铁道大学	zhuang ke · tie dao da xue	1

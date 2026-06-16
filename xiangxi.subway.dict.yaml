@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xiangxi.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+凤凰等待	feng huang deng dai	1
+凤凰古城	feng huang gu cheng	1
+凤凰揽胜	feng huang lan sheng	1
+凤凰迎宾	feng huang ying bin	1

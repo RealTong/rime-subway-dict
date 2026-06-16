@@ -1,0 +1,25 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: aomen.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+氹仔码头	dang zai ma tou	1
+东亚运	dong ya yun	1
+海洋	hai yang	1
+横琴	heng qin	1
+机场	ji chang	1
+科大	ke da	1
+莲花	lian hua	1
+路氹东	lu dang dong	1
+路氹西	lu dang xi	1
+妈阁	ma ge	1
+马会	ma hui	1
+排角	pai jiao	1
+石排湾	shi pai wan	1
+协和医院	xie he yi yuan	1
+运动场	yun dong chang	1

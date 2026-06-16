@@ -1,0 +1,123 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: nanchang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+艾溪湖东	ai xi hu dong	1
+艾溪湖西	ai xi hu xi	1
+安丰	an feng	1
+奥体中心	ao ti zhong xin	1
+八大山人	ba da shan ren	1
+八一馆	ba yi guan	1
+八一广场	ba yi guang chang	1
+柏岗	bai gang	1
+白马山	bai ma shan	1
+北沥	bei li	1
+北罗	bei luo	1
+昌北机场	chang bei ji chang	1
+长江路	chang jiang lu	1
+翠苑路	cui yuan lu	1
+邓埠	deng bu	1
+地铁大厦	di tie da sha	1
+丁公路北	ding gong lu bei	1
+丁公路南	ding gong lu nan	1
+丁家洲	ding jia zhou	1
+定子山	ding zi shan	1
+东新	dong xin	1
+斗门	dou men	1
+墩子塘	dun zi tang	1
+方志敏大道	fang zhi min da dao	1
+枫下	feng xia	1
+复兴大道东	fu xing da dao dong	1
+福州路	fu zhou lu	1
+高新大道	gao xin da dao	1
+冠山	guan shan	1
+观田	guan tian	1
+灌婴路	guan ying lu	1
+观洲	guan zhou	1
+国博	guo bo	1
+国体中心	guo ti zhong xin	1
+国威路	guo wei lu	1
+国展中心	guo zhan zhong xin	1
+红谷中大道	hong gu zhong da dao	1
+怀玉山大道	huai yu shan da dao	1
+璜溪	huang xi	1
+汇贤大道	hui xian da dao	1
+火炬	huo ju	1
+火炬广场	huo ju guang chang	1
+建业大道	jian ye da dao	1
+江铃	jiang ling	1
+蛟桥	jiao qiao	1
+京东大道	jing dong da dao	1
+京家山	jing jia shan	1
+九龙湖南	jiu long hu nan	1
+科技城	ke ji cheng	1
+孔目湖	kong mu hu	1
+楞上	leng shang	1
+沥山	li shan	1
+李巷	li xiang	1
+礼庄山	li zhuang shan	1
+梁万	liang wan	1
+岭北	ling bei	1
+六眼井	liu yan jing	1
+龙岗	long gang	1
+庐山南大道	lu shan nan da dao	1
+罗家集	luo jia ji	1
+绿茵路	lv yin lu	1
+麻丘	ma qiu	1
+民园路西	min yuan lu xi	1
+南昌大桥东	nan chang da qiao dong	1
+南昌东站	nan chang dong zhan	1
+南昌火车站	nan chang huo che zhan	1
+南昌西站	nan chang xi zhan	1
+南昌中学	nan chang zhong xue	1
+南齿	nan chi	1
+南路	nan lu	1
+彭家桥	peng jia qiao	1
+起凤路	qi feng lu	1
+七里	qi li	1
+前湖大道	qian hu da dao	1
+青山湖大道	qing shan hu da dao	1
+青山湖西	qing shan hu xi	1
+青山路口	qing shan lu kou	1
+秋水广场	qiu shui guang chang	1
+人民公园	ren min gong yuan	1
+上沙沟	shang sha gou	1
+沈桥	shen qiao	1
+绳金塔	sheng jin ta	1
+生米	sheng mi	1
+师大南路	shi da nan lu	1
+市民中心	shi min zhong xin	1
+施尧	shi yao	1
+十字街	shi zi jie	1
+双港	shuang gang	1
+顺外	shun wai	1
+太子殿	tai zi dian	1
+坛子口	tan zi kou	1
+桃苑	tao yuan	1
+滕王阁	teng wang ge	1
+万寿宫	wan shou gong	1
+卫东	wei dong	1
+卧龙山	wo long shan	1
+西站南广场	xi zhan nan guang chang	1
+谢家村	xie jia cun	1
+新洪城大市场	xin hong cheng da shi chang	1
+辛家庵	xin jia an	1
+学府大道东	xue fu da dao dong	1
+雅苑路	ya yuan lu	1
+阳明公园	yang ming gong yuan	1
+瑶湖东	yao hu dong	1
+瑶湖西	yao hu xi	1
+银三角北	yin san jiao bei	1
+鹰潭街	ying tan jie	1
+永叔路	yong shu lu	1
+裕丰街	yu feng jie	1
+鱼尾洲	yu wei zhou	1
+云天路	yun tian lu	1
+中堡	zhong bao	1
+珠江路	zhu jiang lu	1

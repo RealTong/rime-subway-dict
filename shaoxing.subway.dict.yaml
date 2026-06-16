@@ -1,0 +1,51 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: shaoxing.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+城南大道	cheng nan da dao	1
+城市广场	cheng shi guang chang	1
+大庆寺	da qing si	1
+大滩	da tan	1
+豆姜	dou jiang	1
+芳泉	fang quan	1
+凤凰山	feng huang shan	1
+凤林	feng lin	1
+姑娘桥	gu niang qiao	1
+瓜渚湖	gua zhu hu	1
+后墅路	hou shu lu	1
+湖西	hu xi	1
+黄酒小镇	huang jiu xiao zhen	1
+会展中心	hui zhan zhong xin	1
+火车站	huo che zhan	1
+鉴水路	jian shui lu	1
+镜水路	jing shui lu	1
+劳家葑	lao jia feng	1
+临杭大道	lin hang da dao	1
+鲁迅故里	lu xun gu li	1
+梅山广场	mei shan guang chang	1
+明珠广场	ming zhu guang chang	1
+南池	nan chi	1
+袍谷	pao gu	1
+袍中路	pao zhong lu	1
+栖湖	qi hu	1
+前梅	qian mei	1
+钱清	qian qing	1
+人民医院总院	ren min yi yuan zong yuan	1
+绍兴北站	shao xing bei zhan	1
+绍兴一中	shao xing yi zhong	1
+檀渎	tan du	1
+西沙路	xi sha lu	1
+恂南	xun nan	1
+衙前	ya qian	1
+洋泾湖	yang jing hu	1
+杨汛桥	yang xun qiao	1
+越州大道	yue zhou da dao	1
+张墅	zhang shu	1
+中国轻纺城	zhong guo qing fang cheng	1

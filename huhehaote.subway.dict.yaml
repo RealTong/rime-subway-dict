@@ -1,0 +1,53 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: huhehaote.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿尔山路	a er shan lu	1
+坝堰(机场)	ba yan ( ji chang )	1
+百合路	bai he lu	1
+白塔西	bai ta xi	1
+北山公园	bei shan gong yuan	1
+成吉思汗公园	cheng ji si han gong yuan	1
+成吉思汗广场	cheng ji si han guang chang	1
+大学西街	da xue xi jie	1
+东影路	dong ying lu	1
+附属医院	fu shu yi yuan	1
+公主府	gong zhu fu	1
+毫沁营	hao qin ying	1
+后不塔气	hou bu ta qi	1
+呼钢南路	hu gang nan lu	1
+呼和浩特东站	hu he hao te dong zhan	1
+呼和浩特体育场	hu he hao te ti yu chang	1
+呼和浩特站	hu he hao te zhan	1
+将军衙署	jiang jun ya shu	1
+孔家营	kong jia ying	1
+喇嘛营	la ma ying	1
+内大南校区	nei da nan xiao qu	1
+内蒙古博物院	nei meng gu bo wu yuan	1
+内蒙古体育馆	nei meng gu ti yu guan	1
+内蒙古展览馆	nei meng gu zhan lan guan	1
+诺和木勒	nuo he mu lei	1
+人民会堂	ren min hui tang	1
+什兰岱	shen lan dai	1
+市政府	shi zheng fu	1
+帅家营	shuai jia ying	1
+水上公园	shui shang gong yuan	1
+丝绸之路大道	si chou zhi lu da dao	1
+塔利东路	ta li dong lu	1
+乌兰夫纪念馆	wu lan fu ji nian guan	1
+五里营	wu li ying	1
+西二环路	xi er huan lu	1
+锡林公园	xi lin gong yuan	1
+西龙王庙	xi long wang miao	1
+新店	xin dian	1
+新华广场	xin hua guang chang	1
+一家村	yi jia cun	1
+伊利健康谷	yi li jian kang gu	1
+艺术学院	yi shu xue yuan	1
+中山路	zhong shan lu	1

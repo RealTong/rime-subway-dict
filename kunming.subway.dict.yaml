@@ -1,0 +1,114 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: kunming.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+白龙路	bai long lu	1
+白龙寺	bai long si	1
+白龙潭	bai long tan	1
+白云路	bai yun lu	1
+宝丰	bao feng	1
+北部汽车站	bei bu qi che zhan	1
+北辰	bei chen	1
+岔街	cha jie	1
+昌宏西路	chang hong xi lu	1
+昌源中路	chang yuan zhong lu	1
+车家壁	che jia bi	1
+穿金路	chuan jin lu	1
+穿心鼓楼	chuan xin gu lou	1
+春融街	chun rong jie	1
+大坝	da ba	1
+大板桥	da ban qiao	1
+大河埂	da he geng	1
+大树营	da shu ying	1
+大学城	da xue cheng	1
+大学城南	da xue cheng nan	1
+大渔路	da yu lu	1
+滇池国际会展中心	dian chi guo ji hui zhan zhong xin	1
+东部汽车站	dong bu qi che zhan	1
+东风广场	dong feng guang chang	1
+东郊路	dong jiao lu	1
+斗南	dou nan	1
+珥季路	er ji lu	1
+福保	fu bao	1
+福德	fu de	1
+福海	fu hai	1
+古城	gu cheng	1
+广福路西口	guang fu lu xi kou	1
+广卫	guang wei	1
+海屯路	hai tun lu	1
+和甸营	he dian ying	1
+虹桥	hong qiao	1
+华山西路	hua shan xi lu	1
+环城南路(北部汽车站)	huan cheng nan lu ( bei bu qi che zhan )	1
+环城南路(昆明南火车站/大学城南)	huan cheng nan lu ( kun ming nan huo che zhan / da xue cheng nan )	1
+火车北站	huo che bei zhan	1
+机场前	ji chang qian	1
+机场中心	ji chang zhong xin	1
+交三桥	jiao san qiao	1
+金川路	jin chuan lu	1
+金鼎山北路	jin ding shan bei lu	1
+金桂街·斗南花市	jin gui jie · dou nan hua shi	1
+金家河	jin jia he	1
+金兰路	jin lan lu	1
+金马寺	jin ma si	1
+金星	jin xing	1
+菊华	ju hua	1
+菊花村	ju hua cun	1
+可乐村	ke le cun	1
+昆明火车站	kun ming huo che zhan	1
+昆明南火车站	kun ming nan huo che zhan	1
+联大街	lian da jie	1
+梁家河	liang jia he	1
+霖雨桥	lin yu qiao	1
+龙头街	long tou jie	1
+梅子村	mei zi cun	1
+弥勒寺	mi le si	1
+眠山	mian shan	1
+南部汽车站	nan bu qi che zhan	1
+牛街庄	niu jie zhuang	1
+牛头山	niu tou shan	1
+潘家湾	pan jia wan	1
+普坪村	pu ping cun	1
+日新路	ri xin lu	1
+世博园	shi bo yuan	1
+市级行政中心清风	shi ji xing zheng zhong xin qing feng	1
+石咀	shi ju	1
+市体育馆	shi ti yu guan	1
+石闸	shi zha	1
+司家营	si jia ying	1
+苏家塘	su jia tang	1
+塔密	ta mi	1
+太平村	tai ping cun	1
+塘子巷	tang zi xiang	1
+拓东体育馆	tuo dong ti yu guan	1
+驼峰街	tuo feng jie	1
+巫家坝	wu jia ba	1
+吴家营	wu jia ying	1
+五一路	wu yi lu	1
+西部汽车站	xi bu qi che zhan	1
+西山公园	xi shan gong yuan	1
+西苑	xi yuan	1
+祥丰街	xiang feng jie	1
+小菜园	xiao cai yuan	1
+晓东村	xiao dong cun	1
+小屯	xiao tun	1
+新亚洲体育城	xin ya zhou ti yu cheng	1
+兴体路	xing ti lu	1
+星耀路	xing yao lu	1
+严家地	yan jia di	1
+羊肠村	yang chang cun	1
+羊甫头	yang fu tou	1
+宜和路	yi he lu	1
+谊康南路	yi kang nan lu	1
+迎海路	ying hai lu	1
+渔户村	yu hu cun	1
+玉缘路	yu yuan lu	1
+圆通山	yuan tong shan	1
+朱家村	zhu jia cun	1
+庄家塘立交桥	zhuang jia tang li jiao qiao	1

@@ -1,0 +1,37 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xuchang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+翱翔路	ao xiang lu	1
+八千	ba qian	1
+长安路北	chang an lu bei	1
+长安路南	chang an lu nan	1
+大周	da zhou	1
+电气谷	dian qi gu	1
+芙蓉湖	fu rong hu	1
+港区北	gang qu bei	1
+葛天源	ge tian yuan	1
+龙王	long wang	1
+龙王南	long wang nan	1
+鹿鸣湖	lu ming hu	1
+农大路	nong da lu	1
+双鹤湖	shuang he hu	1
+双鹤湖北	shuang he hu bei	1
+双鹤湖南	shuang he hu nan	1
+双庙李	shuang miao li	1
+体育中心	ti yu zhong xin	1
+文体中心	wen ti zhong xin	1
+新郑机场(郑许线)	xin zheng ji chang ( zheng xu xian )	1
+许昌东站	xu chang dong zhan	1
+洵美路	xun mei lu	1
+颍川路	ying chuan lu	1
+永和路	yong he lu	1
+苑陵故城西	yuan ling gu cheng xi	1
+枣园	zao yuan	1
+遵大路·市一院航空港院区	zun da lu · shi yi yuan hang kong gang yuan qu	1

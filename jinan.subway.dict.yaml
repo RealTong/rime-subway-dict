@@ -1,0 +1,155 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: jinan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安成街	an cheng jie	1
+奥体东路	ao ti dong lu	1
+奥体中心	ao ti zhong xin	1
+八涧堡	ba jian bao	1
+八里桥	ba li qiao	1
+八一立交桥	ba yi li jiao qiao	1
+鲍山	bao shan	1
+北园	bei yuan	1
+彩虹湖	cai hong hu	1
+彩虹湖东	cai hong hu dong	1
+超算中心	chao suan zhong xin	1
+川流	chuan liu	1
+创新谷	chuang xin gu	1
+春博路	chun bo lu	1
+春博路(云巴)	chun bo lu ( yun ba )	1
+春风悦动公园	chun feng yue dong gong yuan	1
+春晖路	chun hui lu	1
+春景路	chun jing lu	1
+春秀路	chun xiu lu	1
+春喧路	chun xuan lu	1
+春意路	chun yi lu	1
+春园路	chun yuan lu	1
+崔寨	cui zhai	1
+大学城	da xue cheng	1
+大杨	da yang	1
+大正路	da zheng lu	1
+第一医科大学	di yi yi ke da xue	1
+丁家庄	ding jia zhuang	1
+段店	duan dian	1
+二环西路	er huan xi lu	1
+方特	fang te	1
+凤凰北路	feng huang bei lu	1
+高新实验中学	gao xin shi yan zhong xue	1
+高新一中	gao xin yi zhong	1
+公路技师学院	gong lu ji shi xue yuan	1
+工研院	gong yan yuan	1
+汉峪金谷	han yu jin gu	1
+花二庄北街	hua er zhuang bei jie	1
+花园东路	hua yuan dong lu	1
+黄河会展中心	huang he hui zhan zhong xin	1
+黄金产业园	huang jin chan ye yuan	1
+黄旗山北	huang qi shan bei	1
+黄土崖	huang tu ya	1
+回河	hui he	1
+济北小学	ji bei xiao xue	1
+机场南	ji chang nan	1
+济泺路	ji luo lu	1
+济南东站	ji nan dong zhan	1
+济南东站(济阳线)	ji nan dong zhan ( ji yang xian )	1
+济南西站	ji nan xi zhan	1
+济南西站西广场	ji nan xi zhan xi guang chang	1
+济南站北	ji nan zhan bei	1
+济阳北	ji yang bei	1
+济阳市民中心	ji yang shi min zhong xin	1
+姜家庄	jiang jia zhuang	1
+浆水泉路	jiang shui quan lu	1
+开拓路	kai tuo lu	1
+科创城	ke chuang cheng	1
+科航路	ke hang lu	1
+科远路	ke yuan lu	1
+腊山	la shan	1
+腊山河公园	la shan he gong yuan	1
+腊山南	la shan nan	1
+老屯	lao tun	1
+历城二中唐冶校区	li cheng er zhong tang ye xiao qu	1
+历城二中唐冶校区(云巴)	li cheng er zhong tang ye xiao qu ( yun ba )	1
+历城文博中心	li cheng wen bo zhong xin	1
+历山路	li shan lu	1
+梁王	liang wang	1
+梁王西	liang wang xi	1
+临港北路	lin gang bei lu	1
+林家庄	lin jia zhuang	1
+临空	lin kong	1
+龙奥大厦	long ao da sha	1
+龙洞	long dong	1
+茂陵山	mao ling shan	1
+孟家庄	meng jia zhuang	1
+南辛庄	nan xin zhuang	1
+裴家营	pei jia ying	1
+彭家庄	peng jia zhuang	1
+彭家庄(云巴)	peng jia zhuang ( yun ba )	1
+七里堡	qi li bao	1
+七里河路南口	qi li he lu nan kou	1
+齐鲁软件园	qi lu ruan jian yuan	1
+千佛山	qian fo shan	1
+青年政治学院	qing nian zheng zhi xue yuan	1
+清宁	qing ning	1
+清源大街	qing yuan da jie	1
+曲家庄	qu jia zhuang	1
+泉城公园	quan cheng gong yuan	1
+沙沟	sha gou	1
+山财章丘校区	shan cai zhang qiu xiao qu	1
+山大龙山	shan da long shan	1
+山大路南口	shan da lu nan kou	1
+山大南路东口	shan da nan lu dong kou	1
+山东博物馆	shan dong bo wu guan	1
+山东大学	shan dong da xue	1
+山东现代学院	shan dong xian dai xue yuan	1
+山东职业学院	shan dong zhi ye xue yuan	1
+山东职业学院(云巴)	shan dong zhi ye xue yuan ( yun ba )	1
+山师东路	shan shi dong lu	1
+生产路	sheng chan lu	1
+圣井	sheng jing	1
+省体育中心	sheng ti yu zhong xin	1
+市妇幼东院	shi fu you dong yuan	1
+世纪大道	shi ji da dao	1
+世纪大道春喧路	shi ji da dao chun xuan lu	1
+舜泰广场	shun tai guang chang	1
+孙村	sun cun	1
+滩头	tan tou	1
+唐宣路	tang xuan lu	1
+唐冶	tang ye	1
+唐冶(云巴)	tang ye ( yun ba )	1
+唐冶东路	tang ye dong lu	1
+唐冶公园	tang ye gong yuan	1
+天泺路	tian luo lu	1
+王府庄	wang fu zhuang	1
+王舍人	wang she ren	1
+王舍人立交桥	wang she ren li jiao qiao	1
+文旅城	wen lv cheng	1
+武家庄	wu jia zhuang	1
+武将山东	wu jiang shan dong	1
+五里牌坊	wu li pai fang	1
+西巨野河	xi ju ye he	1
+响泉街	xiang quan jie	1
+新元学校	xin yuan xue xiao	1
+邢村立交桥东	xing cun li jiao qiao dong	1
+邢村立交桥西	xing cun li jiao qiao xi	1
+绣源河	xiu yuan he	1
+徐家庄	xu jia zhuang	1
+徐马	xu ma	1
+燕山立交桥	yan shan li jiao qiao	1
+益康路	yi kang lu	1
+英才学院北校区	ying cai xue yuan bei xiao qu	1
+营市街	ying shi jie	1
+玉符河	yu fu he	1
+园博园	yuan bo yuan	1
+张马屯	zhang ma tun	1
+赵营	zhao ying	1
+贞观街	zhen guan jie	1
+中央商务区	zhong yang shang wu qu	1
+祝甸	zhu dian	1
+转山西路(万象城)	zhuan shan xi lu ( wan xiang cheng )	1
+庄科	zhuang ke	1
+紫薇路	zi wei lu	1

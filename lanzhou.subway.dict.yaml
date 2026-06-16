@@ -1,0 +1,37 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: lanzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+陈官营	chen guan ying	1
+东方红广场	dong fang hong guang chang	1
+东岗	dong gang	1
+拱星墩	gong xing dun	1
+红星巷	hong xing xiang	1
+焦家湾	jiao jia wan	1
+均家滩	jun jia tan	1
+兰州城市学院(省科技馆)	lan zhou cheng shi xue yuan ( sheng ke ji guan )	1
+兰州大学	lan zhou da xue	1
+兰州海关	lan zhou hai guan	1
+兰州火车站	lan zhou huo che zhan	1
+兰州西站北广场	lan zhou xi zhan bei guang chang	1
+马滩	ma tan	1
+七里河	qi li he	1
+省气象局	sheng qi xiang ju	1
+省政府	sheng zheng fu	1
+土门墩	tu men dun	1
+团结新村	tuan jie xin cun	1
+文化宫	wen hua gong	1
+五里铺	wu li pu	1
+西关	xi guan	1
+西站什字	xi zhan shen zi	1
+小西湖	xiao xi hu	1
+雁白大桥	yan bai da qiao	1
+邮电大楼	you dian da lou	1
+张苏滩	zhang su tan	1

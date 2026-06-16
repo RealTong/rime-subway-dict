@@ -1,0 +1,171 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: taibei.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安康	an kang	1
+板桥	ban qiao	1
+板新	ban xin	1
+北门	bei men	1
+北投	bei tou	1
+滨海沙仑	bin hai sha lun	1
+滨海义山	bin hai yi shan	1
+菜寮	cai liao	1
+长庚医院	chang geng yi yuan	1
+大安	da an	1
+大安森林公园	da an sen lin gong yuan	1
+大湖公园	da hu gong yuan	1
+大坪林	da ping lin	1
+大桥头	da qiao tou	1
+大园	da yuan	1
+大直	da zhi	1
+丹凤	dan feng	1
+淡海新市镇	dan hai xin shi zhen	1
+淡江大学	dan jiang da xue	1
+淡金北新	dan jin bei xin	1
+淡金邓公	dan jin deng gong	1
+淡水	dan shui	1
+淡水人鱼码头	dan shui ren yu ma tou	1
+淡水行政中心	dan shui xing zheng zhong xin	1
+顶埔	ding pu	1
+顶溪	ding xi	1
+东湖	dong hu	1
+东门	dong men	1
+动物园	dong wu yuan	1
+动物园南	dong wu yuan nan	1
+辅大	fu da	1
+复兴岗	fu xing gang	1
+府中	fu zhong	1
+竿蓁林	gan zhen lin	1
+港墘	gang qian	1
+高铁桃园站	gao tie tao yuan zhan	1
+耕莘安康院区	geng shen an kang yuan qu	1
+公馆	gong guan	1
+古亭	gu ting	1
+关渡	guan du	1
+国父纪念馆	guo fu ji nian guan	1
+海山	hai shan	1
+横山	heng shan	1
+红树林	hong shu lin	1
+后山埤	hou shan pi	1
+葫洲	hu zhou	1
+环北	huan bei	1
+回龙	hui long	1
+机场第二航厦	ji chang di er hang sha	1
+机场第一航厦	ji chang di yi hang sha	1
+机场旅馆	ji chang lv guan	1
+剑南路	jian nan lu	1
+剑潭	jian tan	1
+江子翠	jiang zi cui	1
+景安	jing an	1
+景美	jing mei	1
+景平	jing ping	1
+景文科大	jing wen ke da	1
+崁顶	kan ding	1
+科技大楼	ke ji da lou	1
+坑口	keng kou	1
+昆阳	kun yang	1
+老街溪	lao jie xi	1
+麟光	lin guang	1
+林口	lin kou	1
+领航	ling hang	1
+六张犁	liu zhang li	1
+龙山寺	long shan si	1
+芦洲	lu zhou	1
+猫空	mao kong	1
+玫瑰中国城	mei gui zhong guo cheng	1
+民权西路	min quan xi lu	1
+明德	ming de	1
+木柵	mu shan	1
+南港	nan gang	1
+南港软体园区	nan gang ruan ti yuan qu	1
+南港展览馆	nan gang zhan lan guan	1
+南京复兴	nan jing fu xing	1
+南京三民	nan jing san min	1
+南势角	nan shi jiao	1
+内湖	nei hu	1
+唭哩岸	qi li an	1
+奇岩	qi yan	1
+七张	qi zhang	1
+桥和	qiao he	1
+三重	san chong	1
+三重国小	san chong guo xiao	1
+三和国中	san he guo zhong	1
+三民高中	san min gao zhong	1
+沙仑	sha lun	1
+山鼻	shan bi	1
+善导寺	shan dao si	1
+士林	shi lin	1
+石牌	shi pai	1
+十四张	shi si zhang	1
+市政府	shi zheng fu	1
+双城	shuang cheng	1
+双连	shuang lian	1
+松江南京	song jiang nan jing	1
+松山	song shan	1
+松山机场	song shan ji chang	1
+台北101/世贸	tai bei 101/ shi mao	1
+台北车站	tai bei che zhan	1
+台北海洋大学	tai bei hai yang da xue	1
+台北桥	tai bei qiao	1
+台北小城	tai bei xiao cheng	1
+台北小巨蛋	tai bei xiao ju dan	1
+台大医院	tai da yi yuan	1
+台电大楼	tai dian da lou	1
+泰山	tai shan	1
+泰山贵和	tai shan gui he	1
+桃园体育园区	tao yuan ti yu yuan qu	1
+体育大学	ti yu da xue	1
+头前庄	tou qian zhuang	1
+土城	tu cheng	1
+万芳社区	wan fang she qu	1
+万芳医院	wan fang yi yuan	1
+万隆	wan long	1
+文德	wen de	1
+西湖	xi hu	1
+西门	xi men	1
+先啬宫	xian se gong	1
+象山	xiang shan	1
+小碧潭	xiao bi tan	1
+小南门	xiao nan men	1
+新北产业园区	xin bei chan ye yuan qu	1
+新北投	xin bei tou	1
+新店	xin dian	1
+新店区公所	xin dian qu gong suo	1
+辛亥	xin hai	1
+新和国小	xin he guo xiao	1
+新埔	xin pu	1
+新埔民生	xin pu min sheng	1
+新市一路	xin shi yi lu	1
+信义安和	xin yi an he	1
+新庄	xin zhuang	1
+新庄副都心	xin zhuang fu dou xin	1
+幸福	xing fu	1
+兴南	xing nan	1
+行天宫	xing tian gong	1
+秀朗桥	xiu lang qiao	1
+徐汇中学	xu hui zhong xue	1
+亚东医院	ya dong yi yuan	1
+阳光运动公园	yang guang yun dong gong yuan	1
+永安市场	yong an shi chang	1
+永春	yong chun	1
+永宁	yong ning	1
+圆山	yuan shan	1
+指南宫	zhi nan gong	1
+芝山	zhi shan	1
+中和	zhong he	1
+中山	zhong shan	1
+中山国小	zhong shan guo xiao	1
+中山国中	zhong shan guo zhong	1
+忠孝敦化	zhong xiao dun hua	1
+忠孝复兴	zhong xiao fu xing	1
+忠孝新生	zhong xiao xin sheng	1
+忠义	zhong yi	1
+中原	zhong yuan	1
+中正纪念堂	zhong zheng ji nian tang	1
+竹围	zhu wei	1

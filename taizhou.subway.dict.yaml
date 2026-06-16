@@ -1,0 +1,25 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: taizhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+城南	cheng nan	1
+恩泽医院	en ze yi yuan	1
+国博中心	guo bo zhong xin	1
+汇川王	hui chuan wang	1
+汇丰路	hui feng lu	1
+锦泰	jin tai	1
+九龙大道	jiu long da dao	1
+南屏	nan ping	1
+台州火车站	tai zhou huo che zhan	1
+台州汽车南站	tai zhou qi che nan zhan	1
+万昌路	wan chang lu	1
+温岭第一人民医院	wen ling di yi ren min yi yuan	1
+温岭火车站	wen ling huo che zhan	1
+学院路	xue yuan lu	1
+泽国	ze guo	1

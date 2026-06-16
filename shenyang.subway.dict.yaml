@@ -1,0 +1,144 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: shenyang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+百鸟公园	bai niao gong yuan	1
+白塔河路	bai ta he lu	1
+保工街	bao gong jie	1
+北大营	bei da ying	1
+北二路	bei er lu	1
+北陵公园	bei ling gong yuan	1
+北塔	bei ta	1
+伯官北大街	bo guan bei da jie	1
+彩霞街	cai xia jie	1
+曹仲	cao zhong	1
+长安路	chang an lu	1
+长江街	chang jiang jie	1
+长青南街	chang qing nan jie	1
+长青桥	chang qing qiao	1
+城建学院	cheng jian xue yuan	1
+创新路	chuang xin lu	1
+创新一路	chuang xin yi lu	1
+大通湖街	da tong hu jie	1
+翟家	di jia	1
+丁香湖	ding xiang hu	1
+东北大马路	dong bei da ma lu	1
+东大营街	dong da ying jie	1
+东陵公园	dong ling gong yuan	1
+东中街	dong zhong jie	1
+甘官	gan guan	1
+工业大学	gong ye da xue	1
+工业展览馆	gong ye zhan lan guan	1
+观泉路	guan quan lu	1
+航空航天大学	hang kong hang tian da xue	1
+合作街	he zuo jie	1
+红椿路	hong chun lu	1
+滑翔	hua xiang	1
+淮河街沈医二院	huai he jie shen yi er yuan	1
+怀远门	huai yuan men	1
+皇姑屯站	huang gu tun zhan	1
+皇寺路	huang si lu	1
+浑河站	hun he zhan	1
+吉力湖街	ji li hu jie	1
+建筑大学	jian zhu da xue	1
+江东街	jiang dong jie	1
+金仓路	jin cang lu	1
+金融中心	jin rong zhong xin	1
+金阳大街	jin yang da jie	1
+开发大道	kai fa da dao	1
+朗日街	lang ri jie	1
+李达	li da	1
+理工大学	li gong da xue	1
+黎明广场	li ming guang chang	1
+辽宁大学	liao ning da xue	1
+陵东街	ling dong jie	1
+陵西	ling xi	1
+马贝	ma bei	1
+南京桥	nan jing qiao	1
+南李官	nan li guan	1
+南市场	nan shi chang	1
+南五马路	nan wu ma lu	1
+南阳湖街	nan yang hu jie	1
+宁官	ning guan	1
+农业大学	nong ye da xue	1
+怒江公园	nu jiang gong yuan	1
+滂江街	pang jiang jie	1
+蒲河路	pu he lu	1
+蒲田路	pu tian lu	1
+启工街	qi gong jie	1
+七号街	qi hao jie	1
+岐山路	qi shan lu	1
+千岛湖街	qian dao hu jie	1
+前陵	qian ling	1
+青年大街	qing nian da jie	1
+青年公园	qing nian gong yuan	1
+泉园	quan yuan	1
+全运路	quan yun lu	1
+人杰湖公园	ren jie hu gong yuan	1
+人民广场	ren min guang chang	1
+三台子	san tai zi	1
+砂阳	sha yang	1
+沈本大街	shen ben da jie	1
+沈辽路	shen liao lu	1
+沈阳北站	shen yang bei zhan	1
+沈阳大学	shen yang da xue	1
+沈阳南站	shen yang nan zhan	1
+沈阳站	shen yang zhan	1
+沈中大街	shen zhong da jie	1
+省博物馆	sheng bo wu guan	1
+胜利南街	sheng li nan jie	1
+师范大学	shi fan da xue	1
+市府大路	shi fu da lu	1
+世纪大厦	shi ji da sha	1
+十三号街	shi san hao jie	1
+市图书馆	shi tu shu guan	1
+双马	shuang ma	1
+水泉	shui quan	1
+四号街	si hao jie	1
+塔湾街	ta wan jie	1
+太原街	tai yuan jie	1
+洮昌街	tao chang jie	1
+桃仙机场	tao xian ji chang	1
+天成街	tian cheng jie	1
+铁西广场	tie xi guang chang	1
+铁西汽车工厂	tie xi qi che gong chang	1
+万莲	wan lian	1
+望花	wang hua	1
+文官街	wen guan jie	1
+五里河	wu li he	1
+细河悠谷	xi he you gu	1
+向工街	xiang gong jie	1
+新惠街	xin hui jie	1
+新乐遗址	xin le yi zhi	1
+新宁街	xin ning jie	1
+兴华公园	xing hua gong yuan	1
+医学院	yi xue yuan	1
+迎宾路	ying bin lu	1
+营盘街	ying pan jie	1
+于洪广场	yu hong guang chang	1
+余良	yu liang	1
+榆树台	yu shu tai	1
+元江街	yuan jiang jie	1
+云峰北街	yun feng bei jie	1
+云杉路	yun shan lu	1
+长白岛	zhang bai dao	1
+长白南	zhang bai nan	1
+张沙布	zhang sha bu	1
+张士	zhang shi	1
+正新路	zheng xin lu	1
+植物园	zhi wu yuan	1
+中德大街	zhong de da jie	1
+重工街	zhong gong jie	1
+中街	zhong jie	1
+重型文化广场	zhong xing wen hua guang chang	1
+中央大街	zhong yang da jie	1
+中央公园	zhong yang gong yuan	1
+中医药大学	zhong yi yao da xue	1
+综合保税区	zong he bao shui qu	1

@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: qingyuan.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+湖蝶湾	hu die wan	1
+清远长隆	qing yuan zhang long	1
+长隆森林王国	zhang long sen lin wang guo	1

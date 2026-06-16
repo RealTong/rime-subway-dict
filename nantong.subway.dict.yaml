@@ -1,0 +1,52 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: nantong.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+北城大桥	bei cheng da qiao	1
+北大街	bei da jie	1
+茶庵殿	cha an dian	1
+城港路	cheng gang lu	1
+崇州大道	chong zhou da dao	1
+慈善博物馆	ci shan bo wu guan	1
+大剧院	da ju yuan	1
+观音山	guan yin shan	1
+孩儿巷	hai er xiang	1
+航运学院	hang yun xue yuan	1
+河口	he kou	1
+和平桥	he ping qiao	1
+集成村	ji cheng cun	1
+静海大道	jing hai da dao	1
+南通大学	nan tong da xue	1
+南通东站	nan tong dong zhan	1
+南通西站	nan tong xi zhan	1
+能达商务区	neng da shang wu qu	1
+盘香路	pan xiang lu	1
+平潮	ping chao	1
+普贤路	pu xian lu	1
+汽车东站	qi che dong zhan	1
+世纪大道	shi ji da dao	1
+十里坊	shi li fang	1
+曙光	shu guang	1
+唐闸公园	tang zha gong yuan	1
+体育公园	ti yu gong yuan	1
+通富北路	tong fu bei lu	1
+图书馆	tu shu guan	1
+文峰	wen feng	1
+五一路	wu yi lu	1
+先锋	xian feng	1
+幸福	xing fu	1
+学田	xue tian	1
+易家桥	yi jia qiao	1
+友谊桥	you yi qiao	1
+园林路	yuan lin lu	1
+长岸	zhang an	1
+振兴路	zhen xing lu	1
+政务中心	zheng wu zhong xin	1
+钟秀西路	zhong xiu xi lu	1
+紫琅湖	zi lang hu	1

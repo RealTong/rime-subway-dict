@@ -1,0 +1,245 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: zhengzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安宁路	an ning lu	1
+奥体中心	ao ti zhong xin	1
+奥体中心西	ao ti zhong xin xi	1
+翱翔路	ao xiang lu	1
+八千	ba qian	1
+白庙	bai miao	1
+北大学城	bei da xue cheng	1
+北二十里铺	bei er shi li pu	1
+北三环	bei san huan	1
+碧沙岗	bi sha gang	1
+滨河新城	bin he xin cheng	1
+滨河新城南	bin he xin cheng nan	1
+博览中心	bo lan zhong xin	1
+博学路	bo xue lu	1
+长安路北	chang an lu bei	1
+长安路南	chang an lu nan	1
+畅和街	chang he jie	1
+常庄	chang zhuang	1
+潮河	chao he	1
+陈砦	chen zhai	1
+陈寨东	chen zhai dong	1
+城东南路	cheng dong nan lu	1
+大石桥·市妇幼保健院	da shi qiao · shi fu you bao jian yuan	1
+大学科技园	da xue ke ji yuan	1
+大学中路	da xue zhong lu	1
+大周	da zhou	1
+电气谷	dian qi gu	1
+东大街·市第一人民医院	dong da jie · shi di yi ren min yi yuan	1
+东风东路	dong feng dong lu	1
+东风路	dong feng lu	1
+东风南路	dong feng nan lu	1
+洞林湖	dong lin hu	1
+洞林寺	dong lin si	1
+冬青街	dong qing jie	1
+东十里铺	dong shi li pu	1
+东赵	dong zhao	1
+东周	dong zhou	1
+恩平湖	en ping hu	1
+二里岗	er li gang	1
+二里岗东	er li gang dong	1
+二七广场	er qi guang chang	1
+二砂	er sha	1
+儿童医院·颐和医院	er tong yi yuan · yi he yi yuan	1
+凤凰台	feng huang tai	1
+凤凰台南	feng huang tai nan	1
+丰庆路	feng qing lu	1
+冯湾	feng wan	1
+冯庄	feng zhuang	1
+芙蓉湖	fu rong hu	1
+福塔东	fu ta dong	1
+福泽路	fu ze lu	1
+港区北	gang qu bei	1
+港区会展	gang qu hui zhan	1
+高铁公园	gao tie gong yuan	1
+葛天源	ge tian yuan	1
+关虎屯	guan hu tun	1
+果树所	guo shu suo	1
+海滩寺	hai tan si	1
+航海广场	hang hai guang chang	1
+河南大学新区	he nan da xue xin qu	1
+河南工业大学	he nan gong ye da xue	1
+河南建院	he nan jian yuan	1
+后河芦·市第八人民医院	hou he lu · shi di ba ren min yi yuan	1
+华南城	hua nan cheng	1
+华南城东	hua nan cheng dong	1
+华南城西	hua nan cheng xi	1
+花寨	hua zhai	1
+黄河路	huang he lu	1
+黄河南路	huang he nan lu	1
+黄河迎宾馆	huang he ying bin guan	1
+惠济区政府·市三院惠济院区	hui ji qu zheng fu · shi san yuan hui ji yuan qu	1
+会展中心	hui zhan zhong xin	1
+火车头体育场	huo che tou ti yu chang	1
+货站街	huo zhan jie	1
+机场东	ji chang dong	1
+祭城	ji cheng	1
+贾河	jia he	1
+贾峪	jia yu	1
+金达路	jin da lu	1
+金岱	jin dai	1
+金汇桥	jin hui qiao	1
+金融岛北	jin rong dao bei	1
+金融岛南	jin rong dao nan	1
+金融岛西	jin rong dao xi	1
+金水东路	jin shui dong lu	1
+金洼	jin wa	1
+金桢路	jin zhen lu	1
+经北二路	jing bei er lu	1
+经北五路	jing bei wu lu	1
+京广南路·市第六人民医院	jing guang nan lu · shi di liu ren min yi yuan	1
+荆胡	jing hu	1
+经开中心广场	jing kai zhong xin guang chang	1
+康宁街	kang ning jie	1
+康平湖	kang ping hu	1
+兰河公园	lan he gong yuan	1
+兰寨	lan zhai	1
+郎庄	lang zhuang	1
+老鸦陈	lao ya chen	1
+李湖桥	li hu qiao	1
+李江沟	li jiang gou	1
+漓江路	li jiang lu	1
+李商隐公园	li shang yin gong yuan	1
+莲湖	lian hu	1
+梁湖	liang hu	1
+柳湖	liu hu	1
+琉璃寺	liu li si	1
+柳林	liu lin	1
+刘庄	liu zhuang	1
+陇海东路	long hai dong lu	1
+陇海西路	long hai xi lu	1
+龙湖北	long hu bei	1
+龙湖南	long hu nan	1
+龙湖中环北	long hu zhong huan bei	1
+龙湖中环南	long hu zhong huan nan	1
+龙王	long wang	1
+龙王庙	long wang miao	1
+龙王南	long wang nan	1
+陇秀公园	long xiu gong yuan	1
+龙子湖	long zi hu	1
+龙子湖东	long zi hu dong	1
+龙子湖西	long zi hu xi	1
+鲁庙	lu miao	1
+鹿鸣湖	lu ming hu	1
+绿博园	lv bo yuan	1
+绿城广场	lv cheng guang chang	1
+马寨	ma zhai	1
+毛庄	mao zhuang	1
+孟庄	meng zhuang	1
+庙王	miao wang	1
+民航路	min hang lu	1
+南岗刘	nan gang liu	1
+南环公园	nan huan gong yuan	1
+南流	nan liu	1
+南三环	nan san huan	1
+南四环(贾河)	nan si huan ( jia he )	1
+南四环(郑州航空港站)	nan si huan ( zheng zhou hang kong gang zhan )	1
+南五里堡	nan wu li bao	1
+南阳新村	nan yang xin cun	1
+农大路	nong da lu	1
+农业大学	nong ye da xue	1
+农业东路	nong ye dong lu	1
+农业南路	nong ye nan lu	1
+圃田	pu tian	1
+圃田西	pu tian xi	1
+七里河	qi li he	1
+齐礼阎	qi li yan	1
+秦岭路	qin ling lu	1
+轻工业大学	qing gong ye da xue	1
+清华附中	qing hua fu zhong	1
+人民公园	ren min gong yuan	1
+人民路·河南中医一附院	ren min lu · he nan zhong yi yi fu yuan	1
+森林公园北	sen lin gong yuan bei	1
+沙口路	sha kou lu	1
+沙门	sha men	1
+沙窝李	sha wo li	1
+商鼎路	shang ding lu	1
+省骨科医院	sheng gu ke yi yuan	1
+省人民医院	sheng ren min yi yuan	1
+省社科院	sheng she ke yuan	1
+省体育中心	sheng ti yu zhong xin	1
+省中医院	sheng zhong yi yuan	1
+十八里河	shi ba li he	1
+市第二人民医院	shi di er ren min yi yuan	1
+市骨科医院	shi gu ke yi yuan	1
+市民大道	shi min da dao	1
+市民中心	shi min zhong xin	1
+市体育中心	shi ti yu zhong xin	1
+市委党校	shi wei dang xiao	1
+市中心医院	shi zhong xin yi yuan	1
+双鹤湖	shuang he hu	1
+双鹤湖北	shuang he hu bei	1
+双鹤湖南	shuang he hu nan	1
+双湖大道	shuang hu da dao	1
+双庙李	shuang miao li	1
+司赵·市七院滨河院区	si zhao · shi qi yuan bin he yuan qu	1
+嵩淮	song huai	1
+体育中心	ti yu zhong xin	1
+天健湖	tian jian hu	1
+铁炉	tie lu	1
+桐淮	tong huai	1
+同乐	tong le	1
+通泰路	tong tai lu	1
+王胡砦	wang hu zhai	1
+王砦	wang zhai	1
+文体中心	wen ti zhong xin	1
+文苑北路	wen yuan bei lu	1
+卧龙岗	wo long gang	1
+五龙口	wu long kou	1
+梧桐街	wu tong jie	1
+五一公园·市中医院	wu yi gong yuan · shi zhong yi yuan	1
+西大街	xi da jie	1
+西流湖	xi liu hu	1
+西流湖公园南	xi liu hu gong yuan nan	1
+西三环	xi san huan	1
+西周	xi zhou	1
+祥营	xiang ying	1
+小乔	xiao qiao	1
+小营	xiao ying	1
+新郑机场	xin zheng ji chang	1
+新郑机场(郑许线)	xin zheng ji chang ( zheng xu xian )	1
+兴隆铺	xing long pu	1
+许昌东站	xu chang dong zhan	1
+洵美路	xun mei lu	1
+燕庄	yan zhuang	1
+杨君刘	yang jun liu	1
+姚砦·聂庄	yao zhai · nie zhuang	1
+姚庄	yao zhuang	1
+医学院	yi xue yuan	1
+银屏路	yin ping lu	1
+颍川路	ying chuan lu	1
+营岗	ying gang	1
+永和路	yong he lu	1
+苑陵故城西	yuan ling gu cheng xi	1
+月季公园	yue ji gong yuan	1
+枣园	zao yuan	1
+枣庄	zao zhuang	1
+站马屯	zhan ma tun	1
+张家村	zhang jia cun	1
+郑大科技园	zheng da ke ji yuan	1
+郑大一附院	zheng da yi fu yuan	1
+郑大一附院东区	zheng da yi fu yuan dong qu	1
+郑州大学	zheng zhou da xue	1
+郑州东站	zheng zhou dong zhan	1
+郑州航空港站	zheng zhou hang kong gang zhan	1
+郑州火车站	zheng zhou huo che zhan	1
+郑州人民医院	zheng zhou ren min yi yuan	1
+郑州文庙	zheng zhou wen miao	1
+郑州西站	zheng zhou xi zhan	1
+郑州一中	zheng zhou yi zhong	1
+中央商务区	zhong yang shang wu qu	1
+众意西路	zhong yi xi lu	1
+中原福塔	zhong yuan fu ta	1
+紫荆山	zi jing shan	1
+综合保税区	zong he bao shui qu	1
+遵大路·市一院航空港院区	zun da lu · shi yi yuan hang kong gang yuan qu	1

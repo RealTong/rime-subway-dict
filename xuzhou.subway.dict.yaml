@@ -1,0 +1,80 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: xuzhou.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+奥体中心	ao ti zhong xin	1
+百果园	bai guo yuan	1
+白云山	bai yun shan	1
+奔腾大道	ben teng da dao	1
+博览中心	bo lan zhong xin	1
+大湖	da hu	1
+大龙湖	da long hu	1
+翟山	di shan	1
+高家营	gao jia ying	1
+高新区南	gao xin qu nan	1
+工农路	gong nong lu	1
+韩山	han shan	1
+汉源大道	han yuan da dao	1
+和平大桥	he ping da qiao	1
+户部山	hu bu shan	1
+淮塔	huai ta	1
+黄山垅	huang shan long	1
+检测园	jian ce yuan	1
+焦山	jiao shan	1
+金龙湖	jin long hu	1
+金山桥	jin shan qiao	1
+经贸学校	jing mao xue xiao	1
+九里山	jiu li shan	1
+九龙湖	jiu long hu	1
+科技城	ke ji cheng	1
+客运北站	ke yun bei zhan	1
+矿大文昌校区	kuang da wen chang xiao qu	1
+丽水路	li shui lu	1
+李沃	li wo	1
+路窝	lu wo	1
+民主北路	min zhu bei lu	1
+南三环路	nan san huan lu	1
+蟠桃	pan tao	1
+彭城广场	peng cheng guang chang	1
+浦江路	pu jiang lu	1
+七里沟	qi li gou	1
+钱江路	qian jiang lu	1
+乔家湖	qiao jia hu	1
+庆丰路	qing feng lu	1
+庆云桥	qing yun qiao	1
+人民广场	ren min guang chang	1
+师大云龙校区	shi da yun long xiao qu	1
+师范大学	shi fan da xue	1
+市行政中心	shi xing zheng zhong xin	1
+市中医院	shi zhong yi yuan	1
+苏堤路	su di lu	1
+塘坊	tang fang	1
+天桥	tian qiao	1
+铜山路	tong shan lu	1
+铜山中医院	tong shan zhong yi yuan	1
+拖龙山	tuo long shan	1
+无名山公园	wu ming shan gong yuan	1
+下淀	xia dian	1
+新城区东	xin cheng qu dong	1
+新元大道	xin yuan da dao	1
+杏山子	xing shan zi	1
+徐医附院	xu yi fu yuan	1
+徐州东站	xu zhou dong zhan	1
+徐州火车站	xu zhou huo che zhan	1
+杨庄	yang zhuang	1
+驿城	yi cheng	1
+医科大学	yi ke da xue	1
+一中南	yi zhong nan	1
+银山	yin shan	1
+迎宾大道	ying bin da dao	1
+玉泉河	yu quan he	1
+赵武	zhao wu	1
+振兴大道	zhen xing da dao	1
+中心医院	zhong xin yi yuan	1
+子房山	zi fang shan	1

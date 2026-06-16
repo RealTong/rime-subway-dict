@@ -1,0 +1,43 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: luoyang.subway
+version: "2026.06.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+八里堂	ba li tang	1
+长安路	chang an lu	1
+二乔路	er qiao lu	1
+谷水	gu shui	1
+国花路	guo hua lu	1
+红山	hong shan	1
+夹马营	jia ma ying	1
+解放路	jie fang lu	1
+开元湖	kai yuan hu	1
+丽景门	li jing men	1
+龙门高铁站	long men gao tie zhan	1
+洛阳火车站	luo yang huo che zhan	1
+洛邑古城	luo yi gu cheng	1
+邙岭	mang ling	1
+牡丹广场	mu dan guang chang	1
+牡丹桥	mu dan qiao	1
+七里河	qi li he	1
+启明南路·河南省洛阳正骨医院	qi ming nan lu · he nan sheng luo yang zheng gu yi yuan	1
+秦岭路	qin ling lu	1
+纱厂路	sha chang lu	1
+上海市场	shang hai shi chang	1
+史家湾	shi jia wan	1
+市民之家	shi min zhi jia	1
+隋唐园	sui tang yuan	1
+塔湾	ta wan	1
+体育中心	ti yu zhong xin	1
+王城公园	wang cheng gong yuan	1
+文博园	wen bo yuan	1
+武汉路	wu han lu	1
+兴洛湖	xing luo hu	1
+杨湾	yang wan	1
+应天门	ying tian men	1
+周王城广场	zhou wang cheng guang chang	1
