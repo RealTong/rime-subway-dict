@@ -60,7 +60,13 @@ def fetch_json(srhdata: str, timeout: int = 30) -> dict:
     try:
         with urlopen(request, timeout=timeout) as response:
             payload = json.loads(response.read().decode("utf-8"))
-    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as exc:
+    except (
+        HTTPError,
+        URLError,
+        TimeoutError,
+        UnicodeDecodeError,
+        json.JSONDecodeError,
+    ) as exc:
         raise RuntimeError(
             f"failed to fetch or parse AMap subway data for {srhdata}"
         ) from exc
@@ -289,10 +295,10 @@ def choose_readme_date(
     language: str,
     dictionaries_changed: bool,
 ) -> str:
-    existing_date = extract_readme_date(markdown, language)
+    existing_block = extract_generated_block(markdown)
+    existing_date = extract_readme_date(existing_block, language)
     if not existing_date or dictionaries_changed:
         return today
-    existing_block = extract_generated_block(markdown)
     expected_block = build_readme_block(cities, existing_date, language).strip()
     return existing_date if existing_block == expected_block else today
 
@@ -321,26 +327,32 @@ def generate_project(
         city_rows[city] = build_rows(names, overrides)
 
     generated_paths: set[Path] = {root / "all.subway.dict.yaml"}
+    planned_writes: dict[Path, str] = {}
     any_output_changed = False
     for city in cities:
         path = root / city.dictionary_path_name
         generated_paths.add(path)
         rows = city_rows[city]
         version = choose_version(path, city.dictionary_name, today, rows)
-        any_output_changed |= write_text(
-            path, render_dictionary(city.dictionary_name, version, rows)
+        text = render_dictionary(city.dictionary_name, version, rows)
+        planned_writes[path] = text
+        any_output_changed |= (
+            not path.exists() or path.read_text(encoding="utf-8") != text
         )
 
     all_rows = build_rows(all_names, overrides)
     all_path = root / "all.subway.dict.yaml"
     all_version = choose_version(all_path, "all.subway", today, all_rows)
-    any_output_changed |= write_text(
-        all_path, render_dictionary("all.subway", all_version, all_rows)
+    all_text = render_dictionary("all.subway", all_version, all_rows)
+    planned_writes[all_path] = all_text
+    any_output_changed |= (
+        not all_path.exists() or all_path.read_text(encoding="utf-8") != all_text
     )
 
+    stale_paths: list[Path] = []
     for path in root.glob("*.subway.dict.yaml"):
         if path not in generated_paths:
-            path.unlink()
+            stale_paths.append(path)
             any_output_changed = True
 
     for readme_name, language in [("README.md", "en"), ("README.zh-CN.md", "zh")]:
@@ -350,7 +362,12 @@ def generate_project(
             markdown, cities, today, language, any_output_changed
         )
         block = build_readme_block(cities, readme_date, language)
-        write_text(readme_path, replace_generated_block(markdown, block))
+        planned_writes[readme_path] = replace_generated_block(markdown, block)
+
+    for path, text in planned_writes.items():
+        write_text(path, text)
+    for path in stale_paths:
+        path.unlink()
 
 
 def main() -> None:

@@ -5,6 +5,20 @@ import pytest
 from scripts import generate
 
 
+class FakeResponse:
+    def __init__(self, body: bytes):
+        self.body = body
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc, traceback):
+        return False
+
+    def read(self) -> bytes:
+        return self.body
+
+
 def test_parse_cities_sorts_by_spell():
     payload = {
         "citylist": [
@@ -90,6 +104,16 @@ def test_rows_apply_overrides_and_sort_by_pinyin_then_name():
 
 def test_pinyin_for_name_lowercases_non_chinese_fragments():
     assert generate.pinyin_for_name("T3航站楼", {}) == "t3 hang zhan lou"
+
+
+def test_fetch_json_wraps_unicode_decode_errors(monkeypatch):
+    def fake_urlopen(request, timeout):
+        return FakeResponse(b"\xff")
+
+    monkeypatch.setattr(generate, "urlopen", fake_urlopen)
+
+    with pytest.raises(RuntimeError, match="failed to fetch or parse AMap subway data"):
+        generate.fetch_json("citylist.json")
 
 
 def test_render_dictionary_uses_rime_header_and_tabs():
@@ -241,6 +265,95 @@ def test_generate_project_writes_city_all_and_readmes(tmp_path: Path):
     )
 
 
+def test_generate_project_does_not_write_outputs_when_readme_markers_are_invalid(
+    tmp_path: Path,
+):
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nold\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n旧\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    existing = generate.render_dictionary(
+        "beijing.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    existing_path = tmp_path / "beijing.subway.dict.yaml"
+    existing_path.write_text(existing, encoding="utf-8")
+    stale_path = tmp_path / "old.subway.dict.yaml"
+    stale = "stale dictionary\n"
+    stale_path.write_text(stale, encoding="utf-8")
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京市"}
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "大坪"}]}]},
+    }
+
+    with pytest.raises(ValueError, match="README generated markers"):
+        generate.generate_project(
+            root=tmp_path,
+            today="2026.06.16",
+            fetch_json=lambda srhdata: payloads[srhdata],
+        )
+
+    assert existing_path.read_text(encoding="utf-8") == existing
+    assert stale_path.read_text(encoding="utf-8") == stale
+    assert not (tmp_path / "all.subway.dict.yaml").exists()
+
+
+def test_generate_project_removes_only_stale_root_dictionaries(tmp_path: Path):
+    (tmp_path / "README.md").write_text(
+        "A\n<!-- generated:start -->\nold\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n旧\n<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    stale_path = tmp_path / "old.subway.dict.yaml"
+    stale_path.write_text("old\n", encoding="utf-8")
+    unrelated_path = tmp_path / "notes.txt"
+    unrelated_path.write_text("keep\n", encoding="utf-8")
+    nested_dir = tmp_path / "nested"
+    nested_dir.mkdir()
+    nested_dictionary = nested_dir / "old.subway.dict.yaml"
+    nested_dictionary.write_text("keep nested\n", encoding="utf-8")
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京市"}
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "苹果园"}]}]},
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    assert not stale_path.exists()
+    assert unrelated_path.read_text(encoding="utf-8") == "keep\n"
+    assert nested_dictionary.read_text(encoding="utf-8") == "keep nested\n"
+
+
 def test_generate_project_preserves_dates_when_rows_and_city_list_are_unchanged(
     tmp_path: Path,
 ):
@@ -295,6 +408,57 @@ def test_generate_project_preserves_dates_when_rows_and_city_list_are_unchanged(
     assert "Last updated: 2026.06.01" in (tmp_path / "README.md").read_text(
         encoding="utf-8"
     )
+
+
+def test_generate_project_preserves_date_from_generated_block_only(tmp_path: Path):
+    (tmp_path / "README.md").write_text(
+        "Prose Last updated: 2026.01.01\n"
+        "<!-- generated:start -->\nLast updated: 2026.06.01\n\n"
+        "Supported cities and regions: 1\n\n- 北京市 (`beijing`)\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "README.zh-CN.md").write_text(
+        "甲\n<!-- generated:start -->\n最后更新：2026.06.01\n\n"
+        "支持城市和地区：1\n\n- 北京市（`beijing`）\n"
+        "<!-- generated:end -->\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "scripts" / "overrides.toml").write_text(
+        "[pinyin]\n", encoding="utf-8"
+    )
+    existing = generate.render_dictionary(
+        "beijing.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "beijing.subway.dict.yaml").write_text(existing, encoding="utf-8")
+    existing_all = generate.render_dictionary(
+        "all.subway",
+        "2026.06.01",
+        [generate.DictRow("苹果园", "ping guo yuan", 1)],
+    )
+    (tmp_path / "all.subway.dict.yaml").write_text(existing_all, encoding="utf-8")
+
+    payloads = {
+        "citylist.json": {
+            "citylist": [
+                {"spell": "beijing", "adcode": "1100", "cityname": "北京市"}
+            ]
+        },
+        "1100_drw_beijing.json": {"l": [{"st": [{"n": "苹果园"}]}]},
+    }
+
+    generate.generate_project(
+        root=tmp_path,
+        today="2026.06.16",
+        fetch_json=lambda srhdata: payloads[srhdata],
+    )
+
+    readme = (tmp_path / "README.md").read_text(encoding="utf-8")
+    assert "Prose Last updated: 2026.01.01" in readme
+    assert "Last updated: 2026.06.01" in readme
 
 
 def test_generate_project_updates_readme_date_when_city_list_changes(tmp_path: Path):
