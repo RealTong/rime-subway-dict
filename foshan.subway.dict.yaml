@@ -3,7 +3,7 @@
 #
 ---
 name: foshan.subway
-version: "2026.06.16"
+version: "2026.06.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25,6 +25,7 @@ use_preset_vocabulary: true
 叠滘	die jiao	1
 东乐路	dong le lu	1
 东平	dong ping	1
+敦厚	dun hou	1
 佛山大学	fo shan da xue	1
 佛山西站	fo shan xi zhan	1
 高村	gao cun	1
