@@ -3,7 +3,7 @@
 #
 ---
 name: shenzhen.subway
-version: "2026.06.16"
+version: "2026.06.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -57,6 +57,7 @@ use_preset_vocabulary: true
 大运	da yun	1
 大运中心	da yun zhong xin	1
 丹竹头	dan zhu tou	1
+德雅路	de ya lu	1
 登良	deng liang	1
 低碳城	di tan cheng	1
 冬瓜岭	dong gua ling	1
@@ -110,6 +111,7 @@ use_preset_vocabulary: true
 合水口	he shui kou	1
 横岗	heng gang	1
 鸿安围	hong an wei	1
+红坳公园	hong ao gong yuan	1
 洪湖	hong hu	1
 红花山	hong hua shan	1
 洪浪北	hong lang bei	1
@@ -148,6 +150,7 @@ use_preset_vocabulary: true
 技术大学	ji shu da xue	1
 吉溪	ji xi	1
 吉祥	ji xiang	1
+将围	jiang wei	1
 锦龙	jin long	1
 金源	jin yuan	1
 景田	jing tian	1
@@ -158,6 +161,7 @@ use_preset_vocabulary: true
 朗下	lang xia	1
 老街	lao jie	1
 荔林	li lin	1
+李松蓢	li song lang	1
 荔湾	li wan	1
 鲤鱼门	li yu men	1
 梨园	li yuan	1
@@ -244,6 +248,7 @@ use_preset_vocabulary: true
 沙壆	sha xue	1
 晒布	shai bu	1
 上川	shang chuan	1
+上村	shang cun	1
 上芬	shang fen	1
 尚景	shang jing	1
 上李朗	shang li lang	1
@@ -309,6 +314,7 @@ use_preset_vocabulary: true
 西乡	xi xiang	1
 西乡桃源	xi xiang tao yuan	1
 溪涌	xi yong	1
+下村	xia cun	1
 下梅林	xia mei lin	1
 下沙	xia sha	1
 下水径	xia shui jing	1
@@ -325,6 +331,7 @@ use_preset_vocabulary: true
 新生	xin sheng	1
 新塘围	xin tang wei	1
 新秀	xin xiu	1
+新庄	xin zhuang	1
 兴东	xing dong	1
 兴围	xing wei	1
 雪象	xue xiang	1
@@ -349,6 +356,7 @@ use_preset_vocabulary: true
 园山	yuan shan	1
 园山西坑	yuan shan xi keng	1
 粤海门	yue hai men	1
+月亮路	yue liang lu	1
 站前路东	zhan qian lu dong	1
 嶂背	zhang bei	1
 圳美	zhen mei	1

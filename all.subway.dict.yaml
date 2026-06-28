@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.06.22"
+version: "2026.06.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -843,6 +843,7 @@ use_preset_vocabulary: true
 稻香楼	dao xiang lou	1
 德茂	de mao	1
 德平路	de ping lu	1
+德雅路	de ya lu	1
 德政	de zheng	1
 邓埠	deng bu	1
 登良	deng liang	1
@@ -1826,6 +1827,7 @@ use_preset_vocabulary: true
 横屿	heng yu	1
 横云山路	heng yun shan lu	1
 鸿安围	hong an wei	1
+红坳公园	hong ao gong yuan	1
 红宝石路	hong bao shi lu	1
 虹漕路	hong cao lu	1
 红椿路	hong chun lu	1
@@ -2374,6 +2376,7 @@ use_preset_vocabulary: true
 江湾体育场	jiang wan ti yu chang	1
 江湾镇	jiang wan zhen	1
 蒋王庙	jiang wang miao	1
+将围	jiang wei	1
 江西路	jiang xi lu	1
 江夏	jiang xia	1
 江夏客厅	jiang xia ke ting	1
@@ -2860,6 +2863,7 @@ use_preset_vocabulary: true
 丽水路	li shui lu	1
 立水桥	li shui qiao	1
 立水桥南	li shui qiao nan	1
+李松蓢	li song lang	1
 蠡塘河路	li tang he lu	1
 李湾	li wan	1
 荔湾	li wan	1
@@ -4089,6 +4093,7 @@ R12后驿	r12 hou yi	1
 上步	shang bu	1
 商城路	shang cheng lu	1
 上川	shang chuan	1
+上村	shang cun	1
 上大路	shang da lu	1
 尚德路	shang de lu	1
 上地	shang di	1
@@ -5308,6 +5313,7 @@ R12后驿	r12 hou yi	1
 西周	xi zhou	1
 西洲	xi zhou	1
 西庄	xi zhuang	1
+下村	xia cun	1
 下淀	xia dian	1
 夏东	xia dong	1
 夏港	xia gang	1
@@ -6100,6 +6106,7 @@ R12后驿	r12 hou yi	1
 跃进北路	yue jin bei lu	1
 悦来	yue lai	1
 月亮岛西	yue liang dao xi	1
+月亮路	yue liang lu	1
 月亮湾	yue liang wan	1
 阅山湖公园	yue shan hu gong yuan	1
 越溪	yue xi	1
