@@ -3,7 +3,7 @@
 #
 ---
 name: beijing.subway
-version: "2026.06.16"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -322,6 +322,7 @@ use_preset_vocabulary: true
 天通苑东	tian tong yuan dong	1
 天通苑南	tian tong yuan nan	1
 同济南路	tong ji nan lu	1
+通运门	tong yun men	1
 通州北关	tong zhou bei guan	1
 通州北苑	tong zhou bei yuan	1
 土桥	tu qiao	1

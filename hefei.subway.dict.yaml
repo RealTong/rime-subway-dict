@@ -3,7 +3,7 @@
 #
 ---
 name: hefei.subway
-version: "2026.06.16"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -21,6 +21,7 @@ use_preset_vocabulary: true
 北五里井	bei wu li jing	1
 北雁湖	bei yan hu	1
 滨湖会展中心	bin hu hui zhan zhong xin	1
+滨湖医院	bin hu yi yuan	1
 滨湖竹园	bin hu zhu yuan	1
 丙子铺	bing zi pu	1
 漕冲	cao chong	1
@@ -43,6 +44,7 @@ use_preset_vocabulary: true
 繁华大道	fan hua da dao	1
 方庙	fang miao	1
 方兴湖	fang xing hu	1
+翡翠公园	fei cui gong yuan	1
 肥东站	fei dong zhan	1
 淝南	fei nan	1
 伏龙	fu long	1
@@ -59,6 +61,7 @@ use_preset_vocabulary: true
 国防科技大学	guo fang ke ji da xue	1
 海棠	hai tang	1
 合肥大剧院	he fei da ju yuan	1
+合肥大学	he fei da xue	1
 合肥火车站	he fei huo che zhan	1
 合肥南站	he fei nan zhan	1
 合肥七中	he fei qi zhong	1
@@ -71,6 +74,7 @@ use_preset_vocabulary: true
 花园大道	hua yuan da dao	1
 淮南路	huai nan lu	1
 黄河路	huang he lu	1
+徽园	hui yuan	1
 汲桥路	ji qiao lu	1
 金斗公园	jin dou gong yuan	1
 金桂	jin gui	1
@@ -97,11 +101,14 @@ use_preset_vocabulary: true
 梅冲湖	mei chong hu	1
 梦城	meng cheng	1
 明光路	ming guang lu	1
+明珠广场	ming zhu guang chang	1
 南岗	nan gang	1
 南屏路	nan ping lu	1
 南七里	nan qi li	1
 南沙河	nan sha he	1
 南新庄	nan xin zhuang	1
+南艳湖北	nan yan hu bei	1
+南艳湖南	nan yan hu nan	1
 南站南广场	nan zhan nan guang chang	1
 排头	pai tou	1
 汽车西站	qi che xi zhan	1
@@ -121,6 +128,7 @@ use_preset_vocabulary: true
 盛大	sheng da	1
 省儿童医院新区	sheng er tong yi yuan xin qu	1
 省立医院北区	sheng li yi yuan bei qu	1
+省文化和非遗馆	sheng wen hua he fei yi guan	1
 省行政中心东	sheng xing zheng zhong xin dong	1
 市第三医院	shi di san yi yuan	1
 市儿童医院	shi er tong yi yuan	1
@@ -133,12 +141,14 @@ use_preset_vocabulary: true
 四牌楼	si pai lou	1
 四泉桥	si quan qiao	1
 四十埠	si shi bu	1
+嵩山路	song shan lu	1
 松荫桥	song yin qiao	1
 唐大楼	tang da lou	1
 唐桥	tang qiao	1
 塘西河公园	tang xi he gong yuan	1
 陶冲湖东	tao chong hu dong	1
 桃花潭	tao hua tan	1
+天都路	tian dou lu	1
 天鹅湖	tian e hu	1
 天鹅湖东	tian e hu dong	1
 天柱路	tian zhu lu	1
@@ -172,8 +182,10 @@ use_preset_vocabulary: true
 尧渡河路	yao du he lu	1
 姚公庙	yao gong miao	1
 瑶海公园	yao hai gong yuan	1
+要素大市场	yao su da shi chang	1
 义城	yi cheng	1
 一里井	yi li jing	1
+一六八中学	yi liu ba zhong xue	1
 义兴	yi xing	1
 幼儿师范	you er shi fan	1
 玉兰大道	yu lan da dao	1

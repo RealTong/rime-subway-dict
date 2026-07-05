@@ -3,7 +3,7 @@
 #
 ---
 name: xian.subway
-version: "2026.06.16"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -192,6 +192,7 @@ use_preset_vocabulary: true
 五路口	wu lu kou	1
 务庄	wu zhuang	1
 西安北站	xi an bei zhan	1
+西安东站	xi an dong zhan	1
 西安工大·武德路	xi an gong da wu de lu	1
 西安国际医学中心	xi an guo ji yi xue zhong xin	1
 西安国际足球中心	xi an guo ji zu qiu zhong xin	1

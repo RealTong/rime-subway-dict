@@ -3,7 +3,7 @@
 #
 ---
 name: shenzhen.subway
-version: "2026.06.29"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91,7 +91,7 @@ use_preset_vocabulary: true
 观澜湖	guan lan hu	1
 官田	guan tian	1
 光明	guang ming	1
-光明城站	guang ming cheng zhan	1
+光明城	guang ming cheng	1
 光明大街	guang ming da jie	1
 光雅园	guang ya yuan	1
 桂湾	gui wan	1

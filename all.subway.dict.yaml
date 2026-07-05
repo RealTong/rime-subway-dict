@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.06.29"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -322,6 +322,7 @@ use_preset_vocabulary: true
 滨河新城南	bin he xin cheng nan	1
 滨湖会展中心	bin hu hui zhan zhong xin	1
 滨湖路	bin hu lu	1
+滨湖医院	bin hu yi yuan	1
 滨湖竹园	bin hu zhu yuan	1
 滨江东路	bin jiang dong lu	1
 滨康路	bin kang lu	1
@@ -1117,6 +1118,7 @@ use_preset_vocabulary: true
 芳甸路	fang dian lu	1
 纺二路	fang er lu	1
 芳华路	fang hua lu	1
+方家栏	fang jia lan	1
 方家营	fang jia ying	1
 纺六路	fang liu lu	1
 方庙	fang miao	1
@@ -1128,12 +1130,14 @@ use_preset_vocabulary: true
 方特·徽州路	fang te hui zhou lu	1
 方湾街	fang wan jie	1
 芳芯路	fang xin lu	1
+方型广场	fang xing guang chang	1
 方兴湖	fang xing hu	1
 纺织城	fang zhi cheng	1
 方志敏大道	fang zhi min da dao	1
 方洲公园	fang zhou gong yuan	1
 方州广场	fang zhou guang chang	1
 方庄	fang zhuang	1
+翡翠公园	fei cui gong yuan	1
 肥东站	fei dong zhan	1
 飞鹅岭	fei e ling	1
 飞虹路	fei hong lu	1
@@ -1217,6 +1221,7 @@ use_preset_vocabulary: true
 冯庄	feng zhuang	1
 佛山大学	fo shan da xue	1
 佛山西站	fo shan xi zhan	1
+佛山站	fo shan zhan	1
 佛祖岭	fo zu ling	1
 福安大街	fu an da jie	1
 富安街	fu an jie	1
@@ -1243,6 +1248,7 @@ use_preset_vocabulary: true
 伏龙	fu long	1
 福民	fu min	1
 福民公园	fu min gong yuan	1
+富民街	fu min jie	1
 福明路	fu ming lu	1
 福宁路	fu ning lu	1
 伏牛溪	fu niu xi	1
@@ -1532,7 +1538,7 @@ use_preset_vocabulary: true
 广兰路	guang lan lu	1
 广隆	guang long	1
 光明	guang ming	1
-光明城站	guang ming cheng zhan	1
+光明城	guang ming cheng	1
 光明大街	guang ming da jie	1
 光明港	guang ming gang	1
 光明路	guang ming lu	1
@@ -1756,6 +1762,7 @@ use_preset_vocabulary: true
 鹤洞	he dong	1
 鹤洞东	he dong dong	1
 合肥大剧院	he fei da ju yuan	1
+合肥大学	he fei da xue	1
 合肥火车站	he fei huo che zhan	1
 合肥南站	he fei nan zhan	1
 合肥七中	he fei qi zhong	1
@@ -2191,6 +2198,7 @@ use_preset_vocabulary: true
 惠新西街南口	hui xin xi jie nan kou	1
 回兴	hui xing	1
 会议中心	hui yi zhong xin	1
+徽园	hui yuan	1
 会展	hui zhan	1
 会展城	hui zhan cheng	1
 会展中心	hui zhan zhong xin	1
@@ -2287,6 +2295,7 @@ use_preset_vocabulary: true
 嘉松中路	jia song zhong lu	1
 夹套河	jia tao he	1
 贾西	jia xi	1
+嘉兴街	jia xing jie	1
 嘉怡路	jia yi lu	1
 贾峪	jia yu	1
 佳园里	jia yuan li	1
@@ -2989,6 +2998,7 @@ use_preset_vocabulary: true
 菱湖公园	ling hu gong yuan	1
 菱角湖	ling jiao hu	1
 灵境胡同	ling jing hu tong	1
+凌空	ling kong	1
 凌空路	ling kong lu	1
 灵昆	ling kun	1
 灵山	ling shan	1
@@ -3396,6 +3406,7 @@ use_preset_vocabulary: true
 那福路	na fu lu	1
 那洪立交	na hong li jiao	1
 那历村	na li cun	1
+南八马路	nan ba ma lu	1
 南北屯	nan bei tun	1
 南部汽车站	nan bu qi che zhan	1
 南部商务区	nan bu shang wu qu	1
@@ -3501,6 +3512,7 @@ use_preset_vocabulary: true
 南四环(贾河)	nan si huan jia he	1
 南四环(郑州航空港站)	nan si huan zheng zhou hang kong gang zhan	1
 南孙庄	nan sun zhuang	1
+南塔	nan ta	1
 南太子湖	nan tai zi hu	1
 南通大学	nan tong da xue	1
 南通东站	nan tong dong zhan	1
@@ -3520,6 +3532,8 @@ use_preset_vocabulary: true
 南星桥	nan xing qiao	1
 南熏大道	nan xun da dao	1
 南垭路	nan ya lu	1
+南艳湖北	nan yan hu bei	1
+南艳湖南	nan yan hu nan	1
 南阳	nan yang	1
 南阳湖街	nan yang hu jie	1
 南阳新村	nan yang xin cun	1
@@ -3977,6 +3991,7 @@ R12后驿	r12 hou yi	1
 三多商圈	san duo shang quan	1
 三工	san gong	1
 三官堂	san guan tang	1
+三好街	san hao jie	1
 三河场	san he chang	1
 三和国中	san he guo zhong	1
 三江口	san jiang kou	1
@@ -4233,6 +4248,7 @@ R12后驿	r12 hou yi	1
 生态园区	sheng tai yuan qu	1
 省体育馆	sheng ti yu guan	1
 省体育中心	sheng ti yu zhong xin	1
+省文化和非遗馆	sheng wen hua he fei yi guan	1
 生物医药基地	sheng wu yi yao ji di	1
 升仙湖	sheng xian hu	1
 省行政中心东	sheng xing zheng zhong xin dong	1
@@ -4552,6 +4568,7 @@ R12后驿	r12 hou yi	1
 松山	song shan	1
 松山湖	song shan hu	1
 松山机场	song shan ji chang	1
+嵩山路	song shan lu	1
 松涛街	song tao jie	1
 松雅湖(南)	song ya hu nan	1
 松荫桥	song yin qiao	1
@@ -4737,6 +4754,7 @@ R12后驿	r12 hou yi	1
 田贝	tian bei	1
 天成街	tian cheng jie	1
 田村	tian cun	1
+天都路	tian dou lu	1
 天鹅荡路	tian e dang lu	1
 天鹅湖	tian e hu	1
 天鹅湖东	tian e hu dong	1
@@ -4870,6 +4888,7 @@ R12后驿	r12 hou yi	1
 铜元局	tong yuan ju	1
 通源路	tong yuan lu	1
 通园路南	tong yuan lu nan	1
+通运门	tong yun men	1
 通州北关	tong zhou bei guan	1
 通州北苑	tong zhou bei yuan	1
 桐梓林	tong zi lin	1
@@ -5028,6 +5047,7 @@ R12后驿	r12 hou yi	1
 文德	wen de	1
 文德路	wen de lu	1
 文峰	wen feng	1
+文富路	wen fu lu	1
 文官街	wen guan jie	1
 文海南路	wen hai nan lu	1
 文翰湖公园(季华实验室)	wen han hu gong yuan ji hua shi yan shi	1
@@ -5195,6 +5215,7 @@ R12后驿	r12 hou yi	1
 务庄	wu zhuang	1
 物资学院路	wu zi xue yuan lu	1
 西安北站	xi an bei zhan	1
+西安东站	xi an dong zhan	1
 西安工大·武德路	xi an gong da wu de lu	1
 西安国际医学中心	xi an guo ji yi xue zhong xin	1
 西安国际足球中心	xi an guo ji zu qiu zhong xin	1
@@ -5842,6 +5863,7 @@ R12后驿	r12 hou yi	1
 姚家	yao jia	1
 姚家园	yao jia yuan	1
 窑岭湘雅二医院	yao ling xiang ya er yi yuan	1
+要素大市场	yao su da shi chang	1
 瑶溪	yao xi	1
 姚祥	yao xiang	1
 姚砦·聂庄	yao zhai nie zhuang	1
@@ -5878,6 +5900,7 @@ R12后驿	r12 hou yi	1
 伊利健康谷	yi li jian kang gu	1
 一里井	yi li jing	1
 伊犁路	yi li lu	1
+一六八中学	yi liu ba zhong xue	1
 义蓬	yi peng	1
 一品天下	yi pin tian xia	1
 宜山路	yi shan lu	1
@@ -6309,6 +6332,7 @@ R12后驿	r12 hou yi	1
 钟家村	zhong jia cun	1
 中街	zhong jie	1
 中科路	zhong ke lu	1
+中科院金属所	zhong ke yuan jin shu suo	1
 中梁山	zhong liang shan	1
 肿瘤医院	zhong liu yi yuan	1
 钟楼	zhong lou	1

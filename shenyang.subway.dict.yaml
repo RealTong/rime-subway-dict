@@ -3,7 +3,7 @@
 #
 ---
 name: shenyang.subway
-version: "2026.06.16"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -35,6 +35,9 @@ use_preset_vocabulary: true
 东大营街	dong da ying jie	1
 东陵公园	dong ling gong yuan	1
 东中街	dong zhong jie	1
+方家栏	fang jia lan	1
+方型广场	fang xing guang chang	1
+富民街	fu min jie	1
 甘官	gan guan	1
 工业大学	gong ye da xue	1
 工业展览馆	gong ye zhan lan guan	1
@@ -49,6 +52,7 @@ use_preset_vocabulary: true
 皇寺路	huang si lu	1
 浑河站	hun he zhan	1
 吉力湖街	ji li hu jie	1
+嘉兴街	jia xing jie	1
 建筑大学	jian zhu da xue	1
 江东街	jiang dong jie	1
 金仓路	jin cang lu	1
@@ -61,11 +65,14 @@ use_preset_vocabulary: true
 黎明广场	li ming guang chang	1
 辽宁大学	liao ning da xue	1
 陵东街	ling dong jie	1
+凌空	ling kong	1
 陵西	ling xi	1
 马贝	ma bei	1
+南八马路	nan ba ma lu	1
 南京桥	nan jing qiao	1
 南李官	nan li guan	1
 南市场	nan shi chang	1
+南塔	nan ta	1
 南五马路	nan wu ma lu	1
 南阳湖街	nan yang hu jie	1
 宁官	ning guan	1
@@ -85,6 +92,7 @@ use_preset_vocabulary: true
 全运路	quan yun lu	1
 人杰湖公园	ren jie hu gong yuan	1
 人民广场	ren min guang chang	1
+三好街	san hao jie	1
 三台子	san tai zi	1
 砂阳	sha yang	1
 沈本大街	shen ben da jie	1
@@ -113,6 +121,7 @@ use_preset_vocabulary: true
 铁西汽车工厂	tie xi qi che gong chang	1
 万莲	wan lian	1
 望花	wang hua	1
+文富路	wen fu lu	1
 文官街	wen guan jie	1
 五里河	wu li he	1
 细河悠谷	xi he you gu	1
@@ -137,6 +146,7 @@ use_preset_vocabulary: true
 中德大街	zhong de da jie	1
 重工街	zhong gong jie	1
 中街	zhong jie	1
+中科院金属所	zhong ke yuan jin shu suo	1
 重型文化广场	zhong xing wen hua guang chang	1
 中央大街	zhong yang da jie	1
 中央公园	zhong yang gong yuan	1

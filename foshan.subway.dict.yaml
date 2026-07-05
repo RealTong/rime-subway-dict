@@ -3,7 +3,7 @@
 #
 ---
 name: foshan.subway
-version: "2026.06.22"
+version: "2026.07.06"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -28,6 +28,7 @@ use_preset_vocabulary: true
 敦厚	dun hou	1
 佛山大学	fo shan da xue	1
 佛山西站	fo shan xi zhan	1
+佛山站	fo shan zhan	1
 高村	gao cun	1
 广教	guang jiao	1
 广州南站	guang zhou nan zhan	1
