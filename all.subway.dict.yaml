@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.07.06"
+version: "2026.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -494,6 +494,7 @@ use_preset_vocabulary: true
 长沙湾	chang sha wan	1
 长生桥	chang sheng qiao	1
 长寿路	chang shou lu	1
+长寿山	chang shou shan	1
 常熟路	chang shu lu	1
 长亭	chang ting	1
 长兴路	chang xing lu	1
@@ -1603,6 +1604,7 @@ use_preset_vocabulary: true
 国防科技大学	guo fang ke ji da xue	1
 国父纪念馆	guo fu ji nian guan	1
 郭公庄	guo gong zhuang	1
+国华	guo hua	1
 国花路	guo hua lu	1
 国际博览中心	guo ji bo lan zhong xin	1
 国际港务区	guo ji gang wu qu	1
@@ -1831,6 +1833,7 @@ use_preset_vocabulary: true
 横山	heng shan	1
 衡山路	heng shan lu	1
 横塘	heng tang	1
+横溪	heng xi	1
 横屿	heng yu	1
 横云山路	heng yun shan lu	1
 鸿安围	hong an wei	1
@@ -3102,6 +3105,7 @@ use_preset_vocabulary: true
 龙眠大道	long mian da dao	1
 龙平路	long ping lu	1
 隆平水稻博物馆	long ping shui dao bo wu guan	1
+龙埔	long pu	1
 龙桥路	long qiao lu	1
 龙泉驿	long quan yi	1
 龙泉驿火车站南	long quan yi huo che zhan nan	1
@@ -3275,6 +3279,7 @@ use_preset_vocabulary: true
 马运路	ma yun lu	1
 马寨	ma zhai	1
 马镇	ma zhen	1
+妈祖田	ma zu tian	1
 麦岛	mai dao	1
 迈皋桥	mai gao qiao	1
 卖面桥	mai mian qiao	1
@@ -4023,6 +4028,7 @@ R12后驿	r12 hou yi	1
 三屯碑	san tun bei	1
 三瓦窑	san wa yao	1
 三溪	san xi	1
+三峡	san xia	1
 三香广场	san xiang guang chang	1
 三孝口	san xiao kou	1
 三亚湾	san ya wan	1
@@ -4619,6 +4625,7 @@ R12后驿	r12 hou yi	1
 太白南路	tai bai nan lu	1
 台北101/世贸	tai bei 101 shi mao	1
 台北车站	tai bei che zhan	1
+台北大学	tai bei da xue	1
 台北海洋大学	tai bei hai yang da xue	1
 台北桥	tai bei qiao	1
 台北小城	tai bei xiao cheng	1
@@ -4717,6 +4724,7 @@ R12后驿	r12 hou yi	1
 塘子巷	tang zi xiang	1
 洮昌街	tao chang jie	1
 陶冲湖东	tao chong hu dong	1
+陶瓷老街	tao ci lao jie	1
 桃花湖公园	tao hua hu gong yuan	1
 桃花桥	tao hua qiao	1
 桃花潭	tao hua tan	1
@@ -5957,6 +5965,7 @@ R12后驿	r12 hou yi	1
 迎风道	ying feng dao	1
 盈丰路	ying feng lu	1
 营岗	ying gang	1
+莺歌车站	ying ge che zhan	1
 瀛海	ying hai	1
 迎海路	ying hai lu	1
 樱花公园	ying hua gong yuan	1
@@ -5972,6 +5981,7 @@ R12后驿	r12 hou yi	1
 应人石	ying ren shi	1
 营市街	ying shi jie	1
 鹰潭街	ying tan jie	1
+莺桃福德	ying tao fu de	1
 应天大街	ying tian da jie	1
 应天门	ying tian men	1
 应天寺	ying tian si	1
@@ -5993,6 +6003,7 @@ R12后驿	r12 hou yi	1
 雍和宫	yong he gong	1
 永和路	yong he lu	1
 永湖	yong hu	1
+永吉公园	yong ji gong yuan	1
 甬江路	yong jiang lu	1
 永茂路	yong mao lu	1
 永年路	yong nian lu	1

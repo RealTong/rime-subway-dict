@@ -3,7 +3,7 @@
 #
 ---
 name: taibei.subway
-version: "2026.06.16"
+version: "2026.07.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17,6 +17,7 @@ use_preset_vocabulary: true
 滨海义山	bin hai yi shan	1
 菜寮	cai liao	1
 长庚医院	chang geng yi yuan	1
+长寿山	chang shou shan	1
 大安	da an	1
 大安森林公园	da an sen lin gong yuan	1
 大湖公园	da hu gong yuan	1
@@ -49,8 +50,10 @@ use_preset_vocabulary: true
 古亭	gu ting	1
 关渡	guan du	1
 国父纪念馆	guo fu ji nian guan	1
+国华	guo hua	1
 海山	hai shan	1
 横山	heng shan	1
+横溪	heng xi	1
 红树林	hong shu lin	1
 后山埤	hou shan pi	1
 葫洲	hu zhou	1
@@ -75,8 +78,10 @@ use_preset_vocabulary: true
 林口	lin kou	1
 领航	ling hang	1
 六张犁	liu zhang li	1
+龙埔	long pu	1
 龙山寺	long shan si	1
 芦洲	lu zhou	1
+妈祖田	ma zu tian	1
 猫空	mao kong	1
 玫瑰中国城	mei gui zhong guo cheng	1
 民权西路	min quan xi lu	1
@@ -97,6 +102,7 @@ use_preset_vocabulary: true
 三重国小	san chong guo xiao	1
 三和国中	san he guo zhong	1
 三民高中	san min gao zhong	1
+三峡	san xia	1
 沙仑	sha lun	1
 山鼻	shan bi	1
 善导寺	shan dao si	1
@@ -111,6 +117,7 @@ use_preset_vocabulary: true
 松山机场	song shan ji chang	1
 台北101/世贸	tai bei 101 shi mao	1
 台北车站	tai bei che zhan	1
+台北大学	tai bei da xue	1
 台北海洋大学	tai bei hai yang da xue	1
 台北桥	tai bei qiao	1
 台北小城	tai bei xiao cheng	1
@@ -119,6 +126,7 @@ use_preset_vocabulary: true
 台电大楼	tai dian da lou	1
 泰山	tai shan	1
 泰山贵和	tai shan gui he	1
+陶瓷老街	tao ci lao jie	1
 桃园体育园区	tao yuan ti yu yuan qu	1
 体育大学	ti yu da xue	1
 头前庄	tou qian zhuang	1
@@ -152,8 +160,11 @@ use_preset_vocabulary: true
 徐汇中学	xu hui zhong xue	1
 亚东医院	ya dong yi yuan	1
 阳光运动公园	yang guang yun dong gong yuan	1
+莺歌车站	ying ge che zhan	1
+莺桃福德	ying tao fu de	1
 永安市场	yong an shi chang	1
 永春	yong chun	1
+永吉公园	yong ji gong yuan	1
 永宁	yong ning	1
 圆山	yuan shan	1
 指南宫	zhi nan gong	1
