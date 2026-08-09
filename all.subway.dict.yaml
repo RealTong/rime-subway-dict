@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.07.13"
+version: "2026.08.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -290,6 +290,7 @@ use_preset_vocabulary: true
 北园	bei yuan	1
 北苑	bei yuan	1
 北苑路北	bei yuan lu bei	1
+北运河	bei yun he	1
 北运河东	bei yun he dong	1
 北运河西	bei yun he xi	1
 北栅口	bei zha kou	1

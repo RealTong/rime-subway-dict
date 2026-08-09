@@ -3,7 +3,7 @@
 #
 ---
 name: tianjin.subway
-version: "2026.06.16"
+version: "2026.08.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -17,6 +17,7 @@ use_preset_vocabulary: true
 北宁公园	bei ning gong yuan	1
 北塘	bei tang	1
 北洋桥	bei yang qiao	1
+北运河	bei yun he	1
 北站	bei zhan	1
 北竹林	bei zhu lin	1
 本溪路	ben xi lu	1
