@@ -3,7 +3,7 @@
 #
 ---
 name: taibei.subway
-version: "2026.07.13"
+version: "2026.08.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -49,6 +49,7 @@ use_preset_vocabulary: true
 公馆	gong guan	1
 古亭	gu ting	1
 关渡	guan du	1
+广慈/奉天宫	guang ci feng tian gong	1
 国父纪念馆	guo fu ji nian guan	1
 国华	guo hua	1
 海山	hai shan	1

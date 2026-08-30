@@ -3,7 +3,7 @@
 #
 ---
 name: changchun.subway
-version: "2026.06.16"
+version: "2026.08.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -24,12 +24,14 @@ use_preset_vocabulary: true
 长影世纪城	chang ying shi ji cheng	1
 大学城路	da xue cheng lu	1
 地理所	di li suo	1
+第一汽车制造厂	di yi qi che zhi zao chang	1
 电台街	dian tai jie	1
 东北师大	dong bei shi da	1
 东大桥	dong da qiao	1
 东方广场	dong fang guang chang	1
 东广场	dong guang chang	1
 东环城路	dong huan cheng lu	1
+东岭南街	dong ling nan jie	1
 东盛大街	dong sheng da jie	1
 东新路	dong xin lu	1
 窦家沟	dou jia gou	1
@@ -54,6 +56,8 @@ use_preset_vocabulary: true
 湖西桥	hu xi qiao	1
 华庆路	hua qing lu	1
 滑雪场	hua xue chang	1
+辉南街	hui nan jie	1
+会展大街	hui zhan da jie	1
 会展中心	hui zhan zhong xin	1
 吉林大路	ji lin da lu	1
 吉林广电	ji lin guang dian	1
@@ -69,9 +73,12 @@ use_preset_vocabulary: true
 宽平桥	kuan ping qiao	1
 兰桡湖公园	lan rao hu gong yuan	1
 林溪大街	lin xi da jie	1
+岭东路	ling dong lu	1
 孟家屯	meng jia tun	1
 南昌路	nan chang lu	1
 南关	nan guan	1
+南湖公园	nan hu gong yuan	1
+南湖广场(吉大南湖校区)	nan hu guang chang ji da nan hu xiao qu	1
 南环城路	nan huan cheng lu	1
 南溪湿地公园	nan xi shi di gong yuan	1
 农博园	nong bo yuan	1
@@ -84,8 +91,10 @@ use_preset_vocabulary: true
 前十里堡	qian shi li pu	1
 庆丰路	qing feng lu	1
 人民广场	ren min guang chang	1
+赛得广场	sai de guang chang	1
 省博物院	sheng bo wu yuan	1
 胜利公园	sheng li gong yuan	1
+省税务局	sheng shui wu ju	1
 市法院	shi fa yuan	1
 世纪广场	shi ji guang chang	1
 世荣路	shi rong lu	1
@@ -107,11 +116,14 @@ use_preset_vocabulary: true
 雾开河大街	wu kai he da jie	1
 西安桥	xi an qiao	1
 西湖	xi hu	1
+西湖大路	xi hu da lu	1
 西环城路	xi huan cheng lu	1
 小城子街	xiao cheng zi jie	1
 小南	xiao nan	1
 新明街	xin ming jie	1
+兴安路	xing an lu	1
 兴隆堡	xing long bao	1
+兴顺路	xing shun lu	1
 亚泰立交桥	ya tai li jiao qiao	1
 亚泰足球基地	ya tai zu qiu ji di	1
 一二三中学	yi er san zhong xue	1
@@ -123,5 +135,6 @@ use_preset_vocabulary: true
 英凯大街	ying kai da jie	1
 朝阳桥	zhao yang qiao	1
 支农大街	zhi nong da jie	1
-职业学院	zhi ye xue yuan	1
+职业技术大学	zhi ye ji shu da xue	1
+中东大市场	zhong dong da shi chang	1
 紫杉路	zi shan lu	1

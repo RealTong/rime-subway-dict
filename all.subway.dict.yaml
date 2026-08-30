@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.08.10"
+version: "2026.08.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -866,6 +866,7 @@ use_preset_vocabulary: true
 低碳城	di tan cheng	1
 地铁大厦	di tie da sha	1
 第一城	di yi cheng	1
+第一汽车制造厂	di yi qi che zhi zao chang	1
 第一医科大学	di yi yi ke da xue	1
 低涌	di yong	1
 棣园	di yuan	1
@@ -990,6 +991,7 @@ use_preset_vocabulary: true
 洞林寺	dong lin si	1
 东岭	dong ling	1
 东陵公园	dong ling gong yuan	1
+东岭南街	dong ling nan jie	1
 东流	dong liu	1
 东陆路	dong lu lu	1
 东马坊	dong ma fang	1
@@ -1513,6 +1515,7 @@ use_preset_vocabulary: true
 罐子岭	guan zi ling	1
 广安门内	guang an men nei	1
 广埠屯	guang bu tun	1
+广慈/奉天宫	guang ci feng tian gong	1
 光达	guang da	1
 光电园	guang dian yuan	1
 广东医大	guang dong yi da	1
@@ -2192,6 +2195,7 @@ use_preset_vocabulary: true
 惠民路	hui min lu	1
 惠南	hui nan	1
 惠南东	hui nan dong	1
+辉南街	hui nan jie	1
 汇泉广场	hui quan guang chang	1
 惠山古镇	hui shan gu zhen	1
 汇士路	hui shi lu	1
@@ -2205,6 +2209,7 @@ use_preset_vocabulary: true
 徽园	hui yuan	1
 会展	hui zhan	1
 会展城	hui zhan cheng	1
+会展大街	hui zhan da jie	1
 会展中心	hui zhan zhong xin	1
 汇臻路	hui zhen lu	1
 浑河站	hun he zhan	1
@@ -2995,6 +3000,7 @@ use_preset_vocabulary: true
 凌宾路	ling bin lu	1
 凌大塘	ling da tang	1
 陵东街	ling dong jie	1
+岭东路	ling dong lu	1
 岭兜	ling dou	1
 灵谷寺·钟灵街	ling gu si zhong ling jie	1
 灵官渡	ling guan du	1
@@ -3457,7 +3463,9 @@ use_preset_vocabulary: true
 南湖	nan hu	1
 南湖北路	nan hu bei lu	1
 南湖东	nan hu dong	1
+南湖公园	nan hu gong yuan	1
 南湖广场	nan hu guang chang	1
+南湖广场(吉大南湖校区)	nan hu guang chang ji da nan hu xiao qu	1
 南湖家园	nan hu jia yuan	1
 南湖立交	nan hu li jiao	1
 南湖路	nan hu lu	1
@@ -3982,6 +3990,7 @@ R12后驿	r12 hou yi	1
 瑞景新苑	rui jing xin yuan	1
 洒金桥	sa jin qiao	1
 赛达路	sai da lu	1
+赛得广场	sai de guang chang	1
 赛云台	sai yun tai	1
 三坝	san ba	1
 三板溪	san ban xi	1
@@ -4250,6 +4259,7 @@ R12后驿	r12 hou yi	1
 省人民医院	sheng ren min yi yuan	1
 省人民医院·黄雁村	sheng ren min yi yuan huang yan cun	1
 省社科院	sheng she ke yuan	1
+省税务局	sheng shui wu ju	1
 胜太路	sheng tai lu	1
 胜太西路	sheng tai xi lu	1
 生态园区	sheng tai yuan qu	1
@@ -5264,6 +5274,7 @@ R12后驿	r12 hou yi	1
 细河悠谷	xi he you gu	1
 西红门	xi hong men	1
 西湖	xi hu	1
+西湖大路	xi hu da lu	1
 西湖公园	xi hu gong yuan	1
 西湖文化广场	xi hu wen hua guang chang	1
 西华大道	xi hua da dao	1
@@ -5621,6 +5632,7 @@ R12后驿	r12 hou yi	1
 新庄	xin zhuang	1
 莘庄	xin zhuang	1
 新庄副都心	xin zhuang fu dou xin	1
+兴安路	xing an lu	1
 星波街	xing bo jie	1
 星城	xing cheng	1
 兴城大道	xing cheng da dao	1
@@ -5670,6 +5682,7 @@ R12后驿	r12 hou yi	1
 星沙文体中心	xing sha wen ti zhong xin	1
 杏山子	xing shan zi	1
 兴盛	xing sheng	1
+兴顺路	xing shun lu	1
 星塘街	xing tang jie	1
 兴体路	xing ti lu	1
 行天宫	xing tian gong	1
@@ -6310,7 +6323,7 @@ R12后驿	r12 hou yi	1
 知行路	zhi xing lu	1
 芷阳广场	zhi yang guang chang	1
 职业大学	zhi ye da xue	1
-职业学院	zhi ye xue yuan	1
+职业技术大学	zhi ye ji shu da xue	1
 知音	zhi yin	1
 中坝	zhong ba	1
 中堡	zhong bao	1
@@ -6322,6 +6335,7 @@ R12后驿	r12 hou yi	1
 中大	zhong da	1
 中大南门	zhong da nan men	1
 中德大街	zhong de da jie	1
+中东大市场	zhong dong da shi chang	1
 钟阜路·市第二医院	zhong fu lu shi di er yi yuan	1
 钟岗	zhong gang	1
 中革	zhong ge	1
