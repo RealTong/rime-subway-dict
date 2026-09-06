@@ -3,7 +3,7 @@
 #
 ---
 name: changsha.subway
-version: "2026.06.16"
+version: "2026.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15,6 +15,7 @@ use_preset_vocabulary: true
 北辰三角洲	bei chen san jiao zhou	1
 碧沙湖(恰同学少年广场)	bi sha hu qia tong xue shao nian guang chang	1
 曹家坪	cao jia ping	1
+漕龙桥	cao long qiao	1
 茶子山	cha zi shan	1
 长丰	chang feng	1
 长庆	chang qing	1
@@ -22,6 +23,7 @@ use_preset_vocabulary: true
 长沙大学	chang sha da xue	1
 长沙火车南站	chang sha huo che nan zhan	1
 长沙火车站	chang sha huo che zhan	1
+车田湾	che tian wan	1
 赤岗岭	chi gang ling	1
 船形山	chuan xing shan	1
 磁浮高铁站	ci fu gao tie zhan	1
@@ -56,6 +58,7 @@ use_preset_vocabulary: true
 湖南大学	hu nan da xue	1
 湖南工商大学	hu nan gong shang da xue	1
 湖南师大	hu nan shi da	1
+华龙(长沙智谷)	hua long chang sha zhi gu	1
 花桥	hua qiao	1
 黄花机场T1T2	huang hua ji chang t1t2	1
 黄家湾	huang jia wan	1
@@ -75,6 +78,7 @@ use_preset_vocabulary: true
 灵官渡	ling guan du	1
 六沟垅	liu gou long	1
 龙峰	long feng	1
+龙虎岭	long hu ling	1
 龙华	long hua	1
 隆平水稻博物馆	long ping shui dao bo wu guan	1
 麓谷公园	lu gu gong yuan	1
@@ -87,6 +91,7 @@ use_preset_vocabulary: true
 毛竹塘	mao zhu tang	1
 梅溪湖东	mei xi hu dong	1
 梅溪湖西	mei xi hu xi	1
+莫家洲	mo jia zhou	1
 木马塅	mu ma duan	1
 木桥	mu qiao	1
 南湖路	nan hu lu	1
@@ -95,6 +100,7 @@ use_preset_vocabulary: true
 培元桥	pei yuan qiao	1
 坪塘	ping tang	1
 平阳	ping yang	1
+桥头铺(中联智慧城)	qiao tou pu zhong lian zhi hui cheng	1
 人民东路	ren min dong lu	1
 沙湾公园	sha wan gong yuan	1
 砂子塘	sha zi tang	1
@@ -148,6 +154,8 @@ use_preset_vocabulary: true
 月湖公园北	yue hu gong yuan bei	1
 月亮岛西	yue liang dao xi	1
 朝阳村	zhao yang cun	1
+真人桥	zhen ren qiao	1
 中南大学	zhong nan da xue	1
 中塘	zhong tang	1
 中信广场	zhong xin guang chang	1
+注田洲	zhu tian zhou	1

@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.08.31"
+version: "2026.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -379,6 +379,7 @@ use_preset_vocabulary: true
 曹家坪	cao jia ping	1
 曹家桥	cao jia qiao	1
 曹家湾	cao jia wan	1
+漕龙桥	cao long qiao	1
 曹路	cao lu	1
 草埔	cao pu	1
 草桥	cao qiao	1
@@ -525,6 +526,7 @@ use_preset_vocabulary: true
 车公庄	che gong zhuang	1
 车公庄西	che gong zhuang xi	1
 车家壁	che jia bi	1
+车田湾	che tian wan	1
 陈春路	chen chun lu	1
 陈村	chen cun	1
 陈村北	chen cun bei	1
@@ -2019,6 +2021,7 @@ use_preset_vocabulary: true
 华莲	hua lian	1
 华林寺	hua lin si	1
 华龙	hua long	1
+华龙(长沙智谷)	hua long chang sha zhi gu	1
 化龙桥	hua long qiao	1
 华楼山路	hua lou shan lu	1
 花木路	hua mu lu	1
@@ -3096,6 +3099,7 @@ use_preset_vocabulary: true
 陇海西路	long hai xi lu	1
 龙涵道	long han dao	1
 龙湖北	long hu bei	1
+龙虎岭	long hu ling	1
 龙湖南	long hu nan	1
 龙湖中环北	long hu zhong huan bei	1
 龙湖中环南	long hu zhong huan nan	1
@@ -3387,6 +3391,7 @@ use_preset_vocabulary: true
 明珠路	ming zhu lu	1
 莫愁湖	mo chou hu	1
 磨碟沙	mo die sha	1
+莫家洲	mo jia zhou	1
 秣陵	mo ling	1
 模式口	mo shi kou	1
 墨水湖公园	mo shui hu gong yuan	1
@@ -3815,6 +3820,7 @@ use_preset_vocabulary: true
 桥头	qiao tou	1
 桥头堡	qiao tou bao	1
 桥头火车站	qiao tou huo che zhan	1
+桥头铺(中联智慧城)	qiao tou pu zhong lian zhi hui cheng	1
 桥头糖厂	qiao tou tang chang	1
 桥头西	qiao tou xi	1
 桥湾	qiao wan	1
@@ -6279,6 +6285,7 @@ R12后驿	r12 hou yi	1
 圳美	zhen mei	1
 振宁路	zhen ning lu	1
 镇坪路	zhen ping lu	1
+真人桥	zhen ren qiao	1
 真如	zhen ru	1
 真新新村	zhen xin xin cun	1
 振兴大道	zhen xing da dao	1
@@ -6451,6 +6458,7 @@ R12后驿	r12 hou yi	1
 竹山路	zhu shan lu	1
 珠市口	zhu shi kou	1
 竹丝滩	zhu si tan	1
+注田洲	zhu tian zhou	1
 竹围	zhu wei	1
 竹西	zhu xi	1
 朱辛庄	zhu xin zhuang	1
