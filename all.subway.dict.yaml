@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.09.07"
+version: "2026.09.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -799,6 +799,7 @@ use_preset_vocabulary: true
 大学城北	da xue cheng bei	1
 大学城路	da xue cheng lu	1
 大学城南	da xue cheng nan	1
+大学城南·云南开放大学	da xue cheng nan yun nan kai fang da xue	1
 大学科技园	da xue ke ji yuan	1
 大学西街	da xue xi jie	1
 大学中路	da xue zhong lu	1
@@ -2102,7 +2103,7 @@ use_preset_vocabulary: true
 环城北路	huan cheng bei lu	1
 环城东路	huan cheng dong lu	1
 环城南路(北部汽车站)	huan cheng nan lu bei bu qi che zhan	1
-环城南路(昆明南火车站/大学城南)	huan cheng nan lu kun ming nan huo che zhan da xue cheng nan	1
+环城南路(昆明南火车站/大学城南·云南开放大学)	huan cheng nan lu kun ming nan huo che zhan da xue cheng nan yun nan kai fang da xue	1
 浣花里(省医院草堂院区)	huan hua li sheng yi yuan cao tang yuan qu	1
 欢乐谷	huan le gu	1
 欢乐谷景区	huan le gu jing qu	1

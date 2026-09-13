@@ -3,7 +3,7 @@
 #
 ---
 name: kunming.subway
-version: "2026.06.16"
+version: "2026.09.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -27,7 +27,7 @@ use_preset_vocabulary: true
 大河埂	da he geng	1
 大树营	da shu ying	1
 大学城	da xue cheng	1
-大学城南	da xue cheng nan	1
+大学城南·云南开放大学	da xue cheng nan yun nan kai fang da xue	1
 大渔路	da yu lu	1
 滇池国际会展中心	dian chi guo ji hui zhan zhong xin	1
 东部汽车站	dong bu qi che zhan	1
@@ -46,7 +46,7 @@ use_preset_vocabulary: true
 虹桥	hong qiao	1
 华山西路	hua shan xi lu	1
 环城南路(北部汽车站)	huan cheng nan lu bei bu qi che zhan	1
-环城南路(昆明南火车站/大学城南)	huan cheng nan lu kun ming nan huo che zhan da xue cheng nan	1
+环城南路(昆明南火车站/大学城南·云南开放大学)	huan cheng nan lu kun ming nan huo che zhan da xue cheng nan yun nan kai fang da xue	1
 火车北站	huo che bei zhan	1
 机场前	ji chang qian	1
 机场中心	ji chang zhong xin	1
