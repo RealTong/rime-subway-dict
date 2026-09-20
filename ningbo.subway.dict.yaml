@@ -3,7 +3,7 @@
 #
 ---
 name: ningbo.subway
-version: "2026.06.16"
+version: "2026.09.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -15,6 +15,7 @@ use_preset_vocabulary: true
 白鹤	bai he	1
 宝幢	bao chuang	1
 北明程路	bei ming cheng lu	1
+滨海大道	bin hai da dao	1
 布政	bu zheng	1
 沧海北路	cang hai bei lu	1
 曹隘	cao ai	1
@@ -27,10 +28,13 @@ use_preset_vocabulary: true
 聪园路	cong yuan lu	1
 翠柏里	cui bai li	1
 大成东路	da cheng dong lu	1
+大目湾	da mu wan	1
 大碶	da qi	1
 大卿桥	da qing qiao	1
 大通桥	da tong qiao	1
+大徐	da xu	1
 大洋江	da yang jiang	1
+丹城	dan cheng	1
 东环南路	dong huan nan lu	1
 东门口(天一广场)	dong men kou tian yi guang chang	1
 东钱湖	dong qian hu	1
@@ -51,6 +55,7 @@ use_preset_vocabulary: true
 国际会议中心	guo ji hui yi zhong xin	1
 海晏北路	hai yan bei lu	1
 寒松路	han song lu	1
+横溪	heng xi	1
 洪大路	hong da lu	1
 红联	hong lian	1
 洪盛路	hong sheng lu	1
@@ -127,6 +132,7 @@ use_preset_vocabulary: true
 松花江路	song hua jiang lu	1
 宋家漕	song jia cao	1
 嵩江东路	song jiang dong lu	1
+塘溪	tang xi	1
 体育馆	ti yu guan	1
 同德路	tong de lu	1
 外滩大桥	wai tan da qiao	1
@@ -138,6 +144,7 @@ use_preset_vocabulary: true
 西门口	xi men kou	1
 霞浦	xia pu	1
 下应路	xia ying lu	1
+象山贤庠	xiang shan xian xiang	1
 小港西	xiao gang xi	1
 小洋江	xiao yang jiang	1
 榭嘉	xie jia	1
@@ -157,6 +164,7 @@ use_preset_vocabulary: true
 鄞州公园南	yin zhou gong yuan nan	1
 鄞州客运总站	yin zhou ke yun zong zhan	1
 鄞州区政府	yin zhou qu zheng fu	1
+鄞州咸祥	yin zhou xian xiang	1
 樱花公园	ying hua gong yuan	1
 应嘉路	ying jia lu	1
 永茂路	yong mao lu	1
@@ -165,6 +173,7 @@ use_preset_vocabulary: true
 云飞路(康桥南)	yun fei lu kang qiao nan	1
 云林西路	yun lin xi lu	1
 云龙	yun long	1
+云龙火车站	yun long huo che zhan	1
 云霞路	yun xia lu	1
 泽民	ze min	1
 张家潭	zhang jia tan	1

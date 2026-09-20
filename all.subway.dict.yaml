@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.09.14"
+version: "2026.09.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -275,6 +275,7 @@ use_preset_vocabulary: true
 北太平庄	bei tai ping zhuang	1
 北塘	bei tang	1
 北投	bei tou	1
+碑头	bei tou	1
 北土城	bei tu cheng	1
 北屯总站	bei tun zong zhan	1
 北五里井	bei wu li jing	1
@@ -312,6 +313,7 @@ use_preset_vocabulary: true
 碧眼	bi yan	1
 边家村	bian jia cun	1
 卞兴	bian xing	1
+滨海大道	bin hai da dao	1
 滨海国际机场	bin hai guo ji ji chang	1
 滨海沙仑	bin hai sha lun	1
 滨海西	bin hai xi	1
@@ -329,6 +331,7 @@ use_preset_vocabulary: true
 滨康路	bin kang lu	1
 兵希	bing xi	1
 冰雪大世界	bing xue da shi jie	1
+丙洲	bing zhou	1
 丙子铺	bing zi pu	1
 博爱路	bo ai lu	1
 博爱中路	bo ai zhong lu	1
@@ -543,6 +546,7 @@ use_preset_vocabulary: true
 陈杨寨	chen yang zhai	1
 陈砦	chen zhai	1
 陈寨东	chen zhai dong	1
+城场	cheng chang	1
 城东南路	cheng dong nan lu	1
 成都大学	cheng du da xue	1
 成都东客站	cheng du dong ke zhan	1
@@ -742,6 +746,7 @@ use_preset_vocabulary: true
 大明宫西	da ming gong xi	1
 大明路	da ming lu	1
 大木桥路	da mu qiao lu	1
+大目湾	da mu wan	1
 大南门	da nan men	1
 大坪	da ping	1
 大坪林	da ping lin	1
@@ -794,6 +799,7 @@ use_preset_vocabulary: true
 大兴集	da xing ji	1
 大兴机场	da xing ji chang	1
 大兴新城	da xing xin cheng	1
+大徐	da xu	1
 大学	da xue	1
 大学城	da xue cheng	1
 大学城北	da xue cheng bei	1
@@ -829,6 +835,7 @@ use_preset_vocabulary: true
 大洲	da zhou	1
 大竹林	da zhu lin	1
 大珠山	da zhu shan	1
+丹城	dan cheng	1
 丹凤	dan feng	1
 淡海新市镇	dan hai xin shi zhen	1
 丹鹤	dan he	1
@@ -895,6 +902,7 @@ use_preset_vocabulary: true
 丁家洲	ding jia zhou	1
 丁家庄	ding jia zhuang	1
 丁家庄南	ding jia zhuang nan	1
+鼎美	ding mei	1
 顶埔	ding pu	1
 丁桥	ding qiao	1
 顶溪	ding xi	1
@@ -1011,6 +1019,7 @@ use_preset_vocabulary: true
 东麒路	dong qi lu	1
 东钱湖	dong qian hu	1
 冬青街	dong qing jie	1
+董任	dong ren	1
 东三岔	dong san cha	1
 东沙	dong sha	1
 东沙湖	dong sha hu	1
@@ -1506,6 +1515,7 @@ use_preset_vocabulary: true
 官田	guan tian	1
 观田	guan tian	1
 观象山(市立医院)	guan xiang shan shi li yi yuan	1
+官浔	guan xun	1
 观音桥	guan yin qiao	1
 观音山	guan yin shan	1
 观音塘	guan yin tang	1
@@ -1946,6 +1956,7 @@ use_preset_vocabulary: true
 厚庭	hou ting	1
 后亭	hou ting	1
 后卫寨	hou wei zhai	1
+后溪	hou xi	1
 后盐	hou yan	1
 后屿	hou yu	1
 湖贝	hu bei	1
@@ -2040,6 +2051,7 @@ use_preset_vocabulary: true
 花桥	hua qiao	1
 花桥博览中心	hua qiao bo lan zhong xin	1
 华侨城	hua qiao cheng	1
+华侨大学	hua qiao da xue	1
 华清池	hua qing chi	1
 华清大桥	hua qing da qiao	1
 华庆路	hua qing lu	1
@@ -2266,6 +2278,7 @@ use_preset_vocabulary: true
 济泺路	ji luo lu	1
 集美大道	ji mei da dao	1
 集美软件园	ji mei ruan jian yuan	1
+集美软件园北	ji mei ruan jian yuan bei	1
 集美学村	ji mei xue cun	1
 蓟门桥	ji men qiao	1
 积米崖	ji mi ya	1
@@ -2415,9 +2428,13 @@ use_preset_vocabulary: true
 交大兴业北街	jiao da xing ye bei jie	1
 胶东	jiao dong	1
 胶东机场	jiao dong ji chang	1
+角海路	jiao hai lu	1
 焦化厂	jiao hua chang	1
 焦家湾	jiao jia wan	1
+角江路	jiao jiang lu	1
 滘口	jiao kou	1
+角美东	jiao mei dong	1
+角美中心	jiao mei zhong xin	1
 蕉门	jiao men	1
 角门东	jiao men dong	1
 角门西	jiao men xi	1
@@ -2970,6 +2987,7 @@ use_preset_vocabulary: true
 林场	lin chang	1
 林城西路	lin cheng xi lu	1
 林萃桥	lin cui qiao	1
+林埭	lin dai	1
 临顿路	lin dun lu	1
 临港北路	lin gang bei lu	1
 临港大道	lin gang da dao	1
@@ -3271,6 +3289,7 @@ use_preset_vocabulary: true
 马连洼	ma lian wa	1
 孖岭	ma ling	1
 马陆	ma lu	1
+马銮中心	ma luan zhong xin	1
 马骡圩	ma luo wei	1
 马桥	ma qiao	1
 马青路	ma qing lu	1
@@ -3579,6 +3598,7 @@ use_preset_vocabulary: true
 内大南校区	nei da nan xiao qu	1
 内湖	nei hu	1
 内江路	nei jiang lu	1
+内茂	nei mao	1
 内蒙古博物院	nei meng gu bo wu yuan	1
 内蒙古体育馆	nei meng gu ti yu guan	1
 内蒙古展览馆	nei meng gu zhan lan guan	1
@@ -3804,6 +3824,7 @@ use_preset_vocabulary: true
 钱塘江路(青职学院)	qian tang jiang lu qing zhi xue yuan	1
 前湾	qian wan	1
 前湾公园	qian wan gong yuan	1
+前浯	qian wu	1
 前屿	qian yu	1
 前镇高中	qian zhen gao zhong	1
 前镇之星	qian zhen zhi xing	1
@@ -4725,6 +4746,7 @@ R12后驿	r12 hou yi	1
 汤山	tang shan	1
 塘铁桥	tang tie qiao	1
 塘尾	tang wei	1
+塘溪	tang xi	1
 塘西河公园	tang xi he gong yuan	1
 棠下	tang xia	1
 塘新线	tang xin xian	1
@@ -5100,6 +5122,7 @@ R12后驿	r12 hou yi	1
 温岭第一人民医院	wen ling di yi ren min yi yuan	1
 温岭火车站	wen ling huo che zhan	1
 文旅城	wen lv cheng	1
+文圃路	wen pu lu	1
 温泉大道	wen quan da dao	1
 温泉东	wen quan dong	1
 文三路	wen san lu	1
@@ -5258,6 +5281,7 @@ R12后驿	r12 hou yi	1
 西北桥	xi bei qiao	1
 西北旺	xi bei wang	1
 锡北运河	xi bei yun he	1
+西滨	xi bin	1
 西博城	xi bo cheng	1
 西部大道(西太路口)	xi bu da dao xi tai lu kou	1
 西部汽车站	xi bu qi che zhan	1
@@ -5442,6 +5466,7 @@ R12后驿	r12 hou yi	1
 象山	xiang shan	1
 香山	xiang shan	1
 香山道	xiang shan dao	1
+象山贤庠	xiang shan xian xiang	1
 湘潭北站	xiang tan bei zhan	1
 享堂	xiang tang	1
 香王	xiang wang	1
@@ -5640,6 +5665,7 @@ R12后驿	r12 hou yi	1
 莘庄	xin zhuang	1
 新庄副都心	xin zhuang fu dou xin	1
 兴安路	xing an lu	1
+杏滨	xing bin	1
 星波街	xing bo jie	1
 星城	xing cheng	1
 兴城大道	xing cheng da dao	1
@@ -5674,6 +5700,7 @@ R12后驿	r12 hou yi	1
 兴科大道	xing ke da dao	1
 杏林	xing lin	1
 杏林村	xing lin cun	1
+杏林湾	xing lin wan	1
 兴隆	xing long	1
 兴隆堡	xing long bao	1
 兴隆大街	xing long da jie	1
@@ -5930,6 +5957,7 @@ R12后驿	r12 hou yi	1
 一里井	yi li jing	1
 伊犁路	yi li lu	1
 一六八中学	yi liu ba zhong xue	1
+一农	yi nong	1
 义蓬	yi peng	1
 一品天下	yi pin tian xia	1
 宜山路	yi shan lu	1
@@ -5973,6 +6001,7 @@ R12后驿	r12 hou yi	1
 鄞州公园南	yin zhou gong yuan nan	1
 鄞州客运总站	yin zhou ke yun zong zhan	1
 鄞州区政府	yin zhou qu zheng fu	1
+鄞州咸祥	yin zhou xian xiang	1
 隐珠	yin zhu	1
 迎宾大道	ying bin da dao	1
 迎宾馆	ying bin guan	1
@@ -6180,6 +6209,7 @@ R12后驿	r12 hou yi	1
 云林	yun lin	1
 云林西路	yun lin xi lu	1
 云龙	yun long	1
+云龙火车站	yun long huo che zhan	1
 云南路	yun nan lu	1
 云盘	yun pan	1
 云山路	yun shan lu	1
