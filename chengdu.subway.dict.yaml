@@ -3,7 +3,7 @@
 #
 ---
 name: chengdu.subway
-version: "2026.06.16"
+version: "2026.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -175,6 +175,7 @@ use_preset_vocabulary: true
 龙平路	long ping lu	1
 龙桥路	long qiao lu	1
 龙泉驿	long quan yi	1
+龙泉驿火车站	long quan yi huo che zhan	1
 龙泉驿火车站南	long quan yi huo che zhan nan	1
 龙潭立交	long tan li jiao	1
 龙潭寺	long tan si	1

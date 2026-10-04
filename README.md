@@ -3,7 +3,7 @@
 Rime Subway Dictionary generates custom Rime dictionaries for subway station names.
 
 <!-- generated:start -->
-Last updated: 2026.09.21
+Last updated: 2026.10.05
 
 Supported cities and regions: 58
 

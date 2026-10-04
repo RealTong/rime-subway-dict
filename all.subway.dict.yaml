@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.09.21"
+version: "2026.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -45,6 +45,7 @@ use_preset_vocabulary: true
 安顺路	an shun lu	1
 安亭	an ting	1
 安托山	an tuo shan	1
+安新路	an xin lu	1
 安医大二附院	an yi da er fu yuan	1
 安医一附院北区	an yi yi fu yuan bei qu	1
 安医一附院南区	an yi yi fu yuan nan qu	1
@@ -55,6 +56,7 @@ use_preset_vocabulary: true
 盎孟港	ang meng gang	1
 坳背	ao bei	1
 鳌峰洲	ao feng zhou	1
+澳柯玛桥	ao ke ma qiao	1
 奥林匹克公园	ao lin pi ke gong yuan	1
 鳌山卫	ao shan wei	1
 奥体东	ao ti dong	1
@@ -720,6 +722,7 @@ use_preset_vocabulary: true
 大郊亭	da jiao ting	1
 大金钟路	da jin zhong lu	1
 大井	da jing	1
+大经路	da jing lu	1
 大剧院	da ju yuan	1
 大军山	da jun shan	1
 大康	da kang	1
@@ -760,6 +763,7 @@ use_preset_vocabulary: true
 大沙地	da sha di	1
 大沙东	da sha dong	1
 大沙田	da sha tian	1
+大山	da shan	1
 大山村	da shan cun	1
 大石	da shi	1
 大石坝	da shi ba	1
@@ -1250,6 +1254,7 @@ use_preset_vocabulary: true
 福德	fu de	1
 妇儿中心	fu er zhong xin	1
 富丰桥	fu feng qiao	1
+富贵山	fu gui shan	1
 富国街	fu guo jie	1
 福海	fu hai	1
 福海西	fu hai xi	1
@@ -1894,6 +1899,7 @@ use_preset_vocabulary: true
 红普南路	hong pu nan lu	1
 红旗厂	hong qi chang	1
 红旗河沟	hong qi he gou	1
+红旗街	hong qi jie	1
 红旗南路	hong qi nan lu	1
 红旗西路	hong qi xi lu	1
 红桥	hong qiao	1
@@ -1909,6 +1915,7 @@ use_preset_vocabulary: true
 洪山广场	hong shan guang chang	1
 洪山路	hong shan lu	1
 洪山坡(妇儿医院)	hong shan po fu er yi yuan	1
+红山新城·玄武花园城	hong shan xin cheng xuan wu hua yuan cheng	1
 虹莘路	hong shen lu	1
 洪盛路	hong sheng lu	1
 红石公园	hong shi gong yuan	1
@@ -2091,6 +2098,7 @@ use_preset_vocabulary: true
 花园大道	hua yuan da dao	1
 花园东路	hua yuan dong lu	1
 花园岗	hua yuan gang	1
+花园路	hua yuan lu	1
 华元路东	hua yuan lu dong	1
 花园桥	hua yuan qiao	1
 花寨	hua zhai	1
@@ -2309,6 +2317,7 @@ use_preset_vocabulary: true
 嘉定北	jia ding bei	1
 嘉定西	jia ding xi	1
 嘉定新城	jia ding xin cheng	1
+夹岗	jia gang	1
 贾河	jia he	1
 嘉禾望岗	jia he wang gang	1
 嘉华路	jia hua lu	1
@@ -2513,6 +2522,7 @@ use_preset_vocabulary: true
 金匮公园	jin kui gong yuan	1
 金兰路	jin lan lu	1
 琎琳	jin lin	1
+金陵石化	jin ling shi hua	1
 锦龙	jin long	1
 金龙湖	jin long hu	1
 金马路	jin ma lu	1
@@ -2766,7 +2776,6 @@ use_preset_vocabulary: true
 科园	ke yuan	1
 科苑	ke yuan	1
 科园大道	ke yuan da dao	1
-科苑经七路	ke yuan jing qi lu	1
 科远路	ke yuan lu	1
 客运北站	ke yun bei zhan	1
 科韵路	ke yun lu	1
@@ -3045,8 +3054,8 @@ use_preset_vocabulary: true
 灵芝	ling zhi	1
 柳隘	liu ai	1
 六堡	liu bao	1
+刘村	liu cun	1
 留村	liu cun	1
-刘村·弘阳家居博览中心	liu cun hong yang jia ju bo lan zhong xin	1
 六道口	liu dao kou	1
 六渡桥	liu du qiao	1
 柳芳	liu fang	1
@@ -3138,6 +3147,7 @@ use_preset_vocabulary: true
 龙埔	long pu	1
 龙桥路	long qiao lu	1
 龙泉驿	long quan yi	1
+龙泉驿火车站	long quan yi huo che zhan	1
 龙泉驿火车站南	long quan yi huo che zhan nan	1
 龙山路	long shan lu	1
 龙山梢	long shan shao	1
@@ -3788,6 +3798,7 @@ use_preset_vocabulary: true
 七桥瓮	qi qiao weng	1
 岐山路	qi shan lu	1
 七莘路	qi shen lu	1
+栖霞山	qi xia shan	1
 七贤岭	qi xian ling	1
 气象台	qi xiang tai	1
 七星岗	qi xing gang	1
@@ -3873,6 +3884,7 @@ use_preset_vocabulary: true
 青岛科大	qing dao ke da	1
 青岛路(法务区)	qing dao lu fa wu qu	1
 青岛站	qing dao zhan	1
+青岛中央法务区(燕儿岛路)	qing dao zhong yang fa wu qu yan er dao lu	1
 清东路	qing dong lu	1
 轻纺城	qing fang cheng	1
 青枫公园	qing feng gong yuan	1
@@ -4264,6 +4276,7 @@ R12后驿	r12 hou yi	1
 盛大	sheng da	1
 圣灯公园	sheng deng gong yuan	1
 省儿童医院新区	sheng er tong yi yuan xin qu	1
+省妇儿中心	sheng fu er zhong xin	1
 圣功医院	sheng gong yi yuan	1
 省骨科医院	sheng gu ke yi yuan	1
 盛海路(世博城)	sheng hai lu shi bo cheng	1
@@ -4293,6 +4306,7 @@ R12后驿	r12 hou yi	1
 生态园区	sheng tai yuan qu	1
 省体育馆	sheng ti yu guan	1
 省体育中心	sheng ti yu zhong xin	1
+省委党校	sheng wei dang xiao	1
 省文化和非遗馆	sheng wen hua he fei yi guan	1
 生物医药基地	sheng wu yi yao ji di	1
 升仙湖	sheng xian hu	1
@@ -4442,6 +4456,7 @@ R12后驿	r12 hou yi	1
 市一医院	shi yi yi yuan	1
 石油大学	shi you da xue	1
 石油路	shi you lu	1
+十月广场	shi yue guang chang	1
 世运	shi yun	1
 石闸	shi zha	1
 市政府	shi zheng fu	1
@@ -4542,6 +4557,7 @@ R12后驿	r12 hou yi	1
 水湾	shui wan	1
 水西	shui xi	1
 顺驰桥	shun chi qiao	1
+顺达路	shun da lu	1
 顺德欢乐海岸	shun de huan le hai an	1
 顺德人民医院	shun de ren min yi yuan	1
 顺德学院站	shun de xue yuan zhan	1
@@ -4937,6 +4953,7 @@ R12后驿	r12 hou yi	1
 通源路	tong yuan lu	1
 通园路南	tong yuan lu nan	1
 通运门	tong yun men	1
+同志街	tong zhi jie	1
 通州北关	tong zhou bei guan	1
 通州北苑	tong zhou bei yuan	1
 桐梓林	tong zi lin	1
@@ -5077,6 +5094,7 @@ R12后驿	r12 hou yi	1
 威宁路	wei ning lu	1
 韦曲南	wei qu nan	1
 微山路	wei shan lu	1
+蔚山路	wei shan lu	1
 卫生局	wei sheng ju	1
 卫生中心	wei sheng zhong xin	1
 唯亭(花桥)	wei ting hua qiao	1
@@ -5520,6 +5538,7 @@ R12后驿	r12 hou yi	1
 萧山国际机场	xiao shan guo ji ji chang	1
 小什字	xiao shen zi	1
 小市	xiao shi	1
+小水清沟	xiao shui qing gou	1
 萧塘	xiao tang	1
 小桃源	xiao tao yuan	1
 小屯	xiao tun	1
@@ -5722,6 +5741,7 @@ R12后驿	r12 hou yi	1
 行天宫	xing tian gong	1
 杏王	xing wang	1
 兴围	xing wei	1
+兴学路	xing xue lu	1
 星耀路	xing yao lu	1
 兴业东路	xing ye dong lu	1
 兴业路	xing ye lu	1
@@ -5729,11 +5749,13 @@ R12后驿	r12 hou yi	1
 星月	xing yue	1
 星月湖	xing yue hu	1
 行政中心	xing zheng zhong xin	1
+兴智街	xing zhi jie	1
 行知路	xing zhi lu	1
 星中路	xing zhong lu	1
 兴筑路	xing zhu lu	1
 幸庄	xing zhuang	1
 兴庄路	xing zhuang lu	1
+雄安路	xiong an lu	1
 熊猫大道(熊猫基地南大门)	xiong mao da dao xiong mao ji di nan da men	1
 雄州	xiong zhou	1
 秀峰路	xiu feng lu	1
@@ -5830,13 +5852,14 @@ R12后驿	r12 hou yi	1
 盐埕埔	yan cheng pu	1
 阎村	yan cun	1
 阎村东	yan cun dong	1
-燕儿岛路	yan er dao lu	1
 燕岗	yan gang	1
 盐官	yan guan	1
 延吉道	yan ji dao	1
 延吉中路	yan ji zhong lu	1
 严家地	yan jia di	1
 闫家沟(小井峪路)	yan jia gou xiao jing yu lu	1
+闫家山	yan jia shan	1
+燕江新城	yan jiang xin cheng	1
 雁鸣湖	yan ming hu	1
 燕南	yan nan	1
 岩内	yan nei	1
@@ -6033,10 +6056,12 @@ R12后驿	r12 hou yi	1
 鹰潭街	ying tan jie	1
 莺桃福德	ying tao fu de	1
 应天大街	ying tian da jie	1
+应天东街	ying tian dong jie	1
 应天门	ying tian men	1
 应天寺	ying tian si	1
 溁湾镇	ying wan zhen	1
 鹦鹉寺公园	ying wu si gong yuan	1
+营苑南路	ying yuan nan lu	1
 映月湖公园	ying yue hu gong yuan	1
 盈中	ying zhong	1
 永安里	yong an li	1
@@ -6180,6 +6205,7 @@ R12后驿	r12 hou yi	1
 鸳鸯	yuan yang	1
 远洋国际中心	yuan yang guo ji zhong xin	1
 岳步	yue bu	1
+越达路	yue da lu	1
 月登阁	yue deng ge	1
 悦港北路	yue gang bei lu	1
 悦港大道	yue gang da dao	1
@@ -6387,6 +6413,7 @@ R12后驿	r12 hou yi	1
 中和	zhong he	1
 中河北路	zhong he bei lu	1
 中河路	zhong he lu	1
+中和桥	zhong he qiao	1
 中华巴洛克街区	zhong hua ba luo ke jie qu	1
 中华东路	zhong hua dong lu	1
 中华门	zhong hua men	1
@@ -6507,6 +6534,7 @@ R12后驿	r12 hou yi	1
 庄桥	zhuang qiao	1
 庄桥火车站	zhuang qiao huo che zhan	1
 状元碑	zhuang yuan bei	1
+卓越大街	zhuo yue da jie	1
 拙政园苏博	zhuo zheng yuan su bo	1
 紫草坞	zi cao wu	1
 子房山	zi fang shan	1

@@ -3,13 +3,14 @@
 #
 ---
 name: qingdao.subway
-version: "2026.06.16"
+version: "2026.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 安顺路	an shun lu	1
 安子	an zi	1
+澳柯玛桥	ao ke ma qiao	1
 鳌山卫	ao shan wei	1
 扒山(滨海学院)	ba shan bin hai xue yuan	1
 北九水	bei jiu shui	1
@@ -25,6 +26,7 @@ use_preset_vocabulary: true
 大埠东	da bu dong	1
 大河东	da he dong	1
 大涧	da jian	1
+大山	da shan	1
 大洋	da yang	1
 大珠山	da zhu shan	1
 登瀛	deng ying	1
@@ -81,7 +83,6 @@ use_preset_vocabulary: true
 劲松三路	jing song san lu	1
 九顶山	jiu ding shan	1
 君峰路	jun feng lu	1
-科苑经七路	ke yuan jing qi lu	1
 枯桃	ku tao	1
 蓝色硅谷	lan se gui gu	1
 琅琊	lang ya	1
@@ -115,6 +116,7 @@ use_preset_vocabulary: true
 青岛九中(幸福小镇)	qing dao jiu zhong xing fu xiao zhen	1
 青岛科大	qing dao ke da	1
 青岛站	qing dao zhan	1
+青岛中央法务区(燕儿岛路)	qing dao zhong yang fa wu qu yan er dao lu	1
 清江路	qing jiang lu	1
 人民会堂	ren min hui tang	1
 瑞金路	rui jin lu	1
@@ -152,17 +154,19 @@ use_preset_vocabulary: true
 小村庄	xiao cun zhuang	1
 小港	xiao gang	1
 小崂山	xiao lao shan	1
+小水清沟	xiao shui qing gou	1
 小寨子	xiao zhai zi	1
 新港山路	xin gang shan lu	1
 信号山(青大附院)	xin hao shan qing da fu yuan	1
 辛屯	xin tun	1
 兴国路	xing guo lu	1
 星海滩路	xing hai tan lu	1
+雄安路	xiong an lu	1
 薛家岛	xue jia dao	1
 薛家泊子	xue jia po zi	1
 学院路	xue yuan lu	1
 延安三路	yan an san lu	1
-燕儿岛路	yan er dao lu	1
+闫家山	yan jia shan	1
 隐珠	yin zhu	1
 永年路	yong nian lu	1
 永平路	yong ping lu	1

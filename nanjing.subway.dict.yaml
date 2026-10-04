@@ -3,7 +3,7 @@
 #
 ---
 name: nanjing.subway
-version: "2026.06.16"
+version: "2026.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -46,6 +46,7 @@ use_preset_vocabulary: true
 方家营	fang jia ying	1
 方州广场	fang zhou guang chang	1
 凤凰山公园	feng huang shan gong yuan	1
+富贵山	fu gui shan	1
 福建路	fu jian lu	1
 浮桥	fu qiao	1
 夫子庙	fu zi miao	1
@@ -67,12 +68,14 @@ use_preset_vocabulary: true
 河海大学·佛城西路	he hai da xue fu cheng xi lu	1
 虹桥	hong qiao	1
 红山动物园	hong shan dong wu yuan	1
+红山新城·玄武花园城	hong shan xin cheng xuan wu hua yuan cheng	1
 宏运大道	hong yun da dao	1
 湖北路·二中	hu bei lu er zhong	1
 湖南路·安工大	hu nan lu an gong da	1
 化工园	hua gong yuan	1
 花神庙	hua shen miao	1
 华阳	hua yang	1
+花园路	hua yuan lu	1
 黄梅	huang mei	1
 汇通路	hui tong lu	1
 机场跑道旧址	ji chang pao dao jiu zhi	1
@@ -80,12 +83,14 @@ use_preset_vocabulary: true
 集庆门大街	ji qing men da jie	1
 吉祥庵	ji xiang an	1
 吉印大道	ji yin da dao	1
+夹岗	jia gang	1
 嘉陵江东街	jia ling jiang dong jie	1
 贾西	jia xi	1
 江宁滨江开发区	jiang ning bin jiang kai fa qu	1
 江宁镇	jiang ning zhen	1
 蒋王庙	jiang wang miao	1
 江心洲	jiang xin zhou	1
+金陵石化	jin ling shi hua	1
 金马路	jin ma lu	1
 金牛湖	jin niu hu	1
 静海寺	jing hai si	1
@@ -106,7 +111,7 @@ use_preset_vocabulary: true
 林山	lin shan	1
 灵谷寺·钟灵街	ling gu si zhong ling jie	1
 灵山	ling shan	1
-刘村·弘阳家居博览中心	liu cun hong yang jia ju bo lan zhong xin	1
+刘村	liu cun	1
 六合开发区	liu he kai fa qu	1
 柳洲东路	liu zhou dong lu	1
 龙池	long chi	1
@@ -148,6 +153,7 @@ use_preset_vocabulary: true
 浦口万汇城	pu kou wan hui cheng	1
 麒麟门	qi lin men	1
 七桥瓮	qi qiao weng	1
+栖霞山	qi xia shan	1
 卡子门	qia zi men	1
 前庄	qian zhuang	1
 桥林新城	qiao lin xin cheng	1
@@ -169,6 +175,8 @@ use_preset_vocabulary: true
 石门坎	shi men kan	1
 石碛河	shi qi he	1
 石杨路	shi yang lu	1
+十月广场	shi yue guang chang	1
+市中医院	shi zhong yi yuan	1
 双垅	shuang long	1
 双龙大道	shuang long da dao	1
 太白	tai bai	1
@@ -220,18 +228,23 @@ use_preset_vocabulary: true
 信息工程大学	xin xi gong cheng da xue	1
 星火路	xing huo lu	1
 兴隆大街	xing long da jie	1
+兴学路	xing xue lu	1
+兴智街	xing zhi jie	1
 幸庄	xing zhuang	1
 雄州	xiong zhou	1
 徐庄·苏宁总部	xu zhuang su ning zong bu	1
 玄武门	xuan wu men	1
 学则路	xue ze lu	1
 盐仓桥	yan cang qiao	1
+燕江新城	yan jiang xin cheng	1
 燕子矶	yan zi ji	1
 阳湖	yang hu	1
 杨庄	yang zhuang	1
 尧化门	yao hua men	1
 尧化新村	yao hua xin cun	1
 应天大街	ying tian da jie	1
+应天东街	ying tian dong jie	1
+营苑南路	ying yuan nan lu	1
 永初路	yong chu lu	1
 油坊桥	you fang qiao	1
 雨花经济开发区	yu hua jing ji kai fa qu	1
@@ -249,6 +262,7 @@ use_preset_vocabulary: true
 正方中路	zheng fang zhong lu	1
 钟阜路·市第二医院	zhong fu lu shi di er yi yuan	1
 中国药科大学	zhong guo yao ke da xue	1
+中和桥	zhong he qiao	1
 中华门	zhong hua men	1
 中山湖	zhong shan hu	1
 中山陵·下马坊	zhong shan ling xia ma fang	1

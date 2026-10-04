@@ -3,11 +3,12 @@
 #
 ---
 name: changchun.subway
-version: "2026.08.31"
+version: "2026.10.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+安新路	an xin lu	1
 奥林匹克公园	ao lin pi ke gong yuan	1
 百花园	bai hua yuan	1
 宝相街	bao xiang jie	1
@@ -22,6 +23,7 @@ use_preset_vocabulary: true
 长春站北	chang chun zhan bei	1
 长青	chang qing	1
 长影世纪城	chang ying shi ji cheng	1
+大经路	da jing lu	1
 大学城路	da xue cheng lu	1
 地理所	di li suo	1
 第一汽车制造厂	di yi qi che zhi zao chang	1
@@ -51,6 +53,7 @@ use_preset_vocabulary: true
 海口路	hai kou lu	1
 和安街	he an jie	1
 和平大街	he ping da jie	1
+红旗街	hong qi jie	1
 红嘴子	hong zui zi	1
 湖光路	hu guang lu	1
 湖西桥	hu xi qiao	1
@@ -93,23 +96,29 @@ use_preset_vocabulary: true
 人民广场	ren min guang chang	1
 赛得广场	sai de guang chang	1
 省博物院	sheng bo wu yuan	1
+省妇儿中心	sheng fu er zhong xin	1
 胜利公园	sheng li gong yuan	1
 省税务局	sheng shui wu ju	1
+省委党校	sheng wei dang xiao	1
 市法院	shi fa yuan	1
 世纪广场	shi ji guang chang	1
 世荣路	shi rong lu	1
+市委党校	shi wei dang xiao	1
 市政府	shi zheng fu	1
 双丰	shuang feng	1
+顺达路	shun da lu	1
 腾跃街	teng yue jie	1
 天工路	tian gong lu	1
 天普路	tian pu lu	1
 天青路	tian qing lu	1
 天新路	tian xin lu	1
+同志街	tong zhi jie	1
 万福街	wan fu jie	1
 卫光街	wei guang jie	1
 威海路	wei hai lu	1
 伪满皇宫	wei man huang gong	1
 卫明街	wei ming jie	1
+蔚山路	wei shan lu	1
 卫星广场	wei xing guang chang	1
 文化广场	wen hua guang chang	1
 吴家店	wu jia dian	1
@@ -133,8 +142,10 @@ use_preset_vocabulary: true
 樱花街	ying hua jie	1
 英俊大街	ying jun da jie	1
 英凯大街	ying kai da jie	1
+越达路	yue da lu	1
 朝阳桥	zhao yang qiao	1
 支农大街	zhi nong da jie	1
 职业技术大学	zhi ye ji shu da xue	1
 中东大市场	zhong dong da shi chang	1
+卓越大街	zhuo yue da jie	1
 紫杉路	zi shan lu	1
