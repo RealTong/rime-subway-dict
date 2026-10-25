@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.10.05"
+version: "2026.10.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6295,6 +6295,7 @@ R12后驿	r12 hou yi	1
 张苏滩	zhang su tan	1
 张洼	zhang wa	1
 张兴庄	zhang xing zhuang	1
+长影旧址博物馆	zhang ying jiu zhi bo wu guan	1
 张庄	zhang zhuang	1
 张自忠路	zhang zi zhong lu	1
 招宝山	zhao bao shan	1

@@ -3,7 +3,7 @@
 #
 ---
 name: changchun.subway
-version: "2026.10.05"
+version: "2026.10.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -143,6 +143,7 @@ use_preset_vocabulary: true
 英俊大街	ying jun da jie	1
 英凯大街	ying kai da jie	1
 越达路	yue da lu	1
+长影旧址博物馆	zhang ying jiu zhi bo wu guan	1
 朝阳桥	zhao yang qiao	1
 支农大街	zhi nong da jie	1
 职业技术大学	zhi ye ji shu da xue	1
