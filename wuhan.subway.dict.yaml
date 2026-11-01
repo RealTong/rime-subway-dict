@@ -3,12 +3,13 @@
 #
 ---
 name: wuhan.subway
-version: "2026.06.16"
+version: "2026.11.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 八铺街	ba pu jie	1
+百步亭	bai bu ting	1
 百步亭花园路	bai bu ting hua yuan lu	1
 柏林	bai lin	1
 白沙六路	bai sha liu lu	1
@@ -82,8 +83,12 @@ use_preset_vocabulary: true
 国博中心北	guo bo zhong xin bei	1
 国博中心南	guo bo zhong xin nan	1
 海口三路	hai kou san lu	1
+汉钢	han gang	1
 汉口北	han kou bei	1
 汉口火车站	han kou huo che zhan	1
+汉口站北广场	han kou zhan bei guang chang	1
+汉西路北	han xi lu bei	1
+汉西路南	han xi lu nan	1
 汉西一路	han xi yi lu	1
 汉阳火车站	han yang huo che zhan	1
 汉阳客运站	han yang ke yun zhan	1
@@ -98,10 +103,12 @@ use_preset_vocabulary: true
 宏图大道	hong tu da dao	1
 红霞	hong xia	1
 后湖大道	hou hu da dao	1
+后湖四路	hou hu si lu	1
 湖北大学	hu bei da xue	1
 湖工大	hu gong da	1
 湖口	hu kou	1
 虎泉	hu quan	1
+华安里	hua an li	1
 花山河	hua shan he	1
 花山新城	hua shan xin cheng	1
 华中科技大学	hua zhong ke ji da xue	1
@@ -249,6 +256,7 @@ use_preset_vocabulary: true
 小军山	xiao jun shan	1
 协子河	xie zi he	1
 新城十一路	xin cheng shi yi lu	1
+新春	xin chun	1
 新河街	xin he jie	1
 新路村	xin lu cun	1
 新庙村	xin miao cun	1

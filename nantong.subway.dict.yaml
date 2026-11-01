@@ -3,7 +3,7 @@
 #
 ---
 name: nantong.subway
-version: "2026.06.16"
+version: "2026.11.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25,6 +25,7 @@ use_preset_vocabulary: true
 静海大道	jing hai da dao	1
 南通大学	nan tong da xue	1
 南通东站	nan tong dong zhan	1
+南通火车站	nan tong huo che zhan	1
 南通西站	nan tong xi zhan	1
 能达商务区	neng da shang wu qu	1
 盘香路	pan xiang lu	1

@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.10.26"
+version: "2026.11.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -97,6 +97,7 @@ use_preset_vocabulary: true
 八一广场	ba yi guang chang	1
 八一立交桥	ba yi li jiao qiao	1
 八一南街	ba yi nan jie	1
+百步亭	bai bu ting	1
 百步亭花园路	bai bu ting hua yuan lu	1
 白苍岭	bai cang ling	1
 百草路	bai cao lu	1
@@ -1723,9 +1724,11 @@ use_preset_vocabulary: true
 海珠广场	hai zhu guang chang	1
 汉城路	han cheng lu	1
 汉城南路	han cheng nan lu	1
+汉钢	han gang	1
 汉沽医院	han gu yi yuan	1
 汉口北	han kou bei	1
 汉口火车站	han kou huo che zhan	1
+汉口站北广场	han kou zhan bei guang chang	1
 翰岭	han ling	1
 涵青桥	han qing qiao	1
 韩森寨	han sen zhai	1
@@ -1733,6 +1736,8 @@ use_preset_vocabulary: true
 寒松路	han song lu	1
 汉王陵公园	han wang ling gong yuan	1
 汉溪长隆	han xi chang long	1
+汉西路北	han xi lu bei	1
+汉西路南	han xi lu nan	1
 汉西一路	han xi yi lu	1
 汉阳火车站	han yang huo che zhan	1
 汉阳客运站	han yang ke yun zhan	1
@@ -1951,6 +1956,7 @@ use_preset_vocabulary: true
 后海	hou hai	1
 后河芦·市第八人民医院	hou he lu shi di ba ren min yi yuan	1
 后湖大道	hou hu da dao	1
+后湖四路	hou hu si lu	1
 侯家桥	hou jia qiao	1
 侯家塘	hou jia tang	1
 后劲	hou jin	1
@@ -2008,6 +2014,7 @@ use_preset_vocabulary: true
 虎啸杏	hu xiao xing	1
 湖涌	hu yong	1
 葫洲	hu zhou	1
+华安里	hua an li	1
 华北集团	hua bei ji tuan	1
 华北路	hua bei lu	1
 花博园	hua bo yuan	1
@@ -3565,6 +3572,7 @@ use_preset_vocabulary: true
 南太子湖	nan tai zi hu	1
 南通大学	nan tong da xue	1
 南通东站	nan tong dong zhan	1
+南通火车站	nan tong huo che zhan	1
 南通西站	nan tong xi zhan	1
 南头古城	nan tou gu cheng	1
 南屯	nan tun	1
@@ -5579,6 +5587,7 @@ R12后驿	r12 hou yi	1
 新城区东	xin cheng qu dong	1
 新城十一路	xin cheng shi yi lu	1
 新川路	xin chuan lu	1
+新春	xin chun	1
 新村路	xin cun lu	1
 心岛	xin dao	1
 新店	xin dian	1
