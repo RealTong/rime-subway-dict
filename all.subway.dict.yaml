@@ -3,7 +3,7 @@
 #
 ---
 name: all.subway
-version: "2026.11.02"
+version: "2026.11.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -505,6 +505,7 @@ use_preset_vocabulary: true
 长寿山	chang shou shan	1
 常熟路	chang shu lu	1
 长亭	chang ting	1
+长兴湖	chang xing hu	1
 长兴路	chang xing lu	1
 长阳	chang yang	1
 昌邑路	chang yi lu	1
@@ -589,6 +590,7 @@ use_preset_vocabulary: true
 赤尾	chi wei	1
 赤铸山路	chi zhu shan lu	1
 重光	chong guang	1
+重光立交	chong guang li jiao	1
 崇皇	chong huang	1
 崇明	chong ming	1
 重庆北站北广场	chong qing bei zhan bei guang chang	1
@@ -1261,6 +1263,7 @@ use_preset_vocabulary: true
 福海西	fu hai xi	1
 富华路	fu hua lu	1
 孵化园	fu hua yuan	1
+福惠大道	fu hui da dao	1
 福建路	fu jian lu	1
 福建园	fu jian yuan	1
 富锦路	fu jin lu	1
@@ -1341,6 +1344,7 @@ use_preset_vocabulary: true
 钢都花园	gang dou hua yuan	1
 钢管公司	gang guan gong si	1
 钢红	gang hong	1
+岗集	gang ji	1
 港口村	gang kou cun	1
 港墘	gang qian	1
 港区北	gang qu bei	1
@@ -1649,6 +1653,7 @@ use_preset_vocabulary: true
 国瑞路	guo rui lu	1
 国山路	guo shan lu	1
 果树所	guo shu suo	1
+果塘路	guo tang lu	1
 国体中心	guo ti zhong xin	1
 国威路	guo wei lu	1
 郭巷	guo xiang	1
@@ -2072,6 +2077,7 @@ use_preset_vocabulary: true
 华荣路	hua rong lu	1
 华山	hua shan	1
 花山河	hua shan he	1
+华山街	hua shan jie	1
 华山里	hua shan li	1
 华山路	hua shan lu	1
 华山西路	hua shan xi lu	1
@@ -2490,6 +2496,7 @@ use_preset_vocabulary: true
 金峰	jin feng	1
 金枫路	jin feng lu	1
 金府	jin fu	1
+金福路	jin fu lu	1
 金谷路	jin gu lu	1
 金光门	jin guang men	1
 金桂	jin gui	1
@@ -2642,6 +2649,7 @@ use_preset_vocabulary: true
 靖江路	jing jiang lu	1
 净居寺	jing ju si	1
 经开中心广场	jing kai zhong xin guang chang	1
+井口	jing kou	1
 景荔道	jing li dao	1
 经贸学校	jing mao xue xiao	1
 经贸园区	jing mao yuan qu	1
@@ -2674,6 +2682,7 @@ use_preset_vocabulary: true
 九公里	jiu gong li	1
 九和路	jiu he lu	1
 九华山	jiu hua shan	1
+九家湾	jiu jia wan	1
 九江北	jiu jiang bei	1
 九棵树	jiu ke shu	1
 九里	jiu li	1
@@ -2926,6 +2935,7 @@ use_preset_vocabulary: true
 李巷	li xiang	1
 荔香公园	li xiang gong yuan	1
 立新	li xin	1
+礼学路	li xue lu	1
 鲤鱼池	li yu chi	1
 鲤鱼门	li yu men	1
 鲤鱼湾	li yu wan	1
@@ -2969,6 +2979,7 @@ use_preset_vocabulary: true
 梁湖	liang hu	1
 梁家河	liang jia he	1
 梁家巷	liang jia xiang	1
+两江影视城	liang jiang ying shi cheng	1
 两路口	liang lu kou	1
 亮马桥	liang ma qiao	1
 凉帽山	liang mao shan	1
@@ -3129,6 +3140,7 @@ use_preset_vocabulary: true
 龙凤溪	long feng xi	1
 龙岗	long gang	1
 龙港	long gang	1
+龙港大道	long gang da dao	1
 龙归	long gui	1
 陇海东路	long hai dong lu	1
 陇海西路	long hai xi lu	1
@@ -3236,6 +3248,7 @@ use_preset_vocabulary: true
 鹿苑大道	lu yuan da dao	1
 麓云路	lu yun lu	1
 芦洲	lu zhou	1
+庐州公园	lu zhou gong yuan	1
 陆庄	lu zhuang	1
 伦教	lun jiao	1
 罗村	luo cun	1
@@ -3304,6 +3317,7 @@ use_preset_vocabulary: true
 马栏山	ma lan shan	1
 马沥	ma li	1
 马连洼	ma lian wa	1
+马料地	ma liao di	1
 孖岭	ma ling	1
 马陆	ma lu	1
 马銮中心	ma luan zhong xin	1
@@ -3533,6 +3547,7 @@ use_preset_vocabulary: true
 南李官	nan li guan	1
 南礼士路	nan li shi lu	1
 南联	nan lian	1
+南梁坡	nan liang po	1
 南岭	nan ling	1
 南流	nan liu	1
 南楼	nan lou	1
@@ -3628,6 +3643,7 @@ use_preset_vocabulary: true
 倪家桥	ni jia qiao	1
 倪家堰	ni jia yan	1
 泥洼	ni wa	1
+碾子沟	nian zi gou	1
 宁波大剧院	ning bo da ju yuan	1
 宁波大学	ning bo da xue	1
 宁波火车站	ning bo huo che zhan	1
@@ -3710,6 +3726,7 @@ use_preset_vocabulary: true
 平安里	ping an li	1
 平安桥	ping an qiao	1
 平潮	ping chao	1
+平川路	ping chuan lu	1
 坪地六联	ping di liu lian	1
 屏峰	ping feng	1
 苹果园	ping guo yuan	1
@@ -4323,6 +4340,7 @@ R12后驿	r12 hou yi	1
 省政府	sheng zheng fu	1
 省政府·清风	sheng zheng fu qing feng	1
 省中医院	sheng zhong yi yuan	1
+省中医院西区	sheng zhong yi yuan xi qu	1
 盛庄	sheng zhuang	1
 十八里店	shi ba li dian	1
 十八里河	shi ba li he	1
@@ -4531,6 +4549,7 @@ R12后驿	r12 hou yi	1
 双垅	shuang long	1
 双龙	shuang long	1
 双龙大道	shuang long da dao	1
+双龙湖	shuang long hu	1
 双马	shuang ma	1
 双马街	shuang ma jie	1
 双庙李	shuang miao li	1
@@ -4821,6 +4840,7 @@ R12后驿	r12 hou yi	1
 天安门东	tian an men dong	1
 天安门西	tian an men xi	1
 天保	tian bao	1
+天堡	tian bao	1
 天宝	tian bao	1
 天保街	tian bao jie	1
 田贝	tian bei	1
@@ -5092,6 +5112,8 @@ R12后驿	r12 hou yi	1
 渭河南	wei he nan	1
 韦家碾	wei jia nian	1
 未来城	wei lai cheng	1
+未来大科学城	wei lai da ke xue cheng	1
+未来湖	wei lai hu	1
 未来科学城	wei lai ke xue cheng	1
 未来科学城北	wei lai ke xue cheng bei	1
 未来三路	wei lai san lu	1
@@ -5246,6 +5268,7 @@ R12后驿	r12 hou yi	1
 武林门	wu lin men	1
 五龙口	wu long kou	1
 五路口	wu lu kou	1
+乌鲁木齐站	wu lu mu qi zhan	1
 无名山公园	wu ming shan gong yuan	1
 武宁路	wu ning lu	1
 吴桥	wu qiao	1
@@ -5364,6 +5387,7 @@ R12后驿	r12 hou yi	1
 西南角	xi nan jiao	1
 西南交大	xi nan jiao da	1
 西南楼	xi nan lou	1
+西南政法大学	xi nan zheng fa da xue	1
 西平	xi ping	1
 犀浦	xi pu	1
 西浦路	xi pu lu	1
@@ -5640,6 +5664,7 @@ R12后驿	r12 hou yi	1
 新埔	xin pu	1
 新埔民生	xin pu min sheng	1
 新桥	xin qiao	1
+新桥2号航站楼	xin qiao 2 hao hang zhan lou	1
 新区	xin qu	1
 新区公园	xin qu gong yuan	1
 新荣	xin rong	1
@@ -6443,6 +6468,7 @@ R12后驿	r12 hou yi	1
 中南路	zhong nan lu	1
 中南医院	zhong nan yi yuan	1
 中宁路	zhong ning lu	1
+中桥	zhong qiao	1
 中区	zhong qu	1
 中山	zhong shan	1
 中山八	zhong shan ba	1

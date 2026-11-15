@@ -3,7 +3,7 @@
 #
 ---
 name: hefei.subway
-version: "2026.07.06"
+version: "2026.11.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -27,12 +27,14 @@ use_preset_vocabulary: true
 漕冲	cao chong	1
 长安集	chang an ji	1
 长淮	chang huai	1
+长兴湖	chang xing hu	1
 撮镇	cuo zhen	1
 大东门	da dong men	1
 大连路	da lian lu	1
 大蜀山	da shu shan	1
 大兴集	da xing ji	1
 大学城北	da xue cheng bei	1
+大杨	da yang	1
 稻香楼	dao xiang lou	1
 店埠河	dian bu he	1
 东二十埠	dong er shi bu	1
@@ -50,6 +52,7 @@ use_preset_vocabulary: true
 伏龙	fu long	1
 复兴集	fu xing ji	1
 钢红	gang hong	1
+岗集	gang ji	1
 高王	gao wang	1
 葛大店	ge da dian	1
 葛大店南	ge da dian nan	1
@@ -96,6 +99,7 @@ use_preset_vocabulary: true
 龙塘	long tang	1
 陆军兵种大学	lu jun bing zhong da xue	1
 庐阳经开区	lu yang jing kai qu	1
+庐州公园	lu zhou gong yuan	1
 骆岗	luo gang	1
 马桥	ma qiao	1
 梅冲湖	mei chong hu	1
@@ -130,6 +134,7 @@ use_preset_vocabulary: true
 省立医院北区	sheng li yi yuan bei qu	1
 省文化和非遗馆	sheng wen hua he fei yi guan	1
 省行政中心东	sheng xing zheng zhong xin dong	1
+省中医院西区	sheng zhong yi yuan xi qu	1
 市第三医院	shi di san yi yuan	1
 市儿童医院	shi er tong yi yuan	1
 十里村	shi li cun	1
@@ -161,6 +166,8 @@ use_preset_vocabulary: true
 望湖城南	wang hu cheng nan	1
 望湖城西	wang hu cheng xi	1
 卫岗	wei gang	1
+未来大科学城	wei lai da ke xue cheng	1
+未来湖	wei lai hu	1
 魏庄	wei zhuang	1
 文浍苑	wen hui yuan	1
 五里墩	wu li dun	1
@@ -170,6 +177,7 @@ use_preset_vocabulary: true
 祥和	xiang he	1
 新海大道	xin hai da dao	1
 新海公园	xin hai gong yuan	1
+新桥2号航站楼	xin qiao 2 hao hang zhan lou	1
 幸福坝	xing fu ba	1
 杏花村	xing hua cun	1
 杏花公园	xing hua gong yuan	1
@@ -187,6 +195,7 @@ use_preset_vocabulary: true
 一里井	yi li jing	1
 一六八中学	yi liu ba zhong xue	1
 义兴	yi xing	1
+迎宾大道	ying bin da dao	1
 幼儿师范	you er shi fan	1
 玉兰大道	yu lan da dao	1
 云川公园	yun chuan gong yuan	1

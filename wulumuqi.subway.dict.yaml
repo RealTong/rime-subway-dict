@@ -3,7 +3,7 @@
 #
 ---
 name: wulumuqi.subway
-version: "2026.06.16"
+version: "2026.11.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -14,14 +14,22 @@ use_preset_vocabulary: true
 二道桥	er dao qiao	1
 国际机场	guo ji ji chang	1
 国际机场北	guo ji ji chang bei	1
+华山街	hua shan jie	1
+九家湾	jiu jia wan	1
+马料地	ma liao di	1
 南湖北路	nan hu bei lu	1
 南湖广场	nan hu guang chang	1
+南梁坡	nan liang po	1
 南门	nan men	1
+碾子沟	nian zi gou	1
+农业大学	nong ye da xue	1
+平川路	ping chuan lu	1
 三工	san gong	1
 三屯碑	san tun bei	1
 体育中心	ti yu zhong xin	1
 铁路局	tie lu ju	1
 王家梁	wang jia liang	1
+乌鲁木齐站	wu lu mu qi zhan	1
 小西沟	xiao xi gou	1
 新疆大学	xin jiang da xue	1
 新疆图书馆	xin jiang tu shu guan	1
@@ -29,4 +37,5 @@ use_preset_vocabulary: true
 宣仁墩	xuan ren dun	1
 迎宾路口	ying bin lu kou	1
 植物园	zhi wu yuan	1
+中桥	zhong qiao	1
 中营工	zhong ying gong	1

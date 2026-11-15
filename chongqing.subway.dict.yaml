@@ -3,7 +3,7 @@
 #
 ---
 name: chongqing.subway
-version: "2026.06.16"
+version: "2026.11.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -34,6 +34,7 @@ use_preset_vocabulary: true
 陈家坪	chen jia ping	1
 陈家桥	chen jia qiao	1
 重光	chong guang	1
+重光立交	chong guang li jiao	1
 重庆北站北广场	chong qing bei zhan bei guang chang	1
 重庆北站南广场	chong qing bei zhan nan guang chang	1
 重庆大学	chong qing da xue	1
@@ -73,6 +74,7 @@ use_preset_vocabulary: true
 凤鸣山	feng ming shan	1
 凤西路	feng xi lu	1
 富华路	fu hua lu	1
+福惠大道	fu hui da dao	1
 伏牛溪	fu niu xi	1
 复盛	fu sheng	1
 佛图关	fu tu guan	1
@@ -90,6 +92,7 @@ use_preset_vocabulary: true
 观月路	guan yue lu	1
 光电园	guang dian yuan	1
 国博中心	guo bo zhong xin	1
+果塘路	guo tang lu	1
 果园物流枢纽	guo yuan wu liu shu niu	1
 海棠溪	hai tang xi	1
 海峡路	hai xia lu	1
@@ -131,12 +134,14 @@ use_preset_vocabulary: true
 江津高铁	jiang jin gao tie	1
 较场口	jiao chang kou	1
 金鳌山	jin ao shan	1
+金福路	jin fu lu	1
 金家湾	jin jia wan	1
 金建路	jin jian lu	1
 金山寺	jin shan si	1
 金童路	jin tong lu	1
 金渝	jin yu	1
 金竹	jin zhu	1
+井口	jing kou	1
 九公里	jiu gong li	1
 九龙园	jiu long yuan	1
 九曲河	jiu qu he	1
@@ -150,9 +155,11 @@ use_preset_vocabulary: true
 礼嘉	li jia	1
 李家坪	li jia ping	1
 李家沱大桥	li jia tuo da qiao	1
+礼学路	li xue lu	1
 鲤鱼池	li yu chi	1
 李子坝	li zi ba	1
 莲花	lian hua	1
+两江影视城	liang jiang ying shi cheng	1
 两路口	liang lu kou	1
 烈士墓	lie shi mu	1
 临江门	lin jiang men	1
@@ -162,6 +169,7 @@ use_preset_vocabulary: true
 刘家台	liu jia tai	1
 刘家院子	liu jia yuan zi	1
 龙凤溪	long feng xi	1
+龙港大道	long gang da dao	1
 龙头寺	long tou si	1
 龙头寺公园	long tou si gong yuan	1
 龙溪	long xi	1
@@ -217,6 +225,7 @@ use_preset_vocabulary: true
 双凤桥	shuang feng qiao	1
 双福	shuang fu	1
 双龙	shuang long	1
+双龙湖	shuang long hu	1
 四川美术学院	si chuan mei shu xue yuan	1
 四公里	si gong li	1
 思源	si yuan	1
@@ -226,6 +235,7 @@ use_preset_vocabulary: true
 唐家院子	tang jia yuan zi	1
 桃花桥	tao hua qiao	1
 体育公园	ti yu gong yuan	1
+天堡	tian bao	1
 天梨路	tian li lu	1
 天堂堡	tian tang bao	1
 天星桥	tian xing qiao	1
@@ -245,6 +255,7 @@ use_preset_vocabulary: true
 微电园	wei dian yuan	1
 五里店	wu li dian	1
 西南大学	xi nan da xue	1
+西南政法大学	xi nan zheng fa da xue	1
 向家岗	xiang jia gang	1
 享堂	xiang tang	1
 小龙坎	xiao long kan	1
